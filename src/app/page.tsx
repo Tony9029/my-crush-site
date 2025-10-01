@@ -171,7 +171,7 @@ function EventWishes({ events }: { events: Events }) {
 
   if (!msg)
     msg =
-      "📅 Hôm nay chưa có sự kiện đặc biệt, nhưng anh vẫn muốn Bé luôn bình yên và hạnh phúc.";
+      "📅 Hôm nay chưa có sự kiện đặc biệt, mong bé luôn bình yên và hạnh phúc nha thương bé nhiều";
 
   return (
     <div className="text-center text-yellow-700 font-semibold text-lg whitespace-pre-line">
