@@ -98,7 +98,7 @@
     ]
   },
   "homesick": {
-    "label": "Lúc nhớ nhà/nhớ người quan trọng",
+    "label": "Lúc nhớ nhà",
     "emoji": "🏡",
     "letters": [
       "Cục cưng của anh, anh biết em sống tình cảm nên có lẽ sẽ có nhiều lúc nhớ nhà, nhớ người thân, em sẽ thấy trống trải hơn người khác. Vậy thì Bé ơi, đó chính là cơ hội để mình quay về, để được ôm lại những điều mình yêu. Bé hãy thử thu xếp công việc một chút, rồi về nhà tận hưởng cơm mẹ nấu, nghe giọng ba mẹ, để trái tim mình ấm lên ha. Anh biết Bé còn trẻ, còn nhiều thứ phải làm, nhưng thời gian ở bên ba mẹ không phải lúc nào cũng có; sau này có thể Bé sẽ bận rộn hơn nữa. Nên nếu em thấy nhớ thì cứ về quê thôi. Thậm chí Bé thử về bất ngờ 1–2 lần xem sao, anh đoán là ba mẹ sẽ hạnh phúc lắm khi thấy món quà bất ngờ mang tên Bé đó. Anh tin rằng những giây phút nhỏ bé ấy sẽ giúp Bé thấy nhẹ lòng và thoải mái hơn. Và trong những lần không thể về, Bé vẫn có anh ở đây, nhắc em rằng ngoài tình thương của ba mẹ, của chị Hạnh, thì ở đây vẫn có tình thương của anh nữa… chưa bao giờ xa em đâu."
@@ -159,17 +159,6 @@
     "emoji": "🎉",
     "letters": [
       "Cục cưng của anh, chúc mừng Bé nhé! Anh không biết hôm nay em đã làm được điều gì – có thể chỉ là hoàn thành một việc nhỏ trong học tập, công việc, hay đơn giản là vượt qua một ngày khó khăn – nhưng anh tin chắc rằng điều đó rất đáng để ăn mừng. Bé hãy tự thưởng cho bản thân những gì em thích đi, vì em xứng đáng với niềm vui ấy. Đừng coi thường những thành công nhỏ, vì chính những điều bé nhỏ này sẽ kết thành những bước tiến lớn trong cuộc đời. Anh muốn Bé tự hào về chính mình, ngay cả khi đó chỉ là một niềm vui nhỏ thôi. Nhưng anh cũng muốn nhắc em rằng, đây mới chỉ là khởi đầu. Còn nhiều cột mốc tuyệt vời đang chờ Bé chinh phục phía trước. Anh tin rằng với sự cố gắng và bản lĩnh của mình, Bé sẽ còn tiến xa hơn nhiều nữa. Vậy nên, hãy vừa tận hưởng niềm vui nhỏ hôm nay, vừa giữ vững niềm tin để hướng đến những ước mơ lớn hơn ngày mai. Anh tự hào về Bé lắm, cục cưng của anh."
-    ]
-  },
-  "fear": {
-    "label": "Lúc sợ điều sắp tới",
-    "emoji": "📣",
-    "letters": [
-      "Nỗi sợ là bình thường thôi, ai cũng có.",
-      "bémạnh mẽ hơn bétưởng nhiều.",
-      "Hãy hít sâu và tin vào chính mình, Bé nhé.",
-      "Mọi thử thách rồi cũng sẽ qua.",
-      "Anh tin Bé sẽ làm được thôi."
     ]
   },
   "unimportant": {
