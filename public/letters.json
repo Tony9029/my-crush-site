@@ -1,0 +1,266 @@
+{
+  "notgood": {
+    "label": "Lúc cảm thấy bản thân không đủ giỏi",
+    "emoji": "🌱",
+    "letters": [
+      "Bé à, anh biết có lúc em thấy mình chưa đủ giỏi, nhưng với anh em luôn là người đặc biệt và đáng tự hào.",
+      "Em không cần phải hoàn hảo, vì chỉ cần là chính em thôi đã khiến anh thương rất nhiều rồi.",
+      "Mỗi bước đi nhỏ bé em cố gắng đều làm anh cảm thấy ấm áp và khâm phục.",
+      "Người khác có thể nhanh hơn, nhưng hành trình của em mới thật sự đẹp trong lòng anh.",
+      "Anh tin Bé đã mạnh mẽ và tuyệt vời hơn em nghĩ rất nhiều."
+    ]
+  },
+  "notlucky": {
+    "label": "Lúc cảm thấy không đủ may mắn",
+    "emoji": "🍀",
+    "letters": [
+      "Có thể hôm nay Bé thấy mình chưa đủ may mắn, nhưng em chính là điều may mắn nhất đời anh.",
+      "Anh mong những điều nhỏ bé xung quanh luôn làm Bé mỉm cười.",
+      "May mắn không chỉ đến từ bên ngoài, mà còn từ trái tim dịu dàng của em.",
+      "Anh tin rằng kiên trì và hiền lành của Bé sẽ mang lại những điều tốt đẹp.",
+      "Ngày nào đó, em sẽ nhận ra mình chính là món quà của cuộc đời này."
+    ]
+  },
+  "tired": {
+    "label": "Lúc cảm thấy mệt mỏi",
+    "emoji": "😴",
+    "letters": [
+      "Nếu Bé mệt, hãy để anh gửi một cái ôm từ xa, để em thấy nhẹ lòng hơn.",
+      "Mỗi khi em kiệt sức, anh chỉ ước có thể ngồi cạnh và nói rằng: Bé đã làm rất tốt rồi.",
+      "Anh muốn em nghỉ ngơi một chút, vì em xứng đáng với sự dịu dàng.",
+      "Đừng tự trách mình, Bé à. Chỉ cần em còn cố gắng, anh đã tự hào lắm rồi.",
+      "Ngày mai sẽ lại sáng, và anh tin Bé sẽ lại mỉm cười."
+    ]
+  },
+  "nottrusted": {
+    "label": "Lúc cảm thấy không được tin tưởng",
+    "emoji": "🤝",
+    "letters": [
+      "Bé ơi, nếu có ai không tin em, thì vẫn còn anh, người luôn tin tưởng và thương em vô điều kiện.",
+      "Anh biết em chân thành, và đó mới là điều quan trọng.",
+      "Thời gian sẽ chứng minh tất cả nỗ lực của Bé là thật.",
+      "Đừng để sự nghi ngờ của người khác làm em buồn, vì trong mắt anh em luôn sáng rực rỡ.",
+      "Tin rằng Bé xứng đáng được yêu thương và trân trọng."
+    ]
+  },
+  "selfdoubt": {
+    "label": "Lúc hoài nghi về chính mình",
+    "emoji": "🪞",
+    "letters": [
+      "Có lúc Bé hoài nghi, nhưng anh chỉ muốn nhắc em: em đã đi được rất xa rồi.",
+      "Cảm xúc nhất thời không bao giờ định nghĩa được em là ai.",
+      "Bé luôn xứng đáng được thương, ngay cả khi em nghĩ mình chưa đủ.",
+      "Hoài nghi chỉ là tạm thời, niềm tin vào em trong anh thì mãi mãi.",
+      "Anh tin em nhiều hơn em tin chính mình."
+    ]
+  },
+  "late": {
+    "label": "Lúc thức khuya",
+    "emoji": "🌙",
+    "letters": [
+      "Khuya rồi, Bé ngủ đi nhé. Anh không muốn em phải mệt mỏi thêm.",
+      "Ngày mai sẽ đẹp hơn nếu đêm nay em chịu nghỉ sớm.",
+      "Một giấc ngủ ngon là món quà Bé nên tự tặng cho mình.",
+      "Anh biết khuya dễ khiến em nghĩ ngợi, nhưng sáng mai trời sẽ lại xanh.",
+      "Ngủ ngoan đi Bé, để mai anh còn thấy nụ cười của em."
+    ]
+  },
+  "skipmeal": {
+    "label": "Lúc lười ăn",
+    "emoji": "🍲",
+    "letters": [
+      "Bé à, đừng bỏ bữa, em quan trọng hơn bất kỳ lý do nào.",
+      "Anh chỉ mong em ăn uống đầy đủ để luôn khỏe mạnh.",
+      "Cơ thể em xứng đáng được yêu thương, cũng như trái tim em vậy.",
+      "Đừng để cái bụng đói làm Bé thêm mệt mỏi nhé.",
+      "Ăn một chút thôi cũng đủ để anh yên lòng rồi."
+    ]
+  },
+  "giveup": {
+    "label": "Lúc muốn bỏ cuộc",
+    "emoji": "🔥",
+    "letters": [
+      "Bé ơi, nhớ lại lý do em bắt đầu, nó vẫn ở đó cùng em.",
+      "Khó khăn không có nghĩa là hết hy vọng.",
+      "Em đã đi xa thế này rồi, đừng dừng lại nhé.",
+      "Một bước nhỏ thôi cũng đã là tiến về phía trước.",
+      "Anh tin Bé đủ mạnh mẽ để tiếp tục."
+    ]
+  },
+  "lonely": {
+    "label": "Lúc thấy cô đơn, trống rỗng",
+    "emoji": "💌",
+    "letters": [
+      "Cô đơn không có nghĩa là Bé một mình, vì trong lòng anh lúc nào cũng có em.",
+      "Em luôn đáng được thương, ngay cả khi em không cảm thấy thế.",
+      "Có những người nhớ và nghĩ về em nhiều hơn em tưởng.",
+      "Dù Bé thấy trống rỗng, anh vẫn thấy em thật quý giá.",
+      "Em chưa từng vô hình trong thế giới của anh."
+    ]
+  },
+  "rejection": {
+    "label": "Lúc bị từ chối/thất bại",
+    "emoji": "📉",
+    "letters": [
+      "Một lần thất bại không bao giờ làm Bé kém đi trong mắt anh.",
+      "Thất bại chỉ là bước đệm để em thành công hơn thôi.",
+      "Còn rất nhiều cơ hội đang đợi em phía trước.",
+      "Anh tự hào vì Bé đã dám thử, dám bước đi.",
+      "Em vẫn là người tuyệt vời trong lòng anh, như trước."
+    ]
+  },
+  "pressure": {
+    "label": "Lúc áp lực học tập/công việc",
+    "emoji": "📚",
+    "letters": [
+      "Áp lực chỉ chứng tỏ em đang tiến về phía trước.",
+      "Em không cần phải hoàn hảo, chỉ cần cố gắng thôi là đủ.",
+      "Hãy cho bản thân một chút nghỉ ngơi, Bé à.",
+      "Mọi chuyện sẽ ổn khi em làm từng bước nhỏ.",
+      "Anh tin em làm được, vì Bé đã rất kiên cường."
+    ]
+  },
+  "conflict": {
+    "label": "Lúc xích mích với người thân/bạn bè",
+    "emoji": "🫂",
+    "letters": [
+      "Một lần cãi nhau không thể xóa đi hết thương yêu.",
+      "Một lời xin lỗi hay một cái ôm có thể chữa lành rất nhiều.",
+      "Hãy cho nhau thời gian để nguôi giận, Bé nhé.",
+      "Đừng quên em đã từng quan trọng với họ thế nào.",
+      "Tình thương luôn vượt qua giận dỗi."
+    ]
+  },
+  "homesick": {
+    "label": "Lúc nhớ nhà/nhớ người quan trọng",
+    "emoji": "🏡",
+    "letters": [
+      "Nhớ nhà chỉ vì nơi đó có yêu thương dành cho em.",
+      "Khoảng cách không bao giờ làm giảm đi tình cảm.",
+      "Bé luôn mang một phần mái ấm trong tim mình.",
+      "Người em nhớ chắc chắn cũng đang nhớ em.",
+      "Rồi sẽ có ngày Bé được ôm lại tất cả."
+    ]
+  },
+  "waiting": {
+    "label": "Lúc chờ kết quả quan trọng",
+    "emoji": "⏳",
+    "letters": [
+      "Chờ đợi có thể dài, nhưng em đã làm hết sức rồi.",
+      "Kết quả không bao giờ định nghĩa được giá trị của Bé.",
+      "Thư giãn một chút, để lòng nhẹ hơn khi chờ đợi.",
+      "Dù kết quả thế nào, anh vẫn tự hào về em.",
+      "Điều tốt đẹp rồi sẽ đến với Bé."
+    ]
+  },
+  "compare": {
+    "label": "Lúc tự so sánh với người khác",
+    "emoji": "⚖️",
+    "letters": [
+      "So sánh chỉ khiến Bé quên mất giá trị thật sự của mình.",
+      "Em có hành trình riêng, không ai thay thế được.",
+      "Mỗi người đều có lúc nở hoa, và em cũng vậy.",
+      "Hãy nhìn vào sự tiến bộ của chính em thôi.",
+      "Trong mắt anh, Bé đã tuyệt vời rồi."
+    ]
+  },
+  "misunderstood": {
+    "label": "Lúc thấy không ai hiểu mình",
+    "emoji": "🌀",
+    "letters": [
+      "Không ai có thể hiểu Bé 100%, nhưng điều đó không sao.",
+      "Anh luôn muốn lắng nghe những điều Bé giữ trong lòng.",
+      "Em có quyền được chia sẻ nỗi buồn của mình.",
+      "Một ngày nào đó, Bé sẽ gặp người thật sự thấu hiểu.",
+      "Trong lúc này, anh mong em nhớ rằng em xứng đáng được thương."
+    ]
+  },
+  "sick": {
+    "label": "Lúc ốm/không khỏe",
+    "emoji": "🤒",
+    "letters": [
+      "Khi em mệt, hãy cho bản thân nghỉ ngơi thật nhiều.",
+      "Đừng quên uống nước và chăm sóc bản thân nhé.",
+      "Cơ thể em cần sự dịu dàng, cũng như trái tim em vậy.",
+      "Mệt mỏi sẽ qua, Bé sẽ khỏe lại thôi.",
+      "Giữ gìn sức khỏe vì em quan trọng với anh lắm."
+    ]
+  },
+  "badluck": {
+    "label": "Lúc gặp xui xẻo liên tiếp",
+    "emoji": "☔",
+    "letters": [
+      "Ngày xui nào rồi cũng sẽ qua thôi, Bé à.",
+      "Đừng để vài điều không may làm em mất niềm tin.",
+      "Em vẫn còn rất nhiều cơ hội tốt ở phía trước.",
+      "Coi như thử thách để em mạnh mẽ hơn.",
+      "Trời sẽ lại sáng sau cơn mưa."
+    ]
+  },
+  "argument": {
+    "label": "Lúc sau tranh cãi/tổn thương",
+    "emoji": "💔",
+    "letters": [
+      "Một lần tranh cãi không có nghĩa là hết yêu thương.",
+      "Tổn thương rồi sẽ lành nếu có sự dịu dàng.",
+      "Một lời xin lỗi chân thành sẽ chữa lành rất nhiều.",
+      "Hãy cho nhau cơ hội để hiểu nhau hơn.",
+      "Em xứng đáng được kết nối dịu dàng."
+    ]
+  },
+  "cantcry": {
+    "label": "Lúc muốn khóc mà không khóc được",
+    "emoji": "🌧️",
+    "letters": [
+      "Không khóc không có nghĩa là Bé không đau.",
+      "Em có quyền yếu đuối và có cảm xúc.",
+      "Nếu không thể khóc, hãy viết ra để lòng nhẹ hơn.",
+      "Nước mắt có thể đến muộn, nhưng cảm xúc thì thật.",
+      "Rồi em sẽ thấy nhẹ nhõm, anh tin thế."
+    ]
+  },
+  "lost": {
+    "label": "Lúc mất phương hướng",
+    "emoji": "🧭",
+    "letters": [
+      "Ai cũng có lúc không biết đi đâu về đâu.",
+      "Mất phương hướng chỉ là tạm thời thôi, Bé à.",
+      "Hãy dừng lại một chút và lắng nghe chính mình.",
+      "Rồi em sẽ tìm thấy con đường của riêng em.",
+      "Anh tin rằng Bé sẽ ổn thôi."
+    ]
+  },
+  "smallwin": {
+    "label": "Lúc có thành công nhỏ",
+    "emoji": "🎉",
+    "letters": [
+      "Chúc mừng Bé với bước tiến này!",
+      "Mỗi thành công đều đáng để ăn mừng, dù nhỏ.",
+      "Đừng coi nhẹ những gì em vừa đạt được.",
+      "Anh tự hào về em nhiều lắm.",
+      "Bé xứng đáng với niềm vui này."
+    ]
+  },
+  "fear": {
+    "label": "Lúc sợ điều sắp tới",
+    "emoji": "📣",
+    "letters": [
+      "Nỗi sợ là bình thường thôi, ai cũng có.",
+      "Em mạnh mẽ hơn em tưởng nhiều.",
+      "Hãy hít sâu và tin vào chính mình, Bé nhé.",
+      "Mọi thử thách rồi cũng sẽ qua.",
+      "Anh tin Bé sẽ làm được thôi."
+    ]
+  },
+  "unimportant": {
+    "label": "Lúc thấy mình không quan trọng",
+    "emoji": "💖",
+    "letters": [
+      "Bé quan trọng hơn em nghĩ nhiều lắm.",
+      "Thế giới này may mắn vì có em.",
+      "Trong mắt anh, em luôn là ánh sáng dịu dàng.",
+      "Em xứng đáng với tất cả yêu thương chân thành.",
+      "Bé chưa bao giờ là không quan trọng cả."
+    ]
+  }
+}
