@@ -171,7 +171,7 @@ function EventWishes({ events }: { events: Events }) {
 
   if (!msg)
     msg =
-      "📅 Trung thu này chúc bé thật vui vẻ và hạnh phúc thương bé rất nhiều ";
+      "📅 Chúc né một ngày vui vẻ năng suất, có j bê chụp locket anh với ha lâu ùi ko biết bé như nào,nhé bé quá đi mấtttt ";
 
   return (
     <div className="text-center text-yellow-700 font-semibold text-lg whitespace-pre-line">
