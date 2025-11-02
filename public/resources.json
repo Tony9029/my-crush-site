@@ -1,0 +1,18 @@
+{
+  "essays": [
+    {
+      "title": "Essay outline template (Google Doc)",
+      "url": "https://docs.google.com/",
+      "note": "Mở bản copy để chỉnh"
+    },
+    { "title": "Personal Statement tips", "url": "https://www.commonapp.org/" }
+  ],
+  "tools": [
+    {
+      "title": "Thư viện tài liệu học thuật",
+      "url": "https://scholar.google.com",
+      "note": "Tìm tài liệu tham khảo"
+    },
+    { "title": "Grammar checker", "url": "https://languagetool.org" }
+  ]
+}

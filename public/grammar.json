@@ -1,0 +1,20 @@
+[
+  {
+    "q": "Chọn thì đúng: I ____ dinner when she called.",
+    "choices": ["was cooking", "am cooking", "have cooked", "cook"],
+    "answer": 0,
+    "explain": "Hành động đang diễn ra trong quá khứ bị gián đoạn → Past Continuous."
+  },
+  {
+    "q": "Điền mạo từ đúng: He is ___ honest man.",
+    "choices": ["a", "an", "the", "no article"],
+    "answer": 1,
+    "explain": "Âm bắt đầu là /ɒ/ → dùng 'an'."
+  },
+  {
+    "q": "Câu điều kiện loại 2: If I ____ time, I ____ travel more.",
+    "choices": ["have / will", "had / would", "had / will", "have / would"],
+    "answer": 1,
+    "explain": "Loại 2: If + V2, would + V."
+  }
+]
