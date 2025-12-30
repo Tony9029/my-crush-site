@@ -1,30 +1,2067 @@
 [
   {
-    "word": "serendipity",
-    "phonetic": "/ˌser.ənˈdɪp.ə.ti/",
-    "meaningVi": "duyên may bất ngờ, tìm thấy điều tốt đẹp ngoài dự tính",
-    "example": "It was pure serendipity that we met."
+    "word": "Abide by",
+    "phonetic": "/ə'baid/",
+    "meaningVi": "Tuân thủ, chịu theo",
+    "example": "The two parties agreed to abide by the judge's decision.",
+    "category": "toeic-contracts"
   },
   {
-    "word": "resilient",
-    "phonetic": "/rɪˈzɪl.jənt/",
-    "meaningVi": "kiên cường, bật lại sau khó khăn",
-    "example": "Be resilient in the face of challenges."
+    "word": "Agreement",
+    "phonetic": "/ə'gri:mənt/",
+    "meaningVi": "Hợp đồng, sự thỏa thuận",
+    "example": "According to the agreement, the caterer will also supply the flowers.",
+    "category": "toeic-contracts"
   },
   {
-    "word": "meticulous",
-    "phonetic": "/məˈtɪk.jə.ləs/",
-    "meaningVi": "tỉ mỉ, kỹ càng",
-    "example": "She keeps meticulous notes."
+    "word": "Assurance",
+    "phonetic": "/ə'ʃuərəns/",
+    "meaningVi": "Sự cam đoan, bảo đảm",
+    "example": "The sales associate gave his assurance that the laptop would be ready.",
+    "category": "toeic-contracts"
   },
   {
-    "word": "eloquent",
-    "phonetic": "/ˈel.ə.kwənt/",
-    "meaningVi": "hùng biện, nói viết thuyết phục"
+    "word": "Cancellation",
+    "phonetic": "/,kænse'leiʃn/",
+    "meaningVi": "Sự hủy bỏ",
+    "example": "The cancellation clause appears at the back of the contract.",
+    "category": "toeic-contracts"
   },
   {
-    "word": "camaraderie",
-    "phonetic": "/ˌkæm.əˈrɑː.də.ri/",
-    "meaningVi": "tình bạn, tình đồng đội gắn bó"
+    "word": "Determine",
+    "phonetic": "/di'tə:min/",
+    "meaningVi": "Quyết định, xác định",
+    "example": "After reading the contract, I was still unable to determine if our company was liable.",
+    "category": "toeic-contracts"
+  },
+  {
+    "word": "Engage",
+    "phonetic": "/in'geidʒ/",
+    "meaningVi": "Tham gia, cam kết",
+    "example": "He engaged us in a fascinating discussion about current business law.",
+    "category": "toeic-contracts"
+  },
+  {
+    "word": "Establish",
+    "phonetic": "/is'tæbliʃ/",
+    "meaningVi": "Thiết lập, thành lập",
+    "example": "The merger of the two companies established a powerful new corporation.",
+    "category": "toeic-contracts"
+  },
+  {
+    "word": "Obligate",
+    "phonetic": "/'ɔbligeit/",
+    "meaningVi": "Bắt buộc, ép buộc",
+    "example": "The contractor was obligated by the contract to work 40 hours a week.",
+    "category": "toeic-contracts"
+  },
+  {
+    "word": "Party",
+    "phonetic": "/'pɑ:ti/",
+    "meaningVi": "Bên (trong hợp đồng)",
+    "example": "The parties agreed to a settlement in their contract dispute.",
+    "category": "toeic-contracts"
+  },
+  {
+    "word": "Provision",
+    "phonetic": "/prə'viʒn/",
+    "meaningVi": "Điều khoản, sự cung cấp",
+    "example": "The contract contains a provision to deal with unexpected expenses.",
+    "category": "toeic-contracts"
+  },
+  {
+    "word": "Resolve",
+    "phonetic": "/ri'zɔlv/",
+    "meaningVi": "Giải quyết",
+    "example": "The manager tried to resolve the dispute between the two employees.",
+    "category": "toeic-contracts-"
+  },
+  {
+    "word": "Specific",
+    "phonetic": "/spi'sifik/",
+    "meaningVi": "Cụ thể, đặc trưng",
+    "example": "The customer's complaint was not specific enough.",
+    "category": "toeic-contracts"
+  },
+  {
+    "word": "Attract",
+    "phonetic": "/ə'trækt/",
+    "meaningVi": "Thu hút, hấp dẫn",
+    "example": "The new advertising campaign attracted thousands of new customers.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Compare",
+    "phonetic": "/kəm'peə/",
+    "meaningVi": "So sánh",
+    "example": "The price is high compared to other similar products.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Competition",
+    "phonetic": "/,kɔmpi'tiʃn/",
+    "meaningVi": "Sự cạnh tranh",
+    "example": "In the race for market share, competition is fierce.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Consume",
+    "phonetic": "/kən'sju:m/",
+    "meaningVi": "Tiêu thụ",
+    "example": "The printer consumes more toner than the downstairs printer.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Convince",
+    "phonetic": "/kən'vins/",
+    "meaningVi": "Thuyết phục",
+    "example": "The salesman convinced his customer to buy his entire inventory.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Current",
+    "phonetic": "/'kʌrənt/",
+    "meaningVi": "Hiện tại",
+    "example": "It is important to read current magazines to keep up with business trends.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Fad",
+    "phonetic": "/fæd/",
+    "meaningVi": "Mốt nhất thời",
+    "example": "The mini-skirt was a fad in the 1960s.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Inspiration",
+    "phonetic": "/,inspə'reiʃn/",
+    "meaningVi": "Cảm hứng",
+    "example": "His work is an inspiration to the marketing department.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Market",
+    "phonetic": "/'mɑ:kit/",
+    "meaningVi": "Thị trường",
+    "example": "The market for colored clothing was brisk last year.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Persuasion",
+    "phonetic": "/pə'sweiʒn/",
+    "meaningVi": "Sự thuyết phục",
+    "example": "The seminar teaches techniques of persuasion to increase sales.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Productive",
+    "phonetic": "/prə'dʌktiv/",
+    "meaningVi": "Năng suất, hiệu quả",
+    "example": "Alonzo is excited about his productive staff.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Satisfaction",
+    "phonetic": "/,sætis'fækʃn/",
+    "meaningVi": "Sự hài lòng",
+    "example": "Your satisfaction is guaranteed or you'll get your money back.",
+    "category": "toeic-marketing"
+  },
+  {
+    "word": "Characteristic",
+    "phonetic": "/,kæriktə'ristik/",
+    "meaningVi": "Đặc điểm, đặc trưng",
+    "example": "One characteristic of the store is that it is slow in mailing refund checks.",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Consequence",
+    "phonetic": "/'kɔnsikwəns/",
+    "meaningVi": "Hậu quả, kết quả",
+    "example": "As a consequence of not having a visa, he was detained.",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Consider",
+    "phonetic": "/kən'sidə/",
+    "meaningVi": "Cân nhắc, xem xét",
+    "example": "After considering all the options, we chose this car.",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Cover",
+    "phonetic": "/'kʌvə/",
+    "meaningVi": "Bao phủ, chi trả, bảo hiểm",
+    "example": "Will my medical insurance cover this surgery?",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Expiration",
+    "phonetic": "/,ekspaiə'reiʃn/",
+    "meaningVi": "Sự hết hạn",
+    "example": "Check the expiration date on the warranty.",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Frequently",
+    "phonetic": "/'fri:kwəntli/",
+    "meaningVi": "Thường xuyên",
+    "example": "Appliances frequently come with a one-year warranty.",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Imply",
+    "phonetic": "/im'plai/",
+    "meaningVi": "Ngụ ý, ám chỉ",
+    "example": "The warranty implies that all parts are covered.",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Promise",
+    "phonetic": "/'prɔmis/",
+    "meaningVi": "Hứa, cam kết",
+    "example": "The sales associate promised that our new mattress would arrive by noon.",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Protect",
+    "phonetic": "/prə'tekt/",
+    "meaningVi": "Bảo vệ",
+    "example": "Consumer laws are designed to protect the public against unscrupulous vendors.",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Reputation",
+    "phonetic": "/,repju:'teiʃn/",
+    "meaningVi": "Danh tiếng",
+    "example": "The company knew that the reputation of its products was the most important asset.",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Require",
+    "phonetic": "/ri'kwaiə/",
+    "meaningVi": "Yêu cầu",
+    "example": "The law requires that each item clearly display the warranty information.",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Variety",
+    "phonetic": "/və'raiəti/",
+    "meaningVi": "Sự đa dạng",
+    "example": "There's a variety of standard terms that you'll find in warranties.",
+    "category": "toeic-warranties"
+  },
+  {
+    "word": "Address",
+    "phonetic": "/ə'dres/",
+    "meaningVi": "Giải quyết, trình bày",
+    "example": "Marco's business plan addresses the needs of small business owners.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Avoid",
+    "phonetic": "/ə'vɔid/",
+    "meaningVi": "Tránh",
+    "example": "To avoid going out of business, owners should prepare a proper business plan.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Demonstrate",
+    "phonetic": "/'demənstreit/",
+    "meaningVi": "Chứng minh, giải thích",
+    "example": "The professor demonstrated through a case study that a business plan can impress a lender.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Develop",
+    "phonetic": "/di'veləp/",
+    "meaningVi": "Phát triển",
+    "example": "Lily developed her ideas into a business plan.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Evaluate",
+    "phonetic": "/i'væljueit/",
+    "meaningVi": "Đánh giá",
+    "example": "It's important to evaluate your competition when making a business plan.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Gather",
+    "phonetic": "/'gæðə/",
+    "meaningVi": "Thu thập, tập hợp",
+    "example": "We gathered information for our plan from many sources.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Offer",
+    "phonetic": "/'ɔfə/",
+    "meaningVi": "Đề nghị, cung cấp",
+    "example": "Devon accepted our offer to write the business plan.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Primary",
+    "phonetic": "/'praiməri/",
+    "meaningVi": "Chính, chủ yếu",
+    "example": "The primary concern is to keep costs down.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Risk",
+    "phonetic": "/risk/",
+    "meaningVi": "Rủi ro",
+    "example": "Expanding into a new market is a big risk.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Strategy",
+    "phonetic": "/'strætidʤi/",
+    "meaningVi": "Chiến lược",
+    "example": "A business plan is a strategy for running a business and avoiding problems.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Strong",
+    "phonetic": "/strɔɳ/",
+    "meaningVi": "Mạnh mẽ, kiên cố",
+    "example": "The professor made a strong argument for the value of a good business plan.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Substitution",
+    "phonetic": "/,sʌbsti'tju:ʃn/",
+    "meaningVi": "Sự thay thế",
+    "example": "There is no substitution for hard work and perseverance.",
+    "category": "toeic-planning"
+  },
+  {
+    "word": "Accommodate",
+    "phonetic": "/ə'kɔmədeit/",
+    "meaningVi": "Cung cấp chỗ ở, đáp ứng",
+    "example": "The meeting room was large enough to accommodate the various needs of the groups.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Arrangement",
+    "phonetic": "/ə'reindʤmənt/",
+    "meaningVi": "Sự sắp xếp",
+    "example": "The travel arrangements were taken care of by Sara.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Association",
+    "phonetic": "/ə,sousi'eiʃn/",
+    "meaningVi": "Hiệp hội, đoàn thể",
+    "example": "Local telephone companies formed an association to serve common goals.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Attend",
+    "phonetic": "/ə'tend/",
+    "meaningVi": "Tham dự",
+    "example": "We expect more than 100 members to attend the annual meeting.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Get in touch",
+    "phonetic": "/get in tʌtʃ/",
+    "meaningVi": "Giữ liên lạc",
+    "example": "As soon as we arrive at the hotel, we will get in touch with the manager.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Hold",
+    "phonetic": "/hould/",
+    "meaningVi": "Tổ chức, cầm, nắm",
+    "example": "She holds an annual seminar that is very popular.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Location",
+    "phonetic": "/lou'keiʃn/",
+    "meaningVi": "Địa điểm, vị trí",
+    "example": "The location of the meeting was changed from the Red Room to the Green Room.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Overcrowded",
+    "phonetic": "/,ouvə'kraudid/",
+    "meaningVi": "Quá đông đúc",
+    "example": "Too many poor people are living in overcrowded conditions.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Register",
+    "phonetic": "/'redʤistə/",
+    "meaningVi": "Đăng ký",
+    "example": "Hotels ask all guests to register and give a home address.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Select",
+    "phonetic": "/si'lekt/",
+    "meaningVi": "Lựa chọn",
+    "example": "The conference participants selected the early morning session.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Session",
+    "phonetic": "/'seʃn/",
+    "meaningVi": "Phiên họp, buổi",
+    "example": "The morning sessions tend to fill up first.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Take part in",
+    "phonetic": "/teik pɑ:t in/",
+    "meaningVi": "Tham gia vào",
+    "example": "We could not get enough people to take part in the meeting.",
+    "category": "toeic-conferences"
+  },
+  {
+    "word": "Access",
+    "phonetic": "/'ækses/",
+    "meaningVi": "Truy cập, đường vào",
+    "example": "You need a password to access the database.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Allocate",
+    "phonetic": "/'æləkeit/",
+    "meaningVi": "Phân bổ, cấp cho",
+    "example": "The office manager did not allocate enough funds to buy new software.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Compatible",
+    "phonetic": "/kəm'pætəbl/",
+    "meaningVi": "Tương thích",
+    "example": "This operating system is not compatible with this computer.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Delete",
+    "phonetic": "/di'li:t/",
+    "meaningVi": "Xóa bỏ",
+    "example": "The technician deleted all the data on the disk accidentally.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Display",
+    "phonetic": "/dis'plei/",
+    "meaningVi": "Hiển thị, trưng bày",
+    "example": "The accounting program displays a current balance.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Duplicate",
+    "phonetic": "/'dju:plikit/",
+    "meaningVi": "Sao chép, bản sao",
+    "example": "I think the new word processing program will duplicate the work of the old one.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Failure",
+    "phonetic": "/'feiljə/",
+    "meaningVi": "Sự thất bại, hỏng hóc",
+    "example": "Your failure to inform us about the changed password cost us a day's work.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Figure out",
+    "phonetic": "/'figjə aut/",
+    "meaningVi": "Tìm ra, hiểu ra",
+    "example": "By examining all of the errors, the technicians figured out how to fix the problem.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Ignore",
+    "phonetic": "/ig'nɔ:/",
+    "meaningVi": "Phớt lờ, bỏ qua",
+    "example": "He ignored the 'No Smoking' sign.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Search",
+    "phonetic": "/sə:tʃ/",
+    "meaningVi": "Tìm kiếm",
+    "example": "The computer searched for the file.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Shut down",
+    "phonetic": "/ʃʌt daun/",
+    "meaningVi": "Tắt máy, ngừng hoạt động",
+    "example": "Please shut down the computer before you leave.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Warning",
+    "phonetic": "/'wɔ:niɳ/",
+    "meaningVi": "Sự cảnh báo",
+    "example": "The red flashing light gives a warning to users that the battery is low.",
+    "category": "toeic-computers"
+  },
+  {
+    "word": "Affordable",
+    "phonetic": "/ə'fɔ:dəbl/",
+    "meaningVi": "Phải chăng (giá cả)",
+    "example": "The company produces affordable computers.",
+    "category": "toeic-office-tech"
+  },
+  {
+    "word": "As needed",
+    "phonetic": "/æz 'ni:did/",
+    "meaningVi": "Khi cần thiết",
+    "example": "The courier service will pick up the packages as needed.",
+    "category": "toeic-office-tech"
+  },
+  {
+    "word": "Capacity",
+    "phonetic": "/kə'pæsiti/",
+    "meaningVi": "Sức chứa, dung lượng",
+    "example": "The memory capacity of this computer is huge.",
+    "category": "toeic-office-tech"
+  },
+  {
+    "word": "Durable",
+    "phonetic": "/'djuərəbl/",
+    "meaningVi": "Bền",
+    "example": "This printer is so durable that with a little care it will last another five years.",
+    "category": "toeic-office-tech"
+  },
+  {
+    "word": "Initiative",
+    "phonetic": "/i'niʃiətiv/",
+    "meaningVi": "Sáng kiến, sự chủ động",
+    "example": "Employees are encouraged to take the initiative.",
+    "category": "toeic-office-tech"
+  },
+  {
+    "word": "Physical",
+    "phonetic": "/'fizikəl/",
+    "meaningVi": "Vật chất, thể chất",
+    "example": "The physical presence of the computer expert was comforting.",
+    "category": "toeic-office-tech"
+  },
+  {
+    "word": "Provider",
+    "phonetic": "/prə'vaidə/",
+    "meaningVi": "Nhà cung cấp",
+    "example": "The department was looking for a new internet provider.",
+    "category": "toeic-office-tech"
+  },
+  {
+    "word": "Recur",
+    "phonetic": "/ri'kə:/",
+    "meaningVi": "Tái diễn",
+    "example": "The subject of decreasing sales recurs in each meeting.",
+    "category": "toeic-office-tech"
+  },
+  {
+    "word": "Reduction",
+    "phonetic": "/ri'dʌkʃn/",
+    "meaningVi": "Sự giảm bớt",
+    "example": "The reduction in office staff has made it necessary to automate more functions.",
+    "category": "toeic-office-tech"
+  },
+  {
+    "word": "Stay on top of",
+    "phonetic": "/stei ɔn tɔp ɔv/",
+    "meaningVi": "Nắm bắt tình hình, cập nhật",
+    "example": "In order to stay on top of his employees, he monitors their work daily.",
+    "category": "toeic-office-tech"
+  },
+  {
+    "word": "Stock",
+    "phonetic": "/stɔk/",
+    "meaningVi": "Kho dự trữ, cổ phiếu",
+    "example": "We are out of stock of that item.",
+    "category": "toeic-office-tech"
+  },
+  {
+    "word": "Appreciate",
+    "phonetic": "/ə'pri:ʃieit/",
+    "meaningVi": "Đánh giá cao, cảm kích",
+    "example": "I appreciate your help.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Be exposed to",
+    "phonetic": "/bi: iks'pouzd tu:/",
+    "meaningVi": "Tiếp xúc với",
+    "example": "New employees are exposed to the company's policies during orientation.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Bring in",
+    "phonetic": "/briɳ in/",
+    "meaningVi": "Thuê, mướn, mang lại",
+    "example": "The company decided to bring in a new manager.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Casual",
+    "phonetic": "/'kæʤjuəl/",
+    "meaningVi": "Thân mật, không trang trọng",
+    "example": "Fridays are casual dress days in the office.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Code",
+    "phonetic": "/koud/",
+    "meaningVi": "Quy tắc, mã",
+    "example": "Employees must follow the dress code.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Glimpse",
+    "phonetic": "/glimps/",
+    "meaningVi": "Cái nhìn thoáng qua",
+    "example": "I caught a glimpse of the new boss.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Made of",
+    "phonetic": "/meid ɔv/",
+    "meaningVi": "Làm bằng (chất liệu)",
+    "example": "This desk is made of wood.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Out of",
+    "phonetic": "/aut ɔv/",
+    "meaningVi": "Hết, cạn kiệt",
+    "example": "We are out of paper for the copier.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Outdated",
+    "phonetic": "/aut'deitid/",
+    "meaningVi": "Lỗi thời",
+    "example": "The office equipment is outdated.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Practice",
+    "phonetic": "/'præktis/",
+    "meaningVi": "Sự thực hành, thói quen",
+    "example": "It is common practice to greet customers with a smile.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Reinforce",
+    "phonetic": "/,ri:in'fɔ:s/",
+    "meaningVi": "Tăng cường, củng cố",
+    "example": "The training reinforced the importance of safety.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Verbal",
+    "phonetic": "/'və:bəl/",
+    "meaningVi": "Bằng lời nói",
+    "example": "He gave a verbal warning.",
+    "category": "toeic-office-procedures"
+  },
+  {
+    "word": "Disk",
+    "phonetic": "/disk/",
+    "meaningVi": "Đĩa (máy tính)",
+    "example": "Save your data onto a disk.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Facilitate",
+    "phonetic": "/fə'siliteit/",
+    "meaningVi": "Làm cho dễ dàng, thuận tiện",
+    "example": "The new software facilitates file sharing.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Network",
+    "phonetic": "/'netwə:k/",
+    "meaningVi": "Mạng lưới",
+    "example": "The computer network is down.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Popularity",
+    "phonetic": "/,pɔpju'læriti/",
+    "meaningVi": "Sự phổ biến",
+    "example": "The popularity of smartphones has increased rapidly.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Process",
+    "phonetic": "/'prouses/",
+    "meaningVi": "Quá trình, xử lý",
+    "example": "The computer processes data very fast.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Replace",
+    "phonetic": "/ri'pleis/",
+    "meaningVi": "Thay thế",
+    "example": "We need to replace the old batteries.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Revolution",
+    "phonetic": "/,revə'lu:ʃn/",
+    "meaningVi": "Cuộc cách mạng",
+    "example": "The internet caused a revolution in communication.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Sharp",
+    "phonetic": "/ʃɑ:p/",
+    "meaningVi": "Sắc bén, thông minh",
+    "example": "He has a sharp mind for business.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Skill",
+    "phonetic": "/skil/",
+    "meaningVi": "Kỹ năng",
+    "example": "Computer skills are essential today.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Software",
+    "phonetic": "/'sɔftweə/",
+    "meaningVi": "Phần mềm",
+    "example": "You need to install the latest software.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Storage",
+    "phonetic": "/'stɔ:ridʤ/",
+    "meaningVi": "Lưu trữ",
+    "example": "This device has 1TB of storage.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Technical",
+    "phonetic": "/'teknikəl/",
+    "meaningVi": "Kỹ thuật",
+    "example": "We are experiencing technical difficulties.",
+    "category": "toeic-electronics"
+  },
+  {
+    "word": "Assemble",
+    "phonetic": "/ə'sembl/",
+    "meaningVi": "Tập hợp, lắp ráp",
+    "example": "We assembled the documents for the meeting.",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Beforehand",
+    "phonetic": "/bi'fɔ:hænd/",
+    "meaningVi": "Trước, sớm",
+    "example": "Please let me know beforehand if you can't come.",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Complication",
+    "phonetic": "/,kɔmpli'keiʃn/",
+    "meaningVi": "Sự phức tạp",
+    "example": "There was a complication with the delivery.",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Courier",
+    "phonetic": "/'kuriə/",
+    "meaningVi": "Người đưa thư, chuyển phát nhanh",
+    "example": "We sent the package by courier.",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Express",
+    "phonetic": "/iks'pres/",
+    "meaningVi": "Nhanh, tốc hành",
+    "example": "Please send this letter via express mail.",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Fold",
+    "phonetic": "/fould/",
+    "meaningVi": "Gấp lại",
+    "example": "Fold the letter and put it in the envelope.",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Layout",
+    "phonetic": "/'leiaut/",
+    "meaningVi": "Bố cục",
+    "example": "The layout of the letter was very professional.",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Mention",
+    "phonetic": "/'menʃn/",
+    "meaningVi": "Đề cập",
+    "example": "He mentioned that he would be late.",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Petition",
+    "phonetic": "/pi'tiʃn/",
+    "meaningVi": "Kiến nghị",
+    "example": "They signed a petition to change the law.",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Proof",
+    "phonetic": "/pru:f/",
+    "meaningVi": "Bằng chứng",
+    "example": "Do you have any proof of purchase?",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Registered",
+    "phonetic": "/'redʤistəd/",
+    "meaningVi": "Đã đăng ký, bảo đảm",
+    "example": "Send this via registered mail.",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Revise",
+    "phonetic": "/ri'vaiz/",
+    "meaningVi": "Sửa lại, xem lại",
+    "example": "Please revise the report before printing it.",
+    "category": "toeic-correspondence"
+  },
+  {
+    "word": "Abundant",
+    "phonetic": "/ə'bʌndənt/",
+    "meaningVi": "Dồi dào, nhiều",
+    "example": "The company has an abundant supply of potential candidates.",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Accomplishment",
+    "phonetic": "/ə'kɔmpliʃmənt/",
+    "meaningVi": "Thành tựu, sự hoàn thành",
+    "example": "Her list of accomplishments is impressive.",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Bring together",
+    "phonetic": "/briɳ tə'geðə/",
+    "meaningVi": "Tập hợp, kết nối",
+    "example": "Our goal is to bring together the best talents.",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Candidate",
+    "phonetic": "/'kændidit/",
+    "meaningVi": "Ứng cử viên",
+    "example": "The successful candidate will have strong communication skills.",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Come up with",
+    "phonetic": "/kʌm ʌp wið/",
+    "meaningVi": "Nảy ra (ý tưởng), đưa ra",
+    "example": "He came up with a new way to recruit staff.",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Commensurate",
+    "phonetic": "/kə'menʃərit/",
+    "meaningVi": "Tương xứng",
+    "example": "Salary will be commensurate with experience.",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Match",
+    "phonetic": "/mætʃ/",
+    "meaningVi": "Khớp, xứng nhau",
+    "example": "We need to match the skills of the candidate to the job requirements.",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Profile",
+    "phonetic": "/'proufail/",
+    "meaningVi": "Hồ sơ năng lực, tiểu sử",
+    "example": "The recruiter liked my profile.",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Qualification",
+    "phonetic": "/,kwɔlifi'keiʃn/",
+    "meaningVi": "Trình độ chuyên môn, bằng cấp",
+    "example": "Does he have the necessary qualifications?",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Recruit",
+    "phonetic": "/ri'kru:t/",
+    "meaningVi": "Tuyển dụng",
+    "example": "We need to recruit more engineers.",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Submit",
+    "phonetic": "/səb'mit/",
+    "meaningVi": "Nộp, đệ trình",
+    "example": "Please submit your application by Friday.",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Time-consuming",
+    "phonetic": "/'taim kən'sju:miɳ/",
+    "meaningVi": "Tốn thời gian",
+    "example": "Recruiting is a time-consuming process.",
+    "category": "toeic-recruitment"
+  },
+  {
+    "word": "Conduct",
+    "phonetic": "/kən'dʌkt/",
+    "meaningVi": "Tiến hành, thực hiện",
+    "example": "We conducted the interview in the conference room.",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "Generate",
+    "phonetic": "/'dʤenəreit/",
+    "meaningVi": "Tạo ra, phát ra",
+    "example": "The new training program generated a lot of interest.",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "Hire",
+    "phonetic": "/'haiə/",
+    "meaningVi": "Thuê, tuyển",
+    "example": "We hired a new sales manager yesterday.",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "Keep up with",
+    "phonetic": "/ki:p ʌp wið/",
+    "meaningVi": "Theo kịp",
+    "example": "Employees must keep up with new technology.",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "Look up to",
+    "phonetic": "/luk ʌp tu:/",
+    "meaningVi": "Kính trọng, ngưỡng mộ",
+    "example": "Staff members look up to the director.",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "Mentor",
+    "phonetic": "/'mentɔ:/",
+    "meaningVi": "Người hướng dẫn, cố vấn",
+    "example": "A mentor can help new employees adapt.",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "On track",
+    "phonetic": "/ɔn træk/",
+    "meaningVi": "Đúng tiến độ, đúng hướng",
+    "example": "The project is back on track.",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "Reject",
+    "phonetic": "/'ri:dʤekt/",
+    "meaningVi": "Từ chối, loại bỏ",
+    "example": "We had to reject several applicants.",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "Set up",
+    "phonetic": "/set ʌp/",
+    "meaningVi": "Thiết lập, sắp xếp",
+    "example": "Can you set up a meeting for tomorrow?",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "Success",
+    "phonetic": "/sək'ses/",
+    "meaningVi": "Sự thành công",
+    "example": "The training session was a great success.",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "Training",
+    "phonetic": "/'treiniɳ/",
+    "meaningVi": "Sự đào tạo",
+    "example": "New staff need a week of training.",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "Update",
+    "phonetic": "/ʌp'deit/",
+    "meaningVi": "Cập nhật",
+    "example": "Please update your resume.",
+    "category": "toeic-hiring"
+  },
+  {
+    "word": "Basis",
+    "phonetic": "/'beisis/",
+    "meaningVi": "Nền tảng, cơ sở",
+    "example": "Employees are paid on an hourly basis.",
+    "category": "toeic-salaries"
+  },
+  {
+    "word": "Benefit",
+    "phonetic": "/'benifit/",
+    "meaningVi": "Lợi ích, phúc lợi",
+    "example": "Health insurance is a key benefit.",
+    "category": "toeic-salaries"
+  },
+  {
+    "word": "Compensate",
+    "phonetic": "/'kɔmpensiet/",
+    "meaningVi": "Đền bù, trả công",
+    "example": "You will be compensated for your overtime work.",
+    "category": "toeic-salaries"
+  },
+  {
+    "word": "Delicately",
+    "phonetic": "/'delikitli/",
+    "meaningVi": "Một cách tế nhị, khéo léo",
+    "example": "Salary negotiations must be handled delicately.",
+    "category": "toeic-salaries"
+  },
+  {
+    "word": "Eligible",
+    "phonetic": "/'elidʤəbl/",
+    "meaningVi": "Đủ tư cách, đủ điều kiện",
+    "example": "You are eligible for a bonus this year.",
+    "category": "toeic-salaries"
+  },
+  {
+    "word": "Flexibly",
+    "phonetic": "/'fleksəbli/",
+    "meaningVi": "Linh hoạt",
+    "example": "We can treat the deadline flexibly.",
+    "category": "toeic-salaries"
+  },
+  {
+    "word": "Negotiate",
+    "phonetic": "/ni'gouʃieit/",
+    "meaningVi": "Đàm phán, thương lượng",
+    "example": "You should negotiate your starting salary.",
+    "category": "toeic-salaries"
+  },
+  {
+    "word": "Raise",
+    "phonetic": "/reiz/",
+    "meaningVi": "Sự tăng lương, nâng lên",
+    "example": "She asked the boss for a raise.",
+    "category": "toeic-salaries"
+  },
+  {
+    "word": "Retire",
+    "phonetic": "/ri'taiə/",
+    "meaningVi": "Nghỉ hưu",
+    "example": "He plans to retire at age 65.",
+    "category": "toeic-salaries"
+  },
+  {
+    "word": "Vested",
+    "phonetic": "/'vestid/",
+    "meaningVi": "Được quyền, được trao",
+    "example": "Employees have a vested interest in the company's profit.",
+    "category": "toeic-salaries"
+  },
+  {
+    "word": "Wage",
+    "phonetic": "/weidʤ/",
+    "meaningVi": "Tiền công (thường trả theo giờ/tuần)",
+    "example": "The minimum wage has increased.",
+    "category": "toeic-salaries"
+  },
+  {
+    "word": "Achievement",
+    "phonetic": "/ə'tʃi:vmənt/",
+    "meaningVi": "Thành tích, thành tựu",
+    "example": "Getting promoted was a great achievement.",
+    "category": "toeic-promotions"
+  },
+  {
+    "word": "Contribute",
+    "phonetic": "/kən'tribju:t/",
+    "meaningVi": "Đóng góp",
+    "example": "He contributed significantly to the project's success.",
+    "category": "toeic-promotions"
+  },
+  {
+    "word": "Dedication",
+    "phonetic": "/,dedi'keiʃn/",
+    "meaningVi": "Sự cống hiến",
+    "example": "The director thanked the staff for their dedication.",
+    "category": "toeic-promotions"
+  },
+  {
+    "word": "Look forward to",
+    "phonetic": "/luk 'fɔ:wəd tu:/",
+    "meaningVi": "Mong đợi",
+    "example": "We look forward to seeing the results.",
+    "category": "toeic-promotions"
+  },
+  {
+    "word": "Loyal",
+    "phonetic": "/'lɔiəl/",
+    "meaningVi": "Trung thành",
+    "example": "The company rewards loyal employees.",
+    "category": "toeic-promotions"
+  },
+  {
+    "word": "Merit",
+    "phonetic": "/'merit/",
+    "meaningVi": "Công lao, giá trị",
+    "example": "Promotions are based on merit, not age.",
+    "category": "toeic-promotions"
+  },
+  {
+    "word": "Obvious",
+    "phonetic": "/'ɔbviəs/",
+    "meaningVi": "Rõ ràng, hiển nhiên",
+    "example": "It was obvious that she deserved the promotion.",
+    "category": "toeic-promotions"
+  },
+  {
+    "word": "Productive",
+    "phonetic": "/prə'dʌktiv/",
+    "meaningVi": "Có năng suất",
+    "example": "A productive employee is valuable to the company.",
+    "category": "toeic-promotions"
+  },
+  {
+    "word": "Promote",
+    "phonetic": "/prə'mout/",
+    "meaningVi": "Thăng chức, quảng bá",
+    "example": "He was promoted to manager last month.",
+    "category": "toeic-promotions"
+  },
+  {
+    "word": "Recognition",
+    "phonetic": "/,rekəg'niʃn/",
+    "meaningVi": "Sự công nhận, nhận ra",
+    "example": "He received an award in recognition of his service.",
+    "category": "toeic-promotions"
+  },
+  {
+    "word": "Value",
+    "phonetic": "/'vælju:/",
+    "meaningVi": "Đánh giá cao, coi trọng",
+    "example": "We value your contribution to the team.",
+    "category": "toeic-promotions"
+  },
+  {
+    "word": "Bargain",
+    "phonetic": "/'bɑ:gin/",
+    "meaningVi": "Món hời, mặc cả",
+    "example": "This laptop was a real bargain.",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Bear",
+    "phonetic": "/beə/",
+    "meaningVi": "Chịu đựng",
+    "example": "I can't bear the long lines at the checkout.",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Behavior",
+    "phonetic": "/bi'heivjə/",
+    "meaningVi": "Hành vi, thái độ",
+    "example": "Consumer behavior is changing.",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Checkout",
+    "phonetic": "/'tʃekaut/",
+    "meaningVi": "Quầy thanh toán",
+    "example": "The line at the checkout was very long.",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Comfort",
+    "phonetic": "/'kʌmfət/",
+    "meaningVi": "Sự thoải mái, an ủi",
+    "example": "Shop in the comfort of your own home.",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Expand",
+    "phonetic": "/iks'pænd/",
+    "meaningVi": "Mở rộng",
+    "example": "The store plans to expand its inventory.",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Explore",
+    "phonetic": "/iks'plɔ:/",
+    "meaningVi": "Khám phá, thăm dò",
+    "example": "Explore our website for more deals.",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Item",
+    "phonetic": "/'aitem/",
+    "meaningVi": "Món hàng, mục",
+    "example": "How many items did you buy?",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Mandatory",
+    "phonetic": "/'mændətəri/",
+    "meaningVi": "Bắt buộc",
+    "example": "It is mandatory to show your receipt for returns.",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Merchandise",
+    "phonetic": "/'mə:tʃəndaiz/",
+    "meaningVi": "Hàng hóa",
+    "example": "The shop displays its merchandise attractively.",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Strictly",
+    "phonetic": "/'striktli/",
+    "meaningVi": "Một cách nghiêm ngặt",
+    "example": "Our return policy is strictly enforced.",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Trend",
+    "phonetic": "/trend/",
+    "meaningVi": "Xu hướng",
+    "example": "Online shopping is a growing trend.",
+    "category": "toeic-shopping"
+  },
+  {
+    "word": "Catalog",
+    "phonetic": "/'kætəlɔg/",
+    "meaningVi": "Danh mục sản phẩm",
+    "example": "We ordered office supplies from the catalog.",
+    "category": "toeic-ordering"
+  },
+  {
+    "word": "Fulfill",
+    "phonetic": "/ful'fil/",
+    "meaningVi": "Hoàn thành, đáp ứng",
+    "example": "The company was unable to fulfill the order on time.",
+    "category": "toeic-ordering"
+  },
+  {
+    "word": "Integral",
+    "phonetic": "/'intigrəl/",
+    "meaningVi": "Cần thiết, không thể thiếu",
+    "example": "Good customer service is integral to our success.",
+    "category": "toeic-ordering"
+  },
+  {
+    "word": "Inventory",
+    "phonetic": "/in'ventri/",
+    "meaningVi": "Hàng tồn kho, bản kiểm kê",
+    "example": "We need to check our inventory before ordering more.",
+    "category": "toeic-ordering"
+  },
+  {
+    "word": "Minimize",
+    "phonetic": "/'minimaiz/",
+    "meaningVi": "Giảm thiểu",
+    "example": "We must minimize costs to increase profit.",
+    "category": "toeic-ordering"
+  },
+  {
+    "word": "On hand",
+    "phonetic": "/ɔn hænd/",
+    "meaningVi": "Có sẵn (trong tay)",
+    "example": "Do we have enough paper on hand?",
+    "category": "toeic-ordering"
+  },
+  {
+    "word": "Remember",
+    "phonetic": "/ri'membə/",
+    "meaningVi": "Nhớ",
+    "example": "Did you remember to order the ink cartridges?",
+    "category": "toeic-ordering"
+  },
+  {
+    "word": "Ship",
+    "phonetic": "/ʃip/",
+    "meaningVi": "Gửi hàng, vận chuyển",
+    "example": "The goods were shipped yesterday.",
+    "category": "toeic-ordering"
+  },
+  {
+    "word": "Sufficient",
+    "phonetic": "/sə'fiʃənt/",
+    "meaningVi": "Đủ",
+    "example": "We have sufficient supplies for the next month.",
+    "category": "toeic-ordering"
+  },
+  {
+    "word": "Supply",
+    "phonetic": "/sə'plai/",
+    "meaningVi": "Cung cấp, nguồn cung",
+    "example": "We need a steady supply of raw materials.",
+    "category": "toeic-ordering"
+  },
+  {
+    "word": "Acknowledge",
+    "phonetic": "/ək'nɔlidʤ/",
+    "meaningVi": "Xác nhận, thừa nhận",
+    "example": "Please acknowledge receipt of this package.",
+    "category": "toeic-shipping"
+  },
+  {
+    "word": "Caution",
+    "phonetic": "/'kɔ:ʃn/",
+    "meaningVi": "Sự thận trọng, cảnh báo",
+    "example": "Handle this box with caution; it contains glass.",
+    "category": "toeic-shipping"
+  },
+  {
+    "word": "Date",
+    "phonetic": "/deit/",
+    "meaningVi": "Ngày tháng, hẹn hò",
+    "example": "What is the delivery date?",
+    "category": "toeic-shipping"
+  },
+  {
+    "word": "Description",
+    "phonetic": "/dis'kripʃn/",
+    "meaningVi": "Sự mô tả",
+    "example": "The shipping label needs a clear description of the contents.",
+    "category": "toeic-shipping"
+  },
+  {
+    "word": "Label",
+    "phonetic": "/'leibl/",
+    "meaningVi": "Nhãn, dán nhãn",
+    "example": "Make sure the label is attached securely.",
+    "category": "toeic-shipping"
+  },
+  {
+    "word": "Package",
+    "phonetic": "/'pækidʤ/",
+    "meaningVi": "Gói hàng, bưu kiện",
+    "example": "The package arrived damaged.",
+    "category": "toeic-shipping"
+  },
+  {
+    "word": "Treat",
+    "phonetic": "/tri:t/",
+    "meaningVi": "Đối xử, xử lý",
+    "example": "Treat this package as fragile.",
+    "category": "toeic-shipping"
+  },
+  {
+    "word": "Warehouse",
+    "phonetic": "/'weəhaus/",
+    "meaningVi": "Kho hàng",
+    "example": "The goods are stored in our main warehouse.",
+    "category": "toeic-shipping"
+  },
+  {
+    "word": "Charge",
+    "phonetic": "/tʃɑ:dʤ/",
+    "meaningVi": "Tính phí, sạc pin",
+    "example": "How much do you charge for delivery?",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Compile",
+    "phonetic": "/kəm'pail/",
+    "meaningVi": "Biên soạn, tổng hợp",
+    "example": "I need to compile a list of all unpaid invoices.",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Customer",
+    "phonetic": "/'kʌstəmə/",
+    "meaningVi": "Khách hàng",
+    "example": "The customer complained about the high price.",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Discount",
+    "phonetic": "/'diskaunt/",
+    "meaningVi": "Giảm giá, chiết khấu",
+    "example": "We offer a 10% discount for cash payments.",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Efficient",
+    "phonetic": "/i'fiʃənt/",
+    "meaningVi": "Hiệu quả",
+    "example": "The new billing system is very efficient.",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Estimate",
+    "phonetic": "/'estimit - 'estimeit/",
+    "meaningVi": "Ước tính, bản báo giá",
+    "example": "Can you give me an estimate for the repair?",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Impose",
+    "phonetic": "/im'pouz/",
+    "meaningVi": "Áp đặt",
+    "example": "The government imposed a new tax on luxury goods.",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Mistake",
+    "phonetic": "/mis'teik/",
+    "meaningVi": "Lỗi, sai lầm",
+    "example": "There is a mistake in the invoice.",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Order",
+    "phonetic": "/'ɔ:də/",
+    "meaningVi": "Đơn hàng, ra lệnh",
+    "example": "We have received your order.",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Prompt",
+    "phonetic": "/prɔmpt/",
+    "meaningVi": "Nhanh chóng, ngay lập tức",
+    "example": "Thank you for your prompt payment.",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Rectify",
+    "phonetic": "/'rektifai/",
+    "meaningVi": "Sửa chữa, điều chỉnh",
+    "example": "Please rectify the error on the bill.",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Terms",
+    "phonetic": "/tə:mz/",
+    "meaningVi": "Điều khoản",
+    "example": "The terms of payment are 30 days net.",
+    "category": "toeic-invoices"
+  },
+  {
+    "word": "Adjustment",
+    "phonetic": "/ə'dʤʌstmənt/",
+    "meaningVi": "Sự điều chỉnh",
+    "example": "We made an adjustment to the inventory records.",
+    "category": "toeic-inventory"
+  },
+  {
+    "word": "Automatically",
+    "phonetic": "/,ɔ:tə'mætikəli/",
+    "meaningVi": "Một cách tự động",
+    "example": "The system automatically updates the stock levels.",
+    "category": "toeic-inventory"
+  },
+  {
+    "word": "Crucial",
+    "phonetic": "/'kru:ʃjəl/",
+    "meaningVi": "Cốt yếu, quan trọng",
+    "example": "Accurate inventory is crucial for our business.",
+    "category": "toeic-inventory"
+  },
+  {
+    "word": "Discrepancy",
+    "phonetic": "/dis'krepənsi/",
+    "meaningVi": "Sự sai lệch, không nhất quán",
+    "example": "There is a discrepancy between the physical count and the computer records.",
+    "category": "toeic-inventory"
+  },
+  {
+    "word": "Disturb",
+    "phonetic": "/dis'tə:b/",
+    "meaningVi": "Làm phiền, xáo trộn",
+    "example": "Do not disturb the items on this shelf.",
+    "category": "toeic-inventory"
+  },
+  {
+    "word": "Liability",
+    "phonetic": "/,laiə'biliti/",
+    "meaningVi": "Trách nhiệm pháp lý, khoản nợ",
+    "example": "The company admitted liability for the damage.",
+    "category": "toeic-inventory"
+  },
+  {
+    "word": "Scan",
+    "phonetic": "/skæn/",
+    "meaningVi": "Quét (mã vạch)",
+    "example": "Please scan the barcode of each item.",
+    "category": "toeic-inventory"
+  },
+  {
+    "word": "Subtract",
+    "phonetic": "/səb'trækt/",
+    "meaningVi": "Trừ đi",
+    "example": "Subtract the sold items from the total inventory.",
+    "category": "toeic-inventory"
+  },
+  {
+    "word": "Verify",
+    "phonetic": "/'verifai/",
+    "meaningVi": "Xác minh, kiểm tra",
+    "example": "Please verify the shipment against the invoice.",
+    "category": "toeic-inventory"
+  },
+  {
+    "word": "Balance",
+    "phonetic": "/'bæləns/",
+    "meaningVi": "Số dư (tài khoản), sự cân bằng",
+    "example": "I checked my bank balance online.",
+    "category": "toeic-banking"
+  },
+  {
+    "word": "Borrow",
+    "phonetic": "/'bɔrou/",
+    "meaningVi": "Vay, mượn",
+    "example": "He borrowed money from the bank to buy a house.",
+    "category": "toeic-banking"
+  },
+  {
+    "word": "Cautiously",
+    "phonetic": "/'kɔ:ʃəsli/",
+    "meaningVi": "Một cách thận trọng",
+    "example": "The bank lends money cautiously.",
+    "category": "toeic-banking"
+  },
+  {
+    "word": "Deduct",
+    "phonetic": "/di'dʌkt/",
+    "meaningVi": "Khấu trừ",
+    "example": "The bank deducts a monthly fee from my account.",
+    "category": "toeic-banking"
+  },
+  {
+    "word": "Dividend",
+    "phonetic": "/'dividend/",
+    "meaningVi": "Cổ tức",
+    "example": "Shareholders received a substantial dividend.",
+    "category": "toeic-banking"
+  },
+  {
+    "word": "Mortgage",
+    "phonetic": "/'mɔ:gidʤ/",
+    "meaningVi": "Thế chấp, nợ mua nhà",
+    "example": "They applied for a mortgage to buy their first home.",
+    "category": "toeic-banking"
+  },
+  {
+    "word": "Transaction",
+    "phonetic": "/træn'zækʃn/",
+    "meaningVi": "Giao dịch",
+    "example": "The transaction was completed successfully.",
+    "category": "toeic-banking"
+  },
+  {
+    "word": "Account for",
+    "phonetic": "/əˈkaʊnt fɔːr/",
+    "meaningVi": "Giải thích, chiếm (tỉ lệ)",
+    "example": "Can you account for your absence yesterday?",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Ask for",
+    "phonetic": "/ɑːsk fɔːr/",
+    "meaningVi": "Yêu cầu, xin",
+    "example": "He asked for a pay raise.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Back up",
+    "phonetic": "/bæk ʌp/",
+    "meaningVi": "Ủng hộ, sao lưu (dữ liệu), lùi xe",
+    "example": "Don't forget to back up your files.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Blow up",
+    "phonetic": "/bləʊ ʌp/",
+    "meaningVi": "Nổ tung, bơm căng",
+    "example": "The terrorists tried to blow up the bridge.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Break down",
+    "phonetic": "/breɪk daʊn/",
+    "meaningVi": "Hư hỏng (máy móc), suy sụp (tinh thần)",
+    "example": "Our car broke down on the highway.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Break in",
+    "phonetic": "/breɪk ɪn/",
+    "meaningVi": "Đột nhập, ngắt lời",
+    "example": "Thieves broke in and stole the jewelry.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Break up",
+    "phonetic": "/breɪk ʌp/",
+    "meaningVi": "Chia tay, giải tán",
+    "example": "They decided to break up after 3 years.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Bring about",
+    "phonetic": "/brɪŋ əˈbaʊt/",
+    "meaningVi": "Mang lại, gây ra",
+    "example": "The new laws brought about many changes.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Bring up",
+    "phonetic": "/brɪŋ ʌp/",
+    "meaningVi": "Nuôi nấng, đề cập tới",
+    "example": "She was brought up by her grandmother.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Call back",
+    "phonetic": "/kɔːl bæk/",
+    "meaningVi": "Gọi lại",
+    "example": "I will call you back in 5 minutes.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Call off",
+    "phonetic": "/kɔːl ɒf/",
+    "meaningVi": "Hủy bỏ",
+    "example": "The meeting was called off due to bad weather.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Carry on",
+    "phonetic": "/ˈkæri ɒn/",
+    "meaningVi": "Tiếp tục",
+    "example": "Carry on with your work.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Carry out",
+    "phonetic": "/ˈkæri aʊt/",
+    "meaningVi": "Tiến hành, thực hiện",
+    "example": "The doctors carried out the tests.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Catch up",
+    "phonetic": "/kætʃ ʌp/",
+    "meaningVi": "Bắt kịp, đuổi kịp",
+    "example": "Go ahead, I'll catch up with you later.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Check in",
+    "phonetic": "/tʃek ɪn/",
+    "meaningVi": "Làm thủ tục vào",
+    "example": "Passengers must check in 2 hours before flight.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Check out",
+    "phonetic": "/tʃek aʊt/",
+    "meaningVi": "Làm thủ tục ra, kiểm tra/xem",
+    "example": "Check out this new song!",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Come across",
+    "phonetic": "/kʌm əˈkrɒs/",
+    "meaningVi": "Tình cờ gặp/thấy",
+    "example": "I came across an old photo in the drawer.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Come up with",
+    "phonetic": "/kʌm ʌp wɪð/",
+    "meaningVi": "Nảy ra (ý tưởng)",
+    "example": "He came up with a brilliant plan.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Count on",
+    "phonetic": "/kaʊnt ɒn/",
+    "meaningVi": "Tin cậy vào",
+    "example": "You can always count on me.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Cut down on",
+    "phonetic": "/kʌt daʊn ɒn/",
+    "meaningVi": "Cắt giảm (chi tiêu, ăn uống)",
+    "example": "I'm trying to cut down on sugar.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Dress up",
+    "phonetic": "/dres ʌp/",
+    "meaningVi": "Ăn diện",
+    "example": "You don't need to dress up for the party.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Drop by",
+    "phonetic": "/drɒp baɪ/",
+    "meaningVi": "Ghé qua",
+    "example": "Feel free to drop by anytime.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "End up",
+    "phonetic": "/end ʌp/",
+    "meaningVi": "Kết thúc (ở tình huống không ngờ)",
+    "example": "We ended up eating pizza at home.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Figure out",
+    "phonetic": "/ˈfɪɡər aʊt/",
+    "meaningVi": "Tìm ra, hiểu ra",
+    "example": "I can't figure out how to use this machine.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Fill in",
+    "phonetic": "/fɪl ɪn/",
+    "meaningVi": "Điền vào (phiếu)",
+    "example": "Please fill in this form.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Find out",
+    "phonetic": "/faɪnd aʊt/",
+    "meaningVi": "Tìm ra thông tin",
+    "example": "I need to find out what time the train leaves.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Get along",
+    "phonetic": "/ɡet əˈlɒŋ/",
+    "meaningVi": "Hòa thuận",
+    "example": "I get along well with my colleagues.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Get over",
+    "phonetic": "/ɡet ˈəʊvər/",
+    "meaningVi": "Vượt qua (bệnh, cú sốc)",
+    "example": "It took him years to get over the divorce.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Give up",
+    "phonetic": "/ɡɪv ʌp/",
+    "meaningVi": "Từ bỏ",
+    "example": "Never give up on your dreams.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Go on",
+    "phonetic": "/ɡəʊ ɒn/",
+    "meaningVi": "Tiếp tục",
+    "example": "Please go on with your story.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Grow up",
+    "phonetic": "/ɡrəʊ ʌp/",
+    "meaningVi": "Lớn lên",
+    "example": "I grew up in Hanoi.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Hand in",
+    "phonetic": "/hænd ɪn/",
+    "meaningVi": "Nộp",
+    "example": "Please hand in your reports by Friday.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Hang up",
+    "phonetic": "/hæŋ ʌp/",
+    "meaningVi": "Cúp máy, treo lên",
+    "example": "Don't hang up, I have more to say.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Hold on",
+    "phonetic": "/həʊld ɒn/",
+    "meaningVi": "Giữ máy, chờ chút",
+    "example": "Hold on a minute, I'll check for you.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Keep up with",
+    "phonetic": "/kiːp ʌp wɪð/",
+    "meaningVi": "Theo kịp",
+    "example": "It's hard to keep up with the latest fashion.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Let down",
+    "phonetic": "/let daʊn/",
+    "meaningVi": "Làm thất vọng",
+    "example": "I promise I won't let you down.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Look after",
+    "phonetic": "/lʊk ˈɑːftər/",
+    "meaningVi": "Chăm sóc",
+    "example": "Could you look after my dog?",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Look for",
+    "phonetic": "/lʊk fɔːr/",
+    "meaningVi": "Tìm kiếm",
+    "example": "I am looking for my keys.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Look forward to",
+    "phonetic": "/lʊk ˈfɔːrwərd tuː/",
+    "meaningVi": "Mong đợi",
+    "example": "I look forward to hearing from you.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Look up",
+    "phonetic": "/lʊk ʌp/",
+    "meaningVi": "Tra cứu",
+    "example": "If you don't know the word, look it up in the dictionary.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Make up",
+    "phonetic": "/meɪk ʌp/",
+    "meaningVi": "Trang điểm, bịa chuyện, làm hòa",
+    "example": "They kissed and made up.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Pass away",
+    "phonetic": "/pɑːs əˈweɪ/",
+    "meaningVi": "Qua đời (nói giảm nói tránh)",
+    "example": "His grandfather passed away last night.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Pass out",
+    "phonetic": "/pɑːs aʊt/",
+    "meaningVi": "Ngất xỉu",
+    "example": "It was so hot that she passed out.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Pick up",
+    "phonetic": "/pɪk ʌp/",
+    "meaningVi": "Đón, nhặt lên, học lỏm",
+    "example": "I'll pick you up at 7.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Point out",
+    "phonetic": "/pɔɪnt aʊt/",
+    "meaningVi": "Chỉ ra",
+    "example": "He pointed out the mistake in my report.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Put off",
+    "phonetic": "/pʊt ɒf/",
+    "meaningVi": "Trì hoãn",
+    "example": "Don't put off what you can do today.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Put on",
+    "phonetic": "/pʊt ɒn/",
+    "meaningVi": "Mặc vào, tăng cân",
+    "example": "Put on your coat, it's cold outside.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Put out",
+    "phonetic": "/pʊt aʊt/",
+    "meaningVi": "Dập tắt (lửa)",
+    "example": "Firefighters managed to put out the fire.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Put up with",
+    "phonetic": "/pʊt ʌp wɪð/",
+    "meaningVi": "Chịu đựng",
+    "example": "I can't put up with his rudeness anymore.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Run into",
+    "phonetic": "/rʌn ˈɪntuː/",
+    "meaningVi": "Tình cờ gặp",
+    "example": "I ran into my ex-boyfriend at the supermarket.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Run out of",
+    "phonetic": "/rʌn aʊt əv/",
+    "meaningVi": "Cạn kiệt, hết sạch",
+    "example": "We have run out of milk.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Set up",
+    "phonetic": "/set ʌp/",
+    "meaningVi": "Thiết lập, thành lập",
+    "example": "They set up a new company.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Show off",
+    "phonetic": "/ʃəʊ ɒf/",
+    "meaningVi": "Khoe khoang",
+    "example": "He likes to show off his new car.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Show up",
+    "phonetic": "/ʃəʊ ʌp/",
+    "meaningVi": "Xuất hiện, đến",
+    "example": "She finally showed up at midnight.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Slow down",
+    "phonetic": "/sləʊ daʊn/",
+    "meaningVi": "Chậm lại",
+    "example": "You're driving too fast, slow down!",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Take after",
+    "phonetic": "/teɪk ˈɑːftər/",
+    "meaningVi": "Giống (ai đó trong gia đình)",
+    "example": "She takes after her mother.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Take off",
+    "phonetic": "/teɪk ɒf/",
+    "meaningVi": "Cất cánh, cởi ra, thành công",
+    "example": "The plane took off on time.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Take over",
+    "phonetic": "/teɪk ˈəʊvər/",
+    "meaningVi": "Tiếp quản",
+    "example": "He will take over the business next year.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Take up",
+    "phonetic": "/teɪk ʌp/",
+    "meaningVi": "Bắt đầu (sở thích), chiếm (không gian/thời gian)",
+    "example": "I recently took up yoga.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Throw away",
+    "phonetic": "/θrəʊ əˈweɪ/",
+    "meaningVi": "Vứt đi",
+    "example": "Don't throw away these papers.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Try on",
+    "phonetic": "/traɪ ɒn/",
+    "meaningVi": "Thử (quần áo)",
+    "example": "Can I try on this dress?",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Turn down",
+    "phonetic": "/tɜːn daʊn/",
+    "meaningVi": "Từ chối, vặn nhỏ",
+    "example": "She turned down the job offer.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Turn off",
+    "phonetic": "/tɜːn ɒf/",
+    "meaningVi": "Tắt",
+    "example": "Please turn off the lights.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Turn on",
+    "phonetic": "/tɜːn ɒn/",
+    "meaningVi": "Bật",
+    "example": "Can you turn on the TV?",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Turn up",
+    "phonetic": "/tɜːn ʌp/",
+    "meaningVi": "Xuất hiện, vặn to",
+    "example": "He turned up late as usual.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Use up",
+    "phonetic": "/juːz ʌp/",
+    "meaningVi": "Dùng hết",
+    "example": "We have used up all the sugar.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Wake up",
+    "phonetic": "/weɪk ʌp/",
+    "meaningVi": "Thức dậy",
+    "example": "I wake up at 6 AM every day.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Warm up",
+    "phonetic": "/wɔːm ʌp/",
+    "meaningVi": "Khởi động, làm nóng",
+    "example": "Always warm up before exercising.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Watch out",
+    "phonetic": "/wɒtʃ aʊt/",
+    "meaningVi": "Coi chừng",
+    "example": "Watch out! There's a car coming.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Wear out",
+    "phonetic": "/weər aʊt/",
+    "meaningVi": "Mòn, kiệt sức",
+    "example": "My shoes are worn out.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Work out",
+    "phonetic": "/wɜːk aʊt/",
+    "meaningVi": "Tập thể dục, tìm ra giải pháp",
+    "example": "Everything will work out in the end.",
+    "category": "phrasal-verbs"
+  },
+  {
+    "word": "Write down",
+    "phonetic": "/raɪt daʊn/",
+    "meaningVi": "Viết xuống, ghi chép lại",
+    "example": "Write down the address so you don't forget it.",
+    "category": "phrasal-verbs"
   }
 ]

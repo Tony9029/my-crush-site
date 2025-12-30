@@ -1,20 +1,1012 @@
 [
   {
-    "q": "Chọn thì đúng: I ____ dinner when she called.",
-    "choices": ["was cooking", "am cooking", "have cooked", "cook"],
-    "answer": 0,
-    "explain": "Hành động đang diễn ra trong quá khứ bị gián đoạn → Past Continuous."
+    "id": "chap1-hien-tai-don",
+    "title": "Chương 1.1: Thì Hiện Tại Đơn (Present Simple)",
+    "theory": "I. CẤU TRÚC:\n(+) S + V(s/es)\n(-) S + do/does + not + V\n(?) Do/Does + S + V?\n\nII. CÁCH DÙNG:\n1. Diễn tả chân lý, sự thật hiển nhiên (The sun rises in the East).\n2. Diễn tả thói quen, hành động lặp lại (I usually get up at 6).\n3. Diễn tả năng lực, khả năng (He plays tennis very well).\n4. Lịch trình tàu xe, thời gian biểu (The train leaves at 7 am).\n\nIII. DẤU HIỆU:\n- Always, usually, often, sometimes, seldom, never.\n- Every day/week/month/year.\n- Once/twice/three times a week.",
+    "quiz": [
+      {
+        "q": "The earth ______ around the sun.",
+        "choices": ["move", "moves", "moved", "is moving"],
+        "answer": 1,
+        "explain": "Chân lý hiển nhiên -> Chia hiện tại đơn (Earth số ít thêm s)."
+      },
+      {
+        "q": "We ______ usually ______ breakfast at 7.00.",
+        "choices": ["have / eat", "do / eat", "are / eating", "don't / eat"],
+        "answer": 0,
+        "explain": "Trạng từ 'usually' -> Thói quen -> Hiện tại đơn."
+      }
+    ]
   },
   {
-    "q": "Điền mạo từ đúng: He is ___ honest man.",
-    "choices": ["a", "an", "the", "no article"],
-    "answer": 1,
-    "explain": "Âm bắt đầu là /ɒ/ → dùng 'an'."
+    "id": "chap1-hien-tai-tiep-dien",
+    "title": "Chương 1.2: Thì Hiện Tại Tiếp Diễn (Present Continuous)",
+    "theory": "I. CẤU TRÚC:\n(+) S + am/is/are + V-ing\n(-) S + am/is/are + not + V-ing\n(?) Am/Is/Are + S + V-ing?\n\nII. CÁCH DÙNG:\n1. Đang xảy ra lúc nói (I am learning English now).\n2. Xảy ra xung quanh thời điểm nói (I am reading a good book these days).\n3. Kế hoạch tương lai đã định sẵn (We are flying to Paris tomorrow).\n4. Phàn nàn về thói quen xấu (với 'always'): He is always coming late.\n\nIII. DẤU HIỆU:\n- Now, right now, at the moment, at present.\n- Look!, Listen!, Be quiet!",
+    "quiz": [
+      {
+        "q": "Look! The bus ______.",
+        "choices": ["come", "comes", "is coming", "will come"],
+        "answer": 2,
+        "explain": "Dấu hiệu 'Look!' -> Đang xảy ra -> HT Tiếp diễn."
+      },
+      {
+        "q": "Thinking about the party? You ______ nothing but smile.",
+        "choices": ["do", "are doing", "did", "have done"],
+        "answer": 1,
+        "explain": "Diễn tả hành động đang diễn ra xung quanh lúc nói."
+      }
+    ]
   },
   {
-    "q": "Câu điều kiện loại 2: If I ____ time, I ____ travel more.",
-    "choices": ["have / will", "had / would", "had / will", "have / would"],
-    "answer": 1,
-    "explain": "Loại 2: If + V2, would + V."
+    "id": "chap1-hien-tai-hoan-thanh",
+    "title": "Chương 1.3: Thì Hiện Tại Hoàn Thành (Present Perfect)",
+    "theory": "I. CẤU TRÚC:\n(+) S + have/has + V3/ed\n(-) S + have/has + not + V3/ed\n\nII. CÁCH DÙNG:\n1. Hành động vừa mới xảy ra (I have just finished).\n2. Hành động lặp lại nhiều lần trong QK (I have seen this movie 3 times).\n3. Bắt đầu trong QK kéo dài đến HT (We have lived here for 10 years).\n4. Xảy ra trong QK không rõ thời gian (He has lost his key).\n\nIII. DẤU HIỆU:\n- Just, recently, lately, ever, never, already, yet.\n- Since (mốc TG), For (khoảng TG).\n- So far, up to now.",
+    "quiz": [
+      {
+        "q": "I ______ him since 2010.",
+        "choices": ["know", "knew", "have known", "am knowing"],
+        "answer": 2,
+        "explain": "Có 'since' + mốc thời gian -> HT Hoàn thành."
+      },
+      {
+        "q": "She ______ her homework yet.",
+        "choices": [
+          "didn't finish",
+          "hasn't finished",
+          "won't finish",
+          "doesn't finish"
+        ],
+        "answer": 1,
+        "explain": "'Yet' dùng trong câu phủ định thì HT Hoàn thành."
+      }
+    ]
+  },
+  {
+    "id": "chap1-hien-tai-ht-tiep-dien",
+    "title": "Chương 1.4: HT Hoàn Thành Tiếp Diễn (Pres. Perf. Cont)",
+    "theory": "I. CẤU TRÚC: S + have/has + been + V-ing\n\nII. CÁCH DÙNG:\n- Nhấn mạnh tính LIÊN TỤC của hành động từ quá khứ đến hiện tại.\n- Thường dùng với các động từ chỉ quá trình: wait, learn, live, study, rain, sit...\n\nIII. VÍ DỤ:\n- I have been waiting for you for 3 hours! (Đợi liên tục 3 tiếng, nhấn mạnh sự mệt mỏi/kéo dài).",
+    "quiz": [
+      {
+        "q": "It ______ raining for two hours.",
+        "choices": ["has been", "is", "was", "had been"],
+        "answer": 0,
+        "explain": "Nhấn mạnh trời mưa liên tục trong 2 tiếng -> has been raining."
+      }
+    ]
+  },
+  {
+    "id": "chap1-qua-khu-don",
+    "title": "Chương 1.5: Thì Quá Khứ Đơn (Past Simple)",
+    "theory": "I. CẤU TRÚC:\n(+) S + V2/ed\n(-) S + did + not + V\n(?) Did + S + V?\n\nII. CÁCH DÙNG:\n1. Hành động đã xảy ra và chấm dứt hoàn toàn trong QK (I bought a car yesterday).\n2. Chuỗi hành động liên tiếp trong QK.\n\nIII. DẤU HIỆU:\n- Yesterday, last night/week/month/year.\n- ...ago (2 days ago).\n- In + năm trong QK (In 1990).",
+    "quiz": [
+      {
+        "q": "They ______ to London last summer.",
+        "choices": ["go", "went", "have gone", "were going"],
+        "answer": 1,
+        "explain": "Có 'last summer' -> Quá khứ đơn (V2 của go là went)."
+      },
+      {
+        "q": "When I was a child, I ______ walk to school.",
+        "choices": ["used to", "use to", "am used to", "using to"],
+        "answer": 0,
+        "explain": "Used to + V: Thói quen trong quá khứ."
+      }
+    ]
+  },
+  {
+    "id": "chap1-qua-khu-tiep-dien",
+    "title": "Chương 1.6: Thì Quá Khứ Tiếp Diễn (Past Continuous)",
+    "theory": "I. CẤU TRÚC: S + was/were + V-ing\n\nII. CÁCH DÙNG:\n1. Đang xảy ra tại 1 thời điểm cụ thể trong QK (At 8pm last night, I was watching TV).\n2. Hành động đang xảy ra thì hành động khác xen vào (When I came, they were sleeping).\n3. Hai hành động xảy ra song song (While I was cooking, he was reading).\n\nIII. DẤU HIỆU: At + giờ + thời gian QK, While, When.",
+    "quiz": [
+      {
+        "q": "What ______ you ______ at 7pm yesterday?",
+        "choices": ["did/do", "were/doing", "are/doing", "do/do"],
+        "answer": 1,
+        "explain": "Giờ cụ thể trong quá khứ (7pm yesterday) -> QK Tiếp diễn."
+      },
+      {
+        "q": "While I ______ down the street, I saw her.",
+        "choices": ["walked", "was walking", "am walking", "have walked"],
+        "answer": 1,
+        "explain": "Hành động đang đi (kéo dài) thì nhìn thấy (xen vào)."
+      }
+    ]
+  },
+  {
+    "id": "chap1-qua-khu-hoan-thanh",
+    "title": "Chương 1.7: Thì Quá Khứ Hoàn Thành (Past Perfect)",
+    "theory": "I. CẤU TRÚC: S + had + V3/ed\n\nII. CÁCH DÙNG:\n- Diễn tả hành động xảy ra TRƯỚC một hành động khác trong quá khứ.\n(Hành động trước dùng QKHT, hành động sau dùng QK Đơn).\n\nIII. DẤU HIỆU: Before, After, By the time.\n- Before S + V(qkđ), S + V(qkht).\n- After S + V(qkht), S + V(qkđ).",
+    "quiz": [
+      {
+        "q": "After he ______ his work, he went home.",
+        "choices": ["finish", "finished", "had finished", "has finished"],
+        "answer": 2,
+        "explain": "Xong việc (xảy ra trước) rồi mới về nhà (xảy ra sau) -> had finished."
+      },
+      {
+        "q": "By the time the police arrived, the thief ______.",
+        "choices": ["left", "had left", "has left", "was leaving"],
+        "answer": 1,
+        "explain": "Trộm chạy trước khi cảnh sát tới -> had left."
+      }
+    ]
+  },
+  {
+    "id": "chap1-tuong-lai-don",
+    "title": "Chương 1.8: Thì Tương Lai Đơn (Future Simple)",
+    "theory": "I. CẤU TRÚC: S + will + V\n\nII. CÁCH DÙNG:\n1. Quyết định ngay lúc nói (I will help you).\n2. Dự đoán không có căn cứ (I think it will rain).\n3. Lời hứa, đe dọa (I promise I will behave).\n\nIII. DẤU HIỆU: Tomorrow, next..., soon, I think/hope/promise.",
+    "quiz": [
+      {
+        "q": "I think she ______ the exam.",
+        "choices": ["passes", "will pass", "is passing", "passed"],
+        "answer": 1,
+        "explain": "Dự đoán chủ quan (I think) -> will pass."
+      }
+    ]
+  },
+  {
+    "id": "chap1-tuong-lai-gan",
+    "title": "Chương 1.9: Thì Tương Lai Gần (Near Future)",
+    "theory": "I. CẤU TRÚC: S + am/is/are + going to + V\n\nII. CÁCH DÙNG:\n1. Kế hoạch, dự định có từ trước (I am going to visit mom next week).\n2. Dự đoán có căn cứ rõ ràng (Look at the clouds! It is going to rain).",
+    "quiz": [
+      {
+        "q": "Look at those black clouds! It ______.",
+        "choices": ["will rain", "is going to rain", "rains", "rained"],
+        "answer": 1,
+        "explain": "Dự đoán có căn cứ (mây đen) -> is going to rain."
+      }
+    ]
+  },
+  {
+    "id": "t10",
+    "title": "Chương 1.10: Thì Tương Lai Tiếp Diễn (Future Continuous)",
+    "theory": "1. Khái niệm:\nDùng để diễn tả một hành động đang diễn ra tại một thời điểm xác định trong tương lai.\n\n2. Công thức:\n(+) S + will be + V-ing\n(-) S + will not + be + V-ing\n(?) Will + S + be + V-ing?\n\n3. Dấu hiệu nhận biết:\n- At this time/ at this moment + thời gian trong tương lai (At this time tomorrow...)\n- At + giờ cụ thể + thời gian tương lai (At 10 AM tomorrow...)",
+    "quiz": [
+      {
+        "q": "At this time tomorrow, I ______ to Tokyo.",
+        "choices": ["will fly", "will be flying", "fly", "am flying"],
+        "answer": 1,
+        "explain": "Có 'At this time tomorrow' -> Dùng Tương lai tiếp diễn."
+      },
+      {
+        "q": "Don't call me at 9 PM. I ______ the kids to sleep.",
+        "choices": ["will put", "will be putting", "put", "have put"],
+        "answer": 1,
+        "explain": "Hành động đang diễn ra tại thời điểm cụ thể (9 PM) trong tương lai."
+      }
+    ]
+  },
+  {
+    "id": "t11",
+    "title": "Chương 1.11: Thì Tương Lai Hoàn Thành (Future Perfect)",
+    "theory": "1. Khái niệm:\nDùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm hoặc trước một hành động khác trong tương lai.\n\n2. Công thức:\n(+) S + will have + V3/ed\n(-) S + will not have + V3/ed\n(?) Will + S + have + V3/ed?\n\n3. Dấu hiệu nhận biết:\n- By + thời gian tương lai (By tomorrow, By next year...)\n- By the time + thì hiện tại đơn",
+    "quiz": [
+      {
+        "q": "By the end of this month, I ______ my project.",
+        "choices": ["will finish", "will have finished", "finish", "finished"],
+        "answer": 1,
+        "explain": "Có 'By the end of...' -> Hành động hoàn thành trước 1 mốc thời gian -> Tương lai hoàn thành."
+      },
+      {
+        "q": "They ______ dinner by the time we get there.",
+        "choices": ["will have eaten", "will eat", "ate", "have eaten"],
+        "answer": 0,
+        "explain": "Cấu trúc: By the time + Hiện tại đơn, vế còn lại dùng Tương lai hoàn thành."
+      }
+    ]
+  },
+  {
+    "id": "t12",
+    "title": "Chương 1.12: Thì Tương Lai Hoàn Thành Tiếp Diễn",
+    "theory": "1. Khái niệm:\nGiống thì Tương lai hoàn thành, nhưng nhấn mạnh vào SỰ KÉO DÀI (quá trình) của hành động tính đến một thời điểm trong tương lai.\n\n2. Công thức:\n(+) S + will have been + V-ing\n(-) S + will not have been + V-ing\n(?) Will + S + have been + V-ing?\n\n3. Dấu hiệu nhận biết:\n- By... + for + khoảng thời gian (By 2026, I will have been living here for 10 years).",
+    "quiz": [
+      {
+        "q": "By next June, we ______ English for 4 years.",
+        "choices": [
+          "will study",
+          "will be studying",
+          "will have been studying",
+          "study"
+        ],
+        "answer": 2,
+        "explain": "Có 'By...' và 'for 4 years' -> Nhấn mạnh quá trình kéo dài đến tương lai -> Tương lai hoàn thành tiếp diễn."
+      },
+      {
+        "q": "She ______ for over 12 hours by the time she arrives.",
+        "choices": [
+          "will have been traveling",
+          "will travel",
+          "travels",
+          "will be traveling"
+        ],
+        "answer": 0,
+        "explain": "Nhấn mạnh khoảng thời gian 'for over 12 hours' tính đến lúc đến nơi."
+      }
+    ]
+  },
+  {
+    "id": "chap2-phoi-hop-thi",
+    "title": "Chương 2: Sự Phối Hợp Thì (Sequence of Tenses)",
+    "theory": "I. NGUYÊN TẮC CHUNG:\n- Mệnh đề chính (HT) -> Mệnh đề phụ (HT/TL/QK tùy ngữ cảnh).\n- Mệnh đề chính (QK) -> Mệnh đề phụ (QK).\n\nII. CÁC TRƯỜNG HỢP CỤ THỂ:\n1. WHEN:\n- When S + V(qkđ), S + V(qkđ) (2 hđ nối tiếp).\n- When S + V(qkđ), S + V(qktd) (1 hđ xen vào 1 hđ đang xảy ra).\n2. AS SOON AS (Ngay khi):\n- As soon as S + V(htđ/htht), S + V(tlđ) (Tương lai).\n- As soon as S + V(qkđ), S + V(qkđ) (Quá khứ).\n3. SINCE:\n- S + V(htht) + SINCE + S + V(qkđ).",
+    "quiz": [
+      {
+        "q": "She said that she ______ busy.",
+        "choices": ["is", "was", "will be", "has been"],
+        "answer": 1,
+        "explain": "Mệnh đề chính 'said' (QK) -> Mệnh đề phụ phải lùi về QK (was)."
+      },
+      {
+        "q": "We will leave as soon as he ______.",
+        "choices": ["arrive", "arrives", "arrived", "will arrive"],
+        "answer": 1,
+        "explain": "Trong mệnh đề thời gian tương lai, dùng HT đơn (arrives) thay cho TL đơn."
+      },
+      {
+        "q": "I haven't seen him since he ______ school.",
+        "choices": ["leave", "leaves", "left", "has left"],
+        "answer": 2,
+        "explain": "Sau 'since' dùng Quá khứ đơn (left)."
+      }
+    ]
+  },
+  {
+    "id": "chap3-cau-bi-dong",
+    "title": "Chương 3: Câu Bị Động (Passive Voice)",
+    "theory": "I. CÔNG THỨC CHUNG: Be + Past Participle (V3/ed)\n\nII. CÁC THÌ CƠ BẢN:\n1. HT Đơn: S + am/is/are + V3/ed\n2. QK Đơn: S + was/were + V3/ed\n3. TL Đơn: S + will be + V3/ed\n4. HT Hoàn thành: S + have/has been + V3/ed\n5. HT Tiếp diễn: S + am/is/are + being + V3/ed\n\nIII. ĐỘNG TỪ KHIẾM KHUYẾT (Modal Verbs):\n- S + can/could/must/should + be + V3/ed\n\nIV. CẤU TRÚC ĐẶC BIỆT:\n1. Nhờ vả (Causative):\n   - Have sb do sth -> Have sth done (by sb)\n   - Get sb to do sth -> Get sth done (by sb)\n2. Câu bị động khách quan:\n   - People say that S + V -> It is said that S + V...\n\nV. VỊ TRÍ TRẠNG TỪ:\n- Nơi chốn + BY + O + Thời gian.\n(VD: The cake was made by Mary at home yesterday.)",
+    "quiz": [
+      {
+        "q": "English ______ in many parts of the world.",
+        "choices": ["speaks", "is spoken", "was spoken", "has spoken"],
+        "answer": 1,
+        "explain": "Sự thật hiển nhiên -> Bị động HT đơn."
+      },
+      {
+        "q": "My car ______ yesterday.",
+        "choices": [
+          "repaired",
+          "was repaired",
+          "is repaired",
+          "has been repaired"
+        ],
+        "answer": 1,
+        "explain": "QK đơn (yesterday) + Bị động (xe được sửa)."
+      },
+      {
+        "q": "I had my hair ______ yesterday.",
+        "choices": ["cut", "to cut", "cutting", "cuts"],
+        "answer": 0,
+        "explain": "Cấu trúc nhờ vả: Have sth (my hair) done (cut - V3)."
+      },
+      {
+        "q": "The letter ______ right now.",
+        "choices": ["is typing", "is being typed", "types", "was typed"],
+        "answer": 1,
+        "explain": "Bị động tiếp diễn (right now): is being typed."
+      }
+    ]
+  },
+  {
+    "id": "chap4-cau-dieu-kien",
+    "title": "Chương 4: Câu Điều Kiện (Conditional Sentences)",
+    "theory": "I. LOẠI 1 (Có thể xảy ra ở HT/TL):\n- If + S + V(ht), S + will/can + V\n- VD: If it rains, I will stay home.\n\nII. LOẠI 2 (Không có thật ở HT - Giả định):\n- If + S + V2/ed (tobe: were), S + would/could + V\n- VD: If I were you, I would buy it.\n\nIII. LOẠI 3 (Không có thật ở QK - Tiếc nuối):\n- If + S + had + V3/ed, S + would/could + have + V3/ed\n- VD: If I had known, I would have come.\n\nIV. ĐẢO NGỮ (Inversion):\n- Loại 1: Should + S + V...\n- Loại 2: Were + S + (to V)...\n- Loại 3: Had + S + V3...\n\nV. UNLESS = IF... NOT (Trừ khi).",
+    "quiz": [
+      {
+        "q": "If I ______ a bird, I would fly.",
+        "choices": ["am", "was", "were", "had been"],
+        "answer": 2,
+        "explain": "Điều kiện loại 2 (giả định không thật). Tobe luôn là 'were'."
+      },
+      {
+        "q": "If he had studied hard, he ______ the exam.",
+        "choices": ["will pass", "would pass", "would have passed", "passed"],
+        "answer": 2,
+        "explain": "Vế If quá khứ hoàn thành (had studied) -> Loại 3 -> Vế chính: would have passed."
+      },
+      {
+        "q": "______ you hurry, you will be late.",
+        "choices": ["If", "Unless", "When", "Because"],
+        "answer": 1,
+        "explain": "Trừ khi bạn nhanh lên (Nếu không nhanh lên), bạn sẽ trễ -> Unless."
+      },
+      {
+        "q": "______ I known the answer, I would have told you.",
+        "choices": ["Had", "If", "Have", "Did"],
+        "answer": 0,
+        "explain": "Đảo ngữ loại 3: Had + S + V3."
+      }
+    ]
+  },
+  {
+    "id": "chap5-cau-tuong-thuat",
+    "title": "Chương 5: Câu Tường Thuật (Reported Speech)",
+    "theory": "I. NGUYÊN TẮC CHUNG: Lùi thì + Đổi ngôi + Đổi trạng từ.\n\nII. QUY TẮC LÙI THÌ:\n- HT Đơn -> QK Đơn\n- HT Tiếp diễn -> QK Tiếp diễn\n- HT Hoàn thành / QK Đơn -> QK Hoàn thành\n- Will -> Would, Can -> Could, Must -> Had to\n\nIII. QUY TẮC ĐỔI TRẠNG TỪ:\n- Now -> Then\n- Here -> There\n- Today -> That day\n- Tomorrow -> The next day / The following day\n- Yesterday -> The day before / The previous day\n\nIV. CÁC LOẠI CÂU:\n1. Câu kể: S + said (that) + S + V(lùi)\n2. Yes/No: S + asked + if/whether + S + V(lùi)\n3. Wh-question: S + asked + Wh- + S + V(lùi)\n4. Mệnh lệnh: S + told/asked + O + (not) to V",
+    "quiz": [
+      {
+        "q": "He said: 'I am busy'. -> He said that he ______ busy.",
+        "choices": ["is", "was", "were", "has been"],
+        "answer": 1,
+        "explain": "Lùi thì: am -> was."
+      },
+      {
+        "q": "She asked me ______ I liked pop music.",
+        "choices": ["did", "if", "what", "that"],
+        "answer": 1,
+        "explain": "Câu hỏi Yes/No chuyển sang gián tiếp -> dùng If/Whether."
+      },
+      {
+        "q": "Tom told me ______ the door.",
+        "choices": ["close", "to close", "closing", "closed"],
+        "answer": 1,
+        "explain": "Câu mệnh lệnh: tell sb to V."
+      },
+      {
+        "q": "He said he would visit me ______.",
+        "choices": ["tomorrow", "the next day", "yesterday", "next day"],
+        "answer": 1,
+        "explain": "Trong câu tường thuật, 'tomorrow' đổi thành 'the next day'."
+      }
+    ]
+  },
+  {
+    "id": "chap6-menh-de-quan-he",
+    "title": "Chương 6: Mệnh Đề Quan Hệ (Relative Clauses)",
+    "theory": "I. ĐẠI TỪ QUAN HỆ:\n- WHO: Thay cho người (Chủ ngữ).\n- WHOM: Thay cho người (Tân ngữ).\n- WHICH: Thay cho vật.\n- THAT: Thay thế cho Who/Whom/Which trong mệnh đề xác định (Ko dùng sau dấu phẩy).\n- WHOSE: Chỉ sở hữu (N1 + whose + N2).\n\nII. TRẠNG TỪ QUAN HỆ:\n- WHERE = in/at which (Nơi chốn)\n- WHEN = on/in/at which (Thời gian)\n- WHY = for which (Lý do)\n\nIII. RÚT GỌN MĐQH:\n1. V-ing: Nếu động từ ở thể Chủ động.\n2. V3/ed: Nếu động từ ở thể Bị động.\n3. To V: Sau số thứ tự (first, last, only) hoặc so sánh nhất.",
+    "quiz": [
+      {
+        "q": "The man ______ is talking to you is my uncle.",
+        "choices": ["who", "whom", "which", "whose"],
+        "answer": 0,
+        "explain": "Thay cho người làm chủ ngữ (The man đang nói) -> Who."
+      },
+      {
+        "q": "The book ______ I bought is interesting.",
+        "choices": ["who", "whom", "which", "whose"],
+        "answer": 2,
+        "explain": "Thay cho vật (The book) -> Which."
+      },
+      {
+        "q": "Do you know the girl ______ mother is a teacher?",
+        "choices": ["who", "whom", "which", "whose"],
+        "answer": 3,
+        "explain": "Chỉ sở hữu (Mẹ CỦA cô gái) -> Whose."
+      },
+      {
+        "q": "The man ______ at the door is my father.",
+        "choices": ["stand", "standing", "stood", "is standing"],
+        "answer": 1,
+        "explain": "Rút gọn MĐQH chủ động (who stands) -> standing."
+      }
+    ]
+  },
+  {
+    "id": "chap8-so-sanh",
+    "title": "Chương 8: Câu So Sánh (Comparisons)",
+    "theory": "I. SO SÁNH BẰNG:\n- Cấu trúc: S + V + as + adj/adv + as + N/pronoun.\n- VD: She is as tall as me.\n\nII. SO SÁNH HƠN:\n1. Tính từ/Trạng từ ngắn (1 âm tiết): S + V + adj/adv-er + than...\n2. Tính từ/Trạng từ dài (2 âm tiết trở lên): S + V + more + adj/adv + than...\n- Lưu ý: Dài hay ngắn phụ thuộc vào số âm tiết khi phát âm.\n\nIII. SO SÁNH NHẤT:\n1. Tính từ ngắn: S + V + the + adj-est...\n2. Tính từ dài: S + V + the + most + adj...\n\nIV. NGOẠI LỆ (Học thuộc lòng):\n- Good/Well -> Better -> Best\n- Bad/Badly -> Worse -> Worst\n- Far -> Farther/Further -> Farthest/Furthest\n- Little -> Less -> Least\n- Many/Much -> More -> Most",
+    "quiz": [
+      {
+        "q": "This car is ______ than that one.",
+        "choices": [
+          "expensive",
+          "more expensive",
+          "expensiver",
+          "most expensive"
+        ],
+        "answer": 1,
+        "explain": "So sánh hơn với tính từ dài (expensive) -> more expensive."
+      },
+      {
+        "q": "He is the ______ student in the class.",
+        "choices": ["good", "better", "best", "goodest"],
+        "answer": 2,
+        "explain": "So sánh nhất của 'good' là 'the best'."
+      },
+      {
+        "q": "Today is ______ than yesterday.",
+        "choices": ["hot", "hotter", "more hot", "hottest"],
+        "answer": 1,
+        "explain": "So sánh hơn tính từ ngắn (hot -> hotter, gấp đôi phụ âm cuối)."
+      },
+      {
+        "q": "Can you speak ______ , please?",
+        "choices": ["slow", "more slowly", "slowlier", "slowly"],
+        "answer": 1,
+        "explain": "So sánh hơn của trạng từ (slowly) -> more slowly."
+      }
+    ]
+  },
+  {
+    "id": "chap9-mao-tu",
+    "title": "Chương 9: Mạo Từ (Articles: A, An, The)",
+    "theory": "I. A / AN (Mạo từ không xác định):\n- Dùng cho danh từ đếm được, số ít, được nhắc đến lần đầu.\n- AN: Đứng trước nguyên âm (u, e, o, a, i) -> Mẹo nhớ: UỂ OẢI.\n- A: Đứng trước phụ âm còn lại.\n(Lưu ý: Dựa vào PHIÊN ÂM, ví dụ: 'An hour' vì h câm, 'A university' vì u đọc là /ju:/).\n\nII. THE (Mạo từ xác định):\n- Dùng cho danh từ đã được nhắc đến lần 2 trở đi.\n- Vật duy nhất (The Sun, The Moon, The Earth).\n- Trước so sánh nhất (The best).\n- Trước nhạc cụ (Play the piano).\n\nIII. KHÔNG DÙNG MẠO TỪ (Ø):\n- Trước tên riêng, tên quốc gia (Vietnam, London).\n- Trước bữa ăn (Breakfast, Lunch).\n- Trước môn thể thao (Play soccer).",
+    "quiz": [
+      {
+        "q": "I have ______ apple and ______ banana.",
+        "choices": ["a / a", "an / a", "an / an", "the / the"],
+        "answer": 1,
+        "explain": "Apple bắt đầu bằng nguyên âm 'a' -> An. Banana bắt đầu bằng phụ âm 'b' -> A."
+      },
+      {
+        "q": "______ Sun rises in the East.",
+        "choices": ["A", "An", "The", "Ø"],
+        "answer": 2,
+        "explain": "Mặt trời là duy nhất -> The Sun."
+      },
+      {
+        "q": "He plays ______ guitar very well.",
+        "choices": ["a", "an", "the", "Ø"],
+        "answer": 2,
+        "explain": "Trước nhạc cụ dùng 'The'."
+      },
+      {
+        "q": "We usually have ______ dinner at 7 p.m.",
+        "choices": ["a", "an", "the", "Ø"],
+        "answer": 3,
+        "explain": "Trước bữa ăn không dùng mạo từ."
+      }
+    ]
+  },
+  {
+    "id": "chap10-gioi-tu",
+    "title": "Chương 10: Giới Từ (Prepositions)",
+    "theory": "I. THỜI GIAN (IN - ON - AT):\n- IN: Năm, Tháng, Mùa, Thế kỷ (In 2025, In May, In Summer).\n- ON: Ngày, Thứ, Ngày lễ có chữ Day (On Monday, On May 1st, On Christmas Day).\n- AT: Giờ cụ thể, Thời điểm (At 7pm, At night, At the moment).\n\nII. NƠI CHỐN (IN - ON - AT):\n- IN: Bên trong không gian kín, Thành phố, Quốc gia (In the box, In Hanoi).\n- ON: Trên bề mặt (On the table, On the wall, On the bus).\n- AT: Tại một điểm cụ thể (At home, At school, At the bus stop).\n\nIII. CỤM GIỚI TỪ CỐ ĐỊNH (Học thuộc):\n- Interested in (thích)\n- Good at (giỏi về)\n- Afraid of (sợ)\n- Depend on (phụ thuộc vào)\n- Wait for (đợi)",
+    "quiz": [
+      {
+        "q": "See you ______ Monday morning.",
+        "choices": ["in", "on", "at", "by"],
+        "answer": 1,
+        "explain": "Thứ (Monday) dùng ON."
+      },
+      {
+        "q": "I was born ______ 2003.",
+        "choices": ["in", "on", "at", "during"],
+        "answer": 0,
+        "explain": "Năm (2003) dùng IN."
+      },
+      {
+        "q": "She is good ______ English.",
+        "choices": ["in", "on", "at", "with"],
+        "answer": 2,
+        "explain": "Cụm cố định: Good at (Giỏi về cái gì)."
+      },
+      {
+        "q": "Don't sit ______ the floor.",
+        "choices": ["in", "on", "at", "under"],
+        "answer": 1,
+        "explain": "Trên bề mặt (sàn nhà) dùng ON."
+      }
+    ]
+  },
+  {
+    "id": "chap11-ving-tov",
+    "title": "Chương 11: Danh Động Từ & Động Từ Nguyên Mẫu",
+    "theory": "I. V-ING (Gerund):\n- Sau giới từ (in, on, at, of, about...)\n- Sau các từ: avoid, enjoy, mind, deny, suggest, practice, finish, keep, miss...\n- Làm chủ ngữ (Reading is good).\n\nII. TO V (Infinitive):\n- Sau tính từ (It's happy to see you).\n- Sau các từ: want, hope, decide, plan, promise, agree, refuse, offer, need, would like...\n\nIII. TRƯỜNG HỢP ĐẶC BIỆT (Thay đổi nghĩa):\n- Stop to V: Dừng lại để làm gì khác.\n- Stop V-ing: Dừng hẳn việc đang làm.\n- Remember to V: Nhớ phải làm (tương lai).\n- Remember V-ing: Nhớ đã làm (quá khứ).",
+    "quiz": [
+      {
+        "q": "I enjoy ______ books in my free time.",
+        "choices": ["read", "to read", "reading", "readed"],
+        "answer": 2,
+        "explain": "Sau 'enjoy' + V-ing."
+      },
+      {
+        "q": "She decided ______ a new car.",
+        "choices": ["buy", "to buy", "buying", "bought"],
+        "answer": 1,
+        "explain": "Sau 'decide' + to V."
+      },
+      {
+        "q": "He stopped ______ because it was harmful.",
+        "choices": ["smoke", "to smoke", "smoking", "smoked"],
+        "answer": 2,
+        "explain": "Dừng hẳn việc hút thuốc -> Stop smoking."
+      },
+      {
+        "q": "Remember ______ the door before you go out.",
+        "choices": ["lock", "to lock", "locking", "locked"],
+        "answer": 1,
+        "explain": "Nhớ phải làm gì (nhắc nhở) -> Remember to V."
+      }
+    ]
+  },
+  {
+    "id": "chap12-lien-tu",
+    "title": "Chương 12: Liên Từ (Conjunctions)",
+    "theory": "I. CHỈ NGUYÊN NHÂN:\n- Because / Since / As + S + V\n- Because of / Due to + Noun/V-ing\n\nII. CHỈ KẾT QUẢ:\n- So / Therefore + S + V\n\nIII. CHỈ NHƯỢNG BỘ (Mặc dù):\n- Although / Though / Even though + S + V\n- Despite / In spite of + Noun/V-ing\n\nIV. CÁC TỪ NỐI KHÁC:\n- However (Tuy nhiên), Moreover (Hơn nữa), Otherwise (Nếu không thì).",
+    "quiz": [
+      {
+        "q": "______ it rained heavily, we went to school.",
+        "choices": ["Because", "Although", "Despite", "However"],
+        "answer": 1,
+        "explain": "Hai vế đối lập (Mưa to - vẫn đi học) + Mệnh đề (S+V) -> Although."
+      },
+      {
+        "q": "We didn't go out ______ the bad weather.",
+        "choices": ["because", "because of", "although", "despite"],
+        "answer": 1,
+        "explain": "Sau là cụm danh từ (the bad weather) -> Because of."
+      },
+      {
+        "q": "He is rich, ______ he is not happy.",
+        "choices": ["and", "so", "but", "or"],
+        "answer": 2,
+        "explain": "Hai vế đối lập -> But."
+      },
+      {
+        "q": "______ being tired, he finished his work.",
+        "choices": ["Although", "Because", "Despite", "Unless"],
+        "answer": 2,
+        "explain": "Sau là V-ing (being tired) + nghĩa đối lập -> Despite."
+      }
+    ]
+  },
+  {
+    "id": "chap8-so-sanh",
+    "title": "Chương 8: Câu So Sánh (Comparisons)",
+    "theory": "I. SO SÁNH BẰNG:\n- Cấu trúc: S + V + as + adj/adv + as + N/pronoun.\n- VD: She is as tall as me.\n\nII. SO SÁNH HƠN:\n1. Tính từ/Trạng từ ngắn (1 âm tiết): S + V + adj/adv-er + than...\n2. Tính từ/Trạng từ dài (2 âm tiết trở lên): S + V + more + adj/adv + than...\n- Lưu ý: Dài hay ngắn phụ thuộc vào số âm tiết khi phát âm.\n\nIII. SO SÁNH NHẤT:\n1. Tính từ ngắn: S + V + the + adj-est...\n2. Tính từ dài: S + V + the + most + adj...\n\nIV. NGOẠI LỆ (Học thuộc lòng):\n- Good/Well -> Better -> Best\n- Bad/Badly -> Worse -> Worst\n- Far -> Farther/Further -> Farthest/Furthest\n- Little -> Less -> Least\n- Many/Much -> More -> Most",
+    "quiz": [
+      {
+        "q": "This car is ______ than that one.",
+        "choices": [
+          "expensive",
+          "more expensive",
+          "expensiver",
+          "most expensive"
+        ],
+        "answer": 1,
+        "explain": "So sánh hơn với tính từ dài (expensive) -> more expensive."
+      },
+      {
+        "q": "He is the ______ student in the class.",
+        "choices": ["good", "better", "best", "goodest"],
+        "answer": 2,
+        "explain": "So sánh nhất của 'good' là 'the best'."
+      },
+      {
+        "q": "Today is ______ than yesterday.",
+        "choices": ["hot", "hotter", "more hot", "hottest"],
+        "answer": 1,
+        "explain": "So sánh hơn tính từ ngắn (hot -> hotter, gấp đôi phụ âm cuối)."
+      },
+      {
+        "q": "Can you speak ______ , please?",
+        "choices": ["slow", "more slowly", "slowlier", "slowly"],
+        "answer": 1,
+        "explain": "So sánh hơn của trạng từ (slowly) -> more slowly."
+      }
+    ]
+  },
+  {
+    "id": "chap9-mao-tu",
+    "title": "Chương 9: Mạo Từ (Articles: A, An, The)",
+    "theory": "I. A / AN (Mạo từ không xác định):\n- Dùng cho danh từ đếm được, số ít, được nhắc đến lần đầu.\n- AN: Đứng trước nguyên âm (u, e, o, a, i) -> Mẹo nhớ: UỂ OẢI.\n- A: Đứng trước phụ âm còn lại.\n(Lưu ý: Dựa vào PHIÊN ÂM, ví dụ: 'An hour' vì h câm, 'A university' vì u đọc là /ju:/).\n\nII. THE (Mạo từ xác định):\n- Dùng cho danh từ đã được nhắc đến lần 2 trở đi.\n- Vật duy nhất (The Sun, The Moon, The Earth).\n- Trước so sánh nhất (The best).\n- Trước nhạc cụ (Play the piano).\n\nIII. KHÔNG DÙNG MẠO TỪ (Ø):\n- Trước tên riêng, tên quốc gia (Vietnam, London).\n- Trước bữa ăn (Breakfast, Lunch).\n- Trước môn thể thao (Play soccer).",
+    "quiz": [
+      {
+        "q": "I have ______ apple and ______ banana.",
+        "choices": ["a / a", "an / a", "an / an", "the / the"],
+        "answer": 1,
+        "explain": "Apple bắt đầu bằng nguyên âm 'a' -> An. Banana bắt đầu bằng phụ âm 'b' -> A."
+      },
+      {
+        "q": "______ Sun rises in the East.",
+        "choices": ["A", "An", "The", "Ø"],
+        "answer": 2,
+        "explain": "Mặt trời là duy nhất -> The Sun."
+      },
+      {
+        "q": "He plays ______ guitar very well.",
+        "choices": ["a", "an", "the", "Ø"],
+        "answer": 2,
+        "explain": "Trước nhạc cụ dùng 'The'."
+      },
+      {
+        "q": "We usually have ______ dinner at 7 p.m.",
+        "choices": ["a", "an", "the", "Ø"],
+        "answer": 3,
+        "explain": "Trước bữa ăn không dùng mạo từ."
+      }
+    ]
+  },
+  {
+    "id": "chap10-gioi-tu",
+    "title": "Chương 10: Giới Từ (Prepositions)",
+    "theory": "I. THỜI GIAN (IN - ON - AT):\n- IN: Năm, Tháng, Mùa, Thế kỷ (In 2025, In May, In Summer).\n- ON: Ngày, Thứ, Ngày lễ có chữ Day (On Monday, On May 1st, On Christmas Day).\n- AT: Giờ cụ thể, Thời điểm (At 7pm, At night, At the moment).\n\nII. NƠI CHỐN (IN - ON - AT):\n- IN: Bên trong không gian kín, Thành phố, Quốc gia (In the box, In Hanoi).\n- ON: Trên bề mặt (On the table, On the wall, On the bus).\n- AT: Tại một điểm cụ thể (At home, At school, At the bus stop).\n\nIII. CỤM GIỚI TỪ CỐ ĐỊNH (Học thuộc):\n- Interested in (thích)\n- Good at (giỏi về)\n- Afraid of (sợ)\n- Depend on (phụ thuộc vào)\n- Wait for (đợi)",
+    "quiz": [
+      {
+        "q": "See you ______ Monday morning.",
+        "choices": ["in", "on", "at", "by"],
+        "answer": 1,
+        "explain": "Thứ (Monday) dùng ON."
+      },
+      {
+        "q": "I was born ______ 2003.",
+        "choices": ["in", "on", "at", "during"],
+        "answer": 0,
+        "explain": "Năm (2003) dùng IN."
+      },
+      {
+        "q": "She is good ______ English.",
+        "choices": ["in", "on", "at", "with"],
+        "answer": 2,
+        "explain": "Cụm cố định: Good at (Giỏi về cái gì)."
+      },
+      {
+        "q": "Don't sit ______ the floor.",
+        "choices": ["in", "on", "at", "under"],
+        "answer": 1,
+        "explain": "Trên bề mặt (sàn nhà) dùng ON."
+      }
+    ]
+  },
+  {
+    "id": "chap11-ving-tov",
+    "title": "Chương 11: Danh Động Từ & Động Từ Nguyên Mẫu",
+    "theory": "I. V-ING (Gerund):\n- Sau giới từ (in, on, at, of, about...)\n- Sau các từ: avoid, enjoy, mind, deny, suggest, practice, finish, keep, miss...\n- Làm chủ ngữ (Reading is good).\n\nII. TO V (Infinitive):\n- Sau tính từ (It's happy to see you).\n- Sau các từ: want, hope, decide, plan, promise, agree, refuse, offer, need, would like...\n\nIII. TRƯỜNG HỢP ĐẶC BIỆT (Thay đổi nghĩa):\n- Stop to V: Dừng lại để làm gì khác.\n- Stop V-ing: Dừng hẳn việc đang làm.\n- Remember to V: Nhớ phải làm (tương lai).\n- Remember V-ing: Nhớ đã làm (quá khứ).",
+    "quiz": [
+      {
+        "q": "I enjoy ______ books in my free time.",
+        "choices": ["read", "to read", "reading", "readed"],
+        "answer": 2,
+        "explain": "Sau 'enjoy' + V-ing."
+      },
+      {
+        "q": "She decided ______ a new car.",
+        "choices": ["buy", "to buy", "buying", "bought"],
+        "answer": 1,
+        "explain": "Sau 'decide' + to V."
+      },
+      {
+        "q": "He stopped ______ because it was harmful.",
+        "choices": ["smoke", "to smoke", "smoking", "smoked"],
+        "answer": 2,
+        "explain": "Dừng hẳn việc hút thuốc -> Stop smoking."
+      },
+      {
+        "q": "Remember ______ the door before you go out.",
+        "choices": ["lock", "to lock", "locking", "locked"],
+        "answer": 1,
+        "explain": "Nhớ phải làm gì (nhắc nhở) -> Remember to V."
+      }
+    ]
+  },
+  {
+    "id": "chap12-lien-tu",
+    "title": "Chương 12: Liên Từ (Conjunctions)",
+    "theory": "I. CHỈ NGUYÊN NHÂN:\n- Because / Since / As + S + V\n- Because of / Due to + Noun/V-ing\n\nII. CHỈ KẾT QUẢ:\n- So / Therefore + S + V\n\nIII. CHỈ NHƯỢNG BỘ (Mặc dù):\n- Although / Though / Even though + S + V\n- Despite / In spite of + Noun/V-ing\n\nIV. CÁC TỪ NỐI KHÁC:\n- However (Tuy nhiên), Moreover (Hơn nữa), Otherwise (Nếu không thì).",
+    "quiz": [
+      {
+        "q": "______ it rained heavily, we went to school.",
+        "choices": ["Because", "Although", "Despite", "However"],
+        "answer": 1,
+        "explain": "Hai vế đối lập (Mưa to - vẫn đi học) + Mệnh đề (S+V) -> Although."
+      },
+      {
+        "q": "We didn't go out ______ the bad weather.",
+        "choices": ["because", "because of", "although", "despite"],
+        "answer": 1,
+        "explain": "Sau là cụm danh từ (the bad weather) -> Because of."
+      },
+      {
+        "q": "He is rich, ______ he is not happy.",
+        "choices": ["and", "so", "but", "or"],
+        "answer": 2,
+        "explain": "Hai vế đối lập -> But."
+      },
+      {
+        "q": "______ being tired, he finished his work.",
+        "choices": ["Although", "Because", "Despite", "Unless"],
+        "answer": 2,
+        "explain": "Sau là V-ing (being tired) + nghĩa đối lập -> Despite."
+      }
+    ]
+  },
+  {
+    "id": "chap13-su-hoa-hop-s-v",
+    "title": "Chương 13: Sự Hòa Hợp Chủ Ngữ & Động Từ",
+    "theory": "I. NGUYÊN TẮC CƠ BẢN: Chủ ngữ số ít -> V số ít. Chủ ngữ số nhiều -> V số nhiều.\n\nII. CÁC TRƯỜNG HỢP ĐẶC BIỆT:\n1. N1 + preposition + N2 -> Chia theo N1.\n(VD: The box of apples IS on the table).\n2. N1 + together with / as well as / accompanied by + N2 -> Chia theo N1.\n3. Either...or / Neither...nor / Not only...but also -> Chia theo N gần động từ nhất.\n4. A number of + N(pl) -> V(pl) (Nhiều...)\n5. The number of + N(pl) -> V(sing) (Số lượng...)\n6. Tiền bạc, thời gian, khoảng cách -> V số ít (Ten dollars IS not enough).",
+    "quiz": [
+      {
+        "q": "The keys to the door ______ lost.",
+        "choices": ["is", "are", "was", "has"],
+        "answer": 1,
+        "explain": "Chia theo N1 (The keys - số nhiều) -> are."
+      },
+      {
+        "q": "Neither Tom nor his friends ______ going to the party.",
+        "choices": ["is", "are", "was", "has"],
+        "answer": 1,
+        "explain": "Neither...nor chia theo N2 (his friends - số nhiều) -> are."
+      },
+      {
+        "q": "Five kilometers ______ a long way to walk.",
+        "choices": ["is", "are", "were", "have"],
+        "answer": 0,
+        "explain": "Khoảng cách (Five kilometers) luôn chia số ít -> is."
+      },
+      {
+        "q": "A number of students ______ waiting.",
+        "choices": ["is", "are", "was", "has"],
+        "answer": 1,
+        "explain": "A number of + N nhiều -> V nhiều (are)."
+      }
+    ]
+  },
+  {
+    "id": "chap14-trat-tu-tu",
+    "title": "Chương 14: Trật Tự Từ & Cấu Tạo Từ (Word Order)",
+    "theory": "I. VỊ TRÍ TÍNH TỪ & TRẠNG TỪ:\n- Tính từ (Adj): Đứng trước Danh từ (a beautiful girl), sau Tobe/Linking verbs (she looks happy).\n- Trạng từ (Adv): Đứng sau Động từ thường (run fast), đứng trước Tính từ (very good).\n\nII. TRẬT TỰ TÍNH TỪ (OpSACOMP):\nOpinion (Ý kiến) -> Size (Kích cỡ) -> Age (Tuổi) -> Shape (Hình dáng) -> Color (Màu) -> Origin (Nguồn gốc) -> Material (Chất liệu) -> Purpose (Mục đích).\nVD: A lovely small old red car.",
+    "quiz": [
+      {
+        "q": "She speaks English very ______.",
+        "choices": ["good", "well", "goodly", "best"],
+        "answer": 1,
+        "explain": "Sau động từ thường (speaks) cần trạng từ -> well."
+      },
+      {
+        "q": "She bought a ______ bag.",
+        "choices": [
+          "leather black expensive",
+          "expensive black leather",
+          "black expensive leather",
+          "expensive leather black"
+        ],
+        "answer": 1,
+        "explain": "OpSACOMP: Expensive (Opinion) -> Black (Color) -> Leather (Material)."
+      },
+      {
+        "q": "This soup tastes ______.",
+        "choices": ["good", "well", "badly", "nicely"],
+        "answer": 0,
+        "explain": "Sau linking verb (tastes) dùng Tính từ -> good."
+      }
+    ]
+  },
+  {
+    "id": "chap15-dao-ngu",
+    "title": "Chương 15: Đảo Ngữ (Inversion)",
+    "theory": "I. ĐẢO NGỮ VỚI TRẠNG TỪ PHỦ ĐỊNH:\n- Never / Rarely / Seldom / Hardly + Trợ động từ + S + V.\n(VD: Never have I seen such a beautiful girl).\n\nII. ĐẢO NGỮ VỚI ONLY:\n- Only when / Only after / Only by + ... + Trợ động từ + S + V.\n\nIII. ĐẢO NGỮ VỚI NO SOONER / HARDLY:\n- No sooner + had + S + V3 + THAN + S + V2 (Vừa mới... thì...)\n- Hardly + had + S + V3 + WHEN + S + V2",
+    "quiz": [
+      {
+        "q": "Never ______ such a strange sight.",
+        "choices": ["I have seen", "have I seen", "did I see", "do I see"],
+        "answer": 1,
+        "explain": "Đảo ngữ với Never: Trợ động từ (have) đảo lên trước S (I)."
+      },
+      {
+        "q": "No sooner ______ arrived than the train left.",
+        "choices": ["had we", "we had", "did we", "do we"],
+        "answer": 0,
+        "explain": "Cấu trúc: No sooner + had + S + V3."
+      },
+      {
+        "q": "Only by working hard ______ succeed.",
+        "choices": ["you can", "can you", "you will", "did you"],
+        "answer": 1,
+        "explain": "Đảo ngữ với Only by -> Can you."
+      }
+    ]
+  },
+  {
+    "id": "chap16-gia-dinh-cach",
+    "title": "Chương 16: Giả Định Cách (Subjunctive)",
+    "theory": "I. CẤU TRÚC KHUYÊN BẢO/YÊU CẦU:\n- S1 + suggest / recommend / demand / insist / advise + THAT + S2 + (should) + V_nguyên_mẫu.\n(Lưu ý: V luôn ở dạng nguyên mẫu, không chia, bất kể chủ ngữ là gì).\n\nII. CẤU TRÚC 'IT IS...':\n- It is necessary / essential / important + THAT + S + (should) + V_nguyên_mẫu.\n\nIII. WOULD RATHER:\n- S1 + would rather + S2 + V2/ed (Muốn ai đó làm gì ở hiện tại).\n- S1 + would rather + S2 + had + V3/ed (Muốn ai đó làm gì ở quá khứ).",
+    "quiz": [
+      {
+        "q": "The doctor suggested that he ______ smoking.",
+        "choices": ["stop", "stopped", "stops", "stopping"],
+        "answer": 0,
+        "explain": "Giả định cách: Sau suggest that + S + V nguyên mẫu (stop)."
+      },
+      {
+        "q": "It is essential that she ______ at the meeting.",
+        "choices": ["be", "is", "was", "will be"],
+        "answer": 0,
+        "explain": "Giả định cách: V nguyên mẫu của tobe là 'be'."
+      },
+      {
+        "q": "I would rather you ______ home now.",
+        "choices": ["go", "went", "gone", "will go"],
+        "answer": 1,
+        "explain": "Would rather + S2 + V quá khứ (mong muốn ở hiện tại)."
+      }
+    ]
+  },
+  {
+    "id": "chap17-muc-dich",
+    "title": "Chương 17: Mệnh Đề Chỉ Mục Đích (Purpose)",
+    "theory": "I. DẠNG CỤM TỪ (Phrase - Chủ ngữ là một):\n- Khẳng định: To V / In order to V / So as to V (Để làm gì).\n- Phủ định: In order NOT to V / So as NOT to V (Để không...).\n(Lưu ý: Không dùng 'not to V' đứng một mình để chỉ mục đích phủ định).\n\nII. DẠNG MỆNH ĐỀ (Clause - 2 chủ ngữ khác nhau):\n- S + V + SO THAT / IN ORDER THAT + S + can/could/will/would + V.\n- VD: I study hard SO THAT I can pass the exam.",
+    "quiz": [
+      {
+        "q": "He hurried ______ miss the bus.",
+        "choices": ["so as not to", "in order not", "to not", "for not"],
+        "answer": 0,
+        "explain": "Chỉ mục đích phủ định (để không lỡ xe) -> so as not to V."
+      },
+      {
+        "q": "She locked the door ______ nobody could enter.",
+        "choices": ["so that", "in order to", "with a view to", "so as to"],
+        "answer": 0,
+        "explain": "Sau chỗ trống là một mệnh đề (S+V) -> dùng So that."
+      },
+      {
+        "q": "I went to the bank ______ cash a check.",
+        "choices": ["for", "to", "so that", "in order"],
+        "answer": 1,
+        "explain": "Chỉ mục đích khẳng định (để rút tiền) -> To V."
+      }
+    ]
+  },
+  {
+    "id": "chap18-ket-qua",
+    "title": "Chương 18: Mệnh Đề Chỉ Kết Quả (Result)",
+    "theory": "I. QUÁ... ĐẾN NỖI MÀ:\n1. SO... THAT:\n- S + V + SO + Adj/Adv + THAT + S + V\n2. SUCH... THAT:\n- S + V + SUCH + (a/an) + Adj + Noun + THAT + S + V\n\nII. QUÁ... KHÔNG THỂ (TOO... TO):\n- S + V + TOO + Adj/Adv + (for O) + TO V\n\nIII. ĐỦ ĐỂ LÀM GÌ (ENOUGH):\n- Adj/Adv + ENOUGH + (for O) + TO V\n- ENOUGH + Noun + (for O) + TO V",
+    "quiz": [
+      {
+        "q": "The coffee was ______ hot that I couldn't drink it.",
+        "choices": ["so", "such", "too", "very"],
+        "answer": 0,
+        "explain": "Cấu trúc: So + adj + that."
+      },
+      {
+        "q": "It was ______ a boring film that I fell asleep.",
+        "choices": ["so", "such", "very", "too"],
+        "answer": 1,
+        "explain": "Cấu trúc: Such + (a) + adj + N + that."
+      },
+      {
+        "q": "He is not ______ to drive a car.",
+        "choices": ["enough old", "old enough", "too old", "very old"],
+        "answer": 1,
+        "explain": "Enough đứng SAU tính từ -> Old enough."
+      },
+      {
+        "q": "The water is ______ hot for me to drink.",
+        "choices": ["so", "very", "too", "enough"],
+        "answer": 2,
+        "explain": "Cấu trúc: Too... (for sb) to V (Quá nóng để uống)."
+      }
+    ]
+  },
+  {
+    "id": "chap19-thoi-gian",
+    "title": "Chương 19: Mệnh Đề Chỉ Thời Gian (Time Clauses)",
+    "theory": "I. CÁC LIÊN TỪ THỜI GIAN:\n- When (khi), While (trong khi), Before (trước khi), After (sau khi), Until (cho đến khi), As soon as (ngay khi).\n\nII. NGUYÊN TẮC PHỐI HỢP THÌ (Quan trọng):\n- Không dùng thì TƯƠNG LAI trong mệnh đề thời gian.\n- Tương lai đơn (Will V) -> Chuyển thành Hiện tại đơn (V s/es).\n- Tương lai hoàn thành -> Chuyển thành Hiện tại hoàn thành.\n\nIII. VÍ DỤ:\n- When I arrive (NOT will arrive), I will call you.",
+    "quiz": [
+      {
+        "q": "I will call you as soon as I ______ there.",
+        "choices": ["will get", "get", "got", "am getting"],
+        "answer": 1,
+        "explain": "Mệnh đề thời gian (sau as soon as) không dùng tương lai -> Dùng HT đơn (get)."
+      },
+      {
+        "q": "Don't go anywhere until I ______ back.",
+        "choices": ["come", "will come", "came", "coming"],
+        "answer": 0,
+        "explain": "Sau 'until' không dùng tương lai -> Dùng HT đơn (come)."
+      },
+      {
+        "q": "Before she went to bed, she ______ the door.",
+        "choices": ["locks", "locked", "had locked", "has locked"],
+        "answer": 2,
+        "explain": "Hành động khóa cửa xảy ra TRƯỚC hành động đi ngủ trong quá khứ -> QK Hoàn thành."
+      }
+    ]
+  },
+  {
+    "id": "chap20-luong-tu",
+    "title": "Chương 20: Lượng Từ (Quantifiers)",
+    "theory": "I. SOME / ANY:\n- SOME: Dùng trong câu khẳng định, lời mời/đề nghị. (Would you like some tea?)\n- ANY: Dùng trong câu phủ định, nghi vấn.\n\nII. MUCH / MANY:\n- MUCH: Dùng cho danh từ KHÔNG đếm được (Much money).\n- MANY: Dùng cho danh từ đếm được số nhiều (Many books).\n\nIII. A FEW / A LITTLE (Một chút - Đủ dùng):\n- A FEW + N đếm được.\n- A LITTLE + N không đếm được.\n\nIV. FEW / LITTLE (Hầu như không - Không đủ dùng):\n- FEW + N đếm được.\n- LITTLE + N không đếm được.",
+    "quiz": [
+      {
+        "q": "I have ______ money left.",
+        "choices": ["a few", "a little", "many", "few"],
+        "answer": 1,
+        "explain": "Money là danh từ không đếm được -> Dùng a little."
+      },
+      {
+        "q": "There aren't ______ students in the class.",
+        "choices": ["some", "any", "much", "little"],
+        "answer": 1,
+        "explain": "Câu phủ định (aren't) -> Dùng Any."
+      },
+      {
+        "q": "She has ______ friends, so she is lonely.",
+        "choices": ["a few", "few", "little", "a little"],
+        "answer": 1,
+        "explain": "Cô ấy cô đơn (hàm ý tiêu cực) -> Có rất ít bạn (hầu như không có) -> Few."
+      }
+    ]
+  },
+  {
+    "id": "chap21-cau-hoi-duoi",
+    "title": "Chương 21: Câu Hỏi Đuôi (Tag Questions)",
+    "theory": "I. NGUYÊN TẮC: \n- Vế đầu khẳng định -> Đuôi phủ định.\n- Vế đầu phủ định -> Đuôi khẳng định.\n- Luôn dùng trợ động từ tương ứng thì.\n\nII. CÁC TRƯỜNG HỢP ĐẶC BIỆT:\n1. I am... -> aren't I?\n2. Let's... -> shall we?\n3. Câu mệnh lệnh (Open the door) -> will you?\n4. Chủ ngữ là: Everyone, someone, nobody... -> Đuôi dùng 'they'.\n5. Chủ ngữ là: Nothing, everything... -> Đuôi dùng 'it'.\n6. Never, seldom, hardly (mang nghĩa phủ định) -> Đuôi khẳng định.",
+    "quiz": [
+      {
+        "q": "Let's go for a walk, ______?",
+        "choices": ["will we", "shall we", "do we", "don't we"],
+        "answer": 1,
+        "explain": "Đặc biệt: Let's -> shall we."
+      },
+      {
+        "q": "She hardly goes to school late, ______?",
+        "choices": ["does she", "doesn't she", "is she", "isn't she"],
+        "answer": 0,
+        "explain": "Hardly mang nghĩa phủ định -> Đuôi khẳng định (does she)."
+      },
+      {
+        "q": "Everyone is happy, ______?",
+        "choices": ["isn't he", "aren't they", "is he", "are they"],
+        "answer": 1,
+        "explain": "Chủ ngữ Everyone -> Đuôi dùng They -> aren't they."
+      }
+    ]
+  },
+  {
+    "id": "chap22-dong-tu-khuyet-thieu",
+    "title": "Chương 22: Động Từ Khuyết Thiếu (Modal Verbs)",
+    "theory": "I. CAN / COULD: Khả năng (Could dùng trong quá khứ).\nII. MUST / HAVE TO:\n- Must: Bắt buộc (chủ quan người nói), suy luận logic (chắc hẳn là).\n- Have to: Bắt buộc (do quy định, luật lệ).\n- Mustn't: Cấm đoán.\n- Don't have to: Không cần phải.\nIII. SHOULD / OUGHT TO: Lời khuyên.\nIV. MAY / MIGHT: Khả năng xảy ra (không chắc chắn 100%).",
+    "quiz": [
+      {
+        "q": "You ______ smoke in the hospital.",
+        "choices": ["mustn't", "don't have to", "shouldn't", "needn't"],
+        "answer": 0,
+        "explain": "Cấm đoán (trong bệnh viện) -> Mustn't."
+      },
+      {
+        "q": "The lights are on. He ______ be at home.",
+        "choices": ["can", "should", "must", "need"],
+        "answer": 2,
+        "explain": "Suy luận có căn cứ (đèn sáng) -> Chắc hẳn là -> Must."
+      },
+      {
+        "q": "It's Sunday so I ______ go to school.",
+        "choices": ["mustn't", "don't have to", "can't", "may not"],
+        "answer": 1,
+        "explain": "Không cần phải làm gì -> Don't have to."
+      }
+    ]
+  },
+  {
+    "id": "chap23-wish",
+    "title": "Chương 23: Câu Điều Ước (Wish / If Only)",
+    "theory": "I. ƯỚC TƯƠNG LAI: S + wish + S + would/could + V.\n(Mong muốn điều gì đó thay đổi trong tương lai).\n\nII. ƯỚC HIỆN TẠI: S + wish + S + V2/ed (tobe: were).\n(Trái với thực tế hiện tại).\n\nIII. ƯỚC QUÁ KHỨ: S + wish + S + had + V3/ed.\n(Tiếc nuối điều đã xảy ra trong quá khứ).",
+    "quiz": [
+      {
+        "q": "I wish I ______ a millionaire.",
+        "choices": ["am", "was", "were", "have been"],
+        "answer": 2,
+        "explain": "Ước trái với hiện tại (tôi không phải triệu phú) -> V2 (were)."
+      },
+      {
+        "q": "She wishes she ______ him yesterday.",
+        "choices": ["met", "meets", "had met", "has met"],
+        "answer": 2,
+        "explain": "Ước trái với quá khứ (yesterday) -> Had V3 (had met)."
+      },
+      {
+        "q": "I wish it ______ stop raining soon.",
+        "choices": ["will", "would", "can", "may"],
+        "answer": 1,
+        "explain": "Ước cho tương lai (soon) -> Would."
+      }
+    ]
+  },
+  {
+    "id": "chap24-ngu-am",
+    "title": "Chương 24: Quy Tắc Phát Âm (-ed, -s/es)",
+    "theory": "I. PHÁT ÂM ĐUÔI -ED:\n1. /id/: Tận cùng là t, d (wanted, needed).\n2. /t/: Tận cùng là p, k, f, s, sh, ch (watched, stopped).\n3. /d/: Các trường hợp còn lại.\n\nII. PHÁT ÂM ĐUÔI -S/ES:\n1. /s/: Tận cùng là p, k, f, t, th (stops, books).\n2. /iz/: Tận cùng là s, ss, ch, sh, x, z, ge, ce (watches, boxes).\n3. /z/: Các trường hợp còn lại.",
+    "quiz": [
+      {
+        "q": "Choose the word whose underlined part is pronounced differently: -ed",
+        "choices": ["visited", "decided", "wanted", "looked"],
+        "answer": 3,
+        "explain": "Visited, Decided, Wanted đuôi /id/. Looked đuôi /t/ (vì tận cùng là k)."
+      },
+      {
+        "q": "Choose the word whose underlined part is pronounced differently: -s",
+        "choices": ["books", "maps", "cats", "dogs"],
+        "answer": 3,
+        "explain": "Books, Maps, Cats tận cùng p, k, t -> /s/. Dogs tận cùng g -> /z/."
+      }
+    ]
   }
 ]

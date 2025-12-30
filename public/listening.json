@@ -1,0 +1,20 @@
+[
+  {
+    "title": "TED Talks Daily",
+    "url": "https://www.ted.com/talks",
+    "level": "Nâng cao",
+    "desc": "Luyện nghe các bài diễn thuyết truyền cảm hứng."
+  },
+  {
+    "title": "BBC Learning English",
+    "url": "https://www.bbc.co.uk/learningenglish/",
+    "level": "Trung bình",
+    "desc": "Giọng Anh-Anh chuẩn, nhiều chủ đề đời sống."
+  },
+  {
+    "title": "Nhạc US-UK Chill",
+    "url": "https://www.youtube.com/",
+    "level": "Thư giãn",
+    "desc": "Vừa nghe nhạc vừa học từ vựng nha."
+  }
+]

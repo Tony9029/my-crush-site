@@ -1,0 +1,5067 @@
+[
+  {
+    "id": "test1",
+    "title": "Mini Test 01: Nền Tảng Ngữ Pháp & Từ Vựng Cơ Bản",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "grammar",
+        "text": "Mr. John ______ the marketing report right now.",
+        "choices": ["reviews", "is reviewing", "reviewed", "has reviewed"],
+        "correct": 1,
+        "explain": "Dấu hiệu 'right now' (ngay bây giờ) -> Dùng thì Hiện tại tiếp diễn."
+      },
+      {
+        "id": 2,
+        "type": "vocab",
+        "text": "Please ______ the contract carefully before signing.",
+        "choices": ["read", "look", "review", "watch"],
+        "correct": 2,
+        "explain": "'Review the contract' là cụm từ cố định: Xem xét lại hợp đồng."
+      },
+      {
+        "id": 3,
+        "type": "grammar",
+        "text": "She ______ working here since 2010.",
+        "choices": ["is", "was", "has been", "will be"],
+        "correct": 2,
+        "explain": "Dấu hiệu 'since 2010' -> Dùng thì Hiện tại hoàn thành tiếp diễn."
+      },
+      {
+        "id": 4,
+        "type": "vocab",
+        "text": "The seminar will be held ______ the conference room.",
+        "choices": ["at", "on", "in", "to"],
+        "correct": 2,
+        "explain": "Dùng 'in' cho không gian kín (in the room)."
+      },
+      {
+        "id": 5,
+        "type": "grammar",
+        "text": "If it ______ tomorrow, we will cancel the picnic.",
+        "choices": ["rains", "rain", "will rain", "rained"],
+        "correct": 0,
+        "explain": "Câu điều kiện loại 1: Mệnh đề IF dùng hiện tại đơn (rains)."
+      },
+      {
+        "id": 6,
+        "type": "vocab",
+        "text": "We are looking for a ______ candidate for this position.",
+        "choices": ["reliable", "rely", "reliability", "reliably"],
+        "correct": 0,
+        "explain": "Cần tính từ bổ nghĩa cho danh từ 'candidate' -> reliable (đáng tin cậy)."
+      },
+      {
+        "id": 7,
+        "type": "grammar",
+        "text": "The new policy is ______ than the old one.",
+        "choices": ["strict", "stricter", "strictest", "more strict"],
+        "correct": 1,
+        "explain": "So sánh hơn với tính từ ngắn (strict) -> stricter."
+      },
+      {
+        "id": 8,
+        "type": "vocab",
+        "text": "All employees must ______ the safety regulations.",
+        "choices": ["comply", "observe", "follow", "adhere"],
+        "correct": 2,
+        "explain": "'Follow' đi trực tiếp với tân ngữ. (Comply/Adhere phải đi với 'with'/'to')."
+      },
+      {
+        "id": 9,
+        "type": "grammar",
+        "text": "He usually ______ to work by bus.",
+        "choices": ["go", "goes", "going", "gone"],
+        "correct": 1,
+        "explain": "Dấu hiệu 'usually' -> Hiện tại đơn với ngôi thứ 3 số ít -> goes."
+      },
+      {
+        "id": 10,
+        "type": "vocab",
+        "text": "The ______ of the product launch was unexpected.",
+        "choices": ["successful", "succeed", "success", "successfully"],
+        "correct": 2,
+        "explain": "Sau mạo từ 'The' cần một Danh từ -> Success."
+      },
+      {
+        "id": 11,
+        "type": "grammar",
+        "text": "I haven't seen him ______ last month.",
+        "choices": ["since", "for", "in", "at"],
+        "correct": 0,
+        "explain": "Mốc thời gian (last month) trong thì HTHT -> dùng 'since'."
+      },
+      {
+        "id": 12,
+        "type": "vocab",
+        "text": "Can you give me a ______ with this heavy box?",
+        "choices": ["hand", "arm", "finger", "hold"],
+        "correct": 0,
+        "explain": "Cụm 'give someone a hand' = giúp đỡ ai đó."
+      },
+      {
+        "id": 13,
+        "type": "grammar",
+        "text": "This is the book ______ I bought yesterday.",
+        "choices": ["who", "whom", "which", "where"],
+        "correct": 2,
+        "explain": "Mệnh đề quan hệ chỉ vật (book) -> dùng 'which'."
+      },
+      {
+        "id": 14,
+        "type": "vocab",
+        "text": "The director made a strictly confidential ______.",
+        "choices": ["decide", "decision", "decisive", "decisively"],
+        "correct": 1,
+        "explain": "Cần danh từ sau tính từ 'confidential' -> decision."
+      },
+      {
+        "id": 15,
+        "type": "grammar",
+        "text": "By the time you arrive, we ______ the meeting.",
+        "choices": [
+          "finish",
+          "will finish",
+          "have finished",
+          "will have finished"
+        ],
+        "correct": 3,
+        "explain": "Dấu hiệu 'By the time + hiện tại' -> Tương lai hoàn thành."
+      },
+      {
+        "id": 16,
+        "type": "vocab",
+        "text": "Our goal is to ______ customer satisfaction.",
+        "choices": ["maximize", "maximum", "maximization", "maximizing"],
+        "correct": 0,
+        "explain": "Sau 'to' là động từ nguyên mẫu -> maximize."
+      },
+      {
+        "id": 17,
+        "type": "grammar",
+        "text": "The package ______ delivered two days ago.",
+        "choices": ["is", "was", "has been", "had been"],
+        "correct": 1,
+        "explain": "Dấu hiệu 'ago' -> Quá khứ đơn, câu bị động -> was delivered."
+      },
+      {
+        "id": 18,
+        "type": "vocab",
+        "text": "They decided to ______ the meeting until next week.",
+        "choices": ["call off", "put off", "take off", "go off"],
+        "correct": 1,
+        "explain": "'Put off' = Trì hoãn (Postpone)."
+      },
+      {
+        "id": 19,
+        "type": "grammar",
+        "text": "Would you mind ______ the window?",
+        "choices": ["open", "to open", "opening", "opened"],
+        "correct": 2,
+        "explain": "Cấu trúc 'Would you mind + V-ing'."
+      },
+      {
+        "id": 20,
+        "type": "vocab",
+        "text": "He is highly ______ for the job.",
+        "choices": ["qualification", "qualified", "qualify", "quality"],
+        "correct": 1,
+        "explain": "To be + adv + Adj (qualified - đủ năng lực)."
+      },
+      {
+        "id": 21,
+        "type": "grammar",
+        "text": "Neither John ______ Mary knows the answer.",
+        "choices": ["or", "nor", "and", "but"],
+        "correct": 1,
+        "explain": "Cấu trúc 'Neither... nor...'."
+      },
+      {
+        "id": 22,
+        "type": "vocab",
+        "text": "Please ______ the form in black ink.",
+        "choices": ["fill out", "fill up", "write down", "put in"],
+        "correct": 0,
+        "explain": "'Fill out' = Điền vào đơn từ."
+      },
+      {
+        "id": 23,
+        "type": "grammar",
+        "text": "It is important that he ______ on time.",
+        "choices": ["be", "is", "was", "will be"],
+        "correct": 0,
+        "explain": "Cấu trúc giả định (Subjunctive): It is important that S + V(nguyên thể)."
+      },
+      {
+        "id": 24,
+        "type": "vocab",
+        "text": "The cost of living has ______ dramatically.",
+        "choices": ["raised", "risen", "arised", "lifted"],
+        "correct": 1,
+        "explain": "'Rise' là nội động từ (tự tăng lên). 'Raise' cần tân ngữ."
+      },
+      {
+        "id": 25,
+        "type": "grammar",
+        "text": "Despite ______ tired, he finished the work.",
+        "choices": ["he was", "of being", "being", "be"],
+        "correct": 2,
+        "explain": "Despite + V-ing/Noun phrase."
+      },
+      {
+        "id": 26,
+        "type": "vocab",
+        "text": "We need to ______ our expenses.",
+        "choices": ["reduce", "shorten", "shrink", "deduct"],
+        "correct": 0,
+        "explain": "'Reduce expenses' = Cắt giảm chi phí."
+      },
+      {
+        "id": 27,
+        "type": "grammar",
+        "text": "I suggest ______ to the cinema.",
+        "choices": ["go", "to go", "going", "went"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 28,
+        "type": "vocab",
+        "text": "The flight was canceled ______ bad weather.",
+        "choices": ["because", "due to", "since", "as"],
+        "correct": 1,
+        "explain": "Due to + Noun phrase. (Because + Clause)."
+      },
+      {
+        "id": 29,
+        "type": "grammar",
+        "text": "She asked me where ______.",
+        "choices": ["was I going", "I was going", "did I go", "I go"],
+        "correct": 1,
+        "explain": "Câu tường thuật gián tiếp: Trật tự từ S + V (không đảo ngữ)."
+      },
+      {
+        "id": 30,
+        "type": "vocab",
+        "text": "He is ______ of managing the entire project.",
+        "choices": ["able", "capable", "possible", "success"],
+        "correct": 1,
+        "explain": "Capable of + V-ing (Có khả năng làm gì)."
+      }
+    ]
+  },
+  {
+    "id": "test2",
+    "title": "Mini Test 02: Từ Vựng TOEIC & Ngữ Pháp Nâng Cao",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "grammar",
+        "text": "Had I known about the party, I ______ attended.",
+        "choices": ["would", "will have", "would have", "had"],
+        "correct": 2,
+        "explain": "Đảo ngữ câu điều kiện loại 3: Had + S + V3, S + would have + V3."
+      },
+      {
+        "id": 2,
+        "type": "vocab",
+        "text": "The CEO ______ the importance of teamwork.",
+        "choices": ["emphasized", "spoke", "told", "talked"],
+        "correct": 0,
+        "explain": "'Emphasize' (nhấn mạnh) là ngoại động từ, đi trực tiếp với tân ngữ."
+      },
+      {
+        "id": 3,
+        "type": "grammar",
+        "text": "______ the rain, we went out.",
+        "choices": ["Although", "Despite", "In spite", "Even"],
+        "correct": 1,
+        "explain": "Despite + Noun (the rain). 'In spite' thiếu 'of'."
+      },
+      {
+        "id": 4,
+        "type": "vocab",
+        "text": "Please keep this document ______.",
+        "choices": ["confidence", "confidential", "confidentially", "confide"],
+        "correct": 1,
+        "explain": "Keep + O + Adj (Giữ cái gì ở trạng thái nào)."
+      },
+      {
+        "id": 5,
+        "type": "grammar",
+        "text": "The man ______ to you is my boss.",
+        "choices": ["talk", "talking", "talked", "talks"],
+        "correct": 1,
+        "explain": "Rút gọn mệnh đề quan hệ dạng chủ động -> V-ing."
+      },
+      {
+        "id": 6,
+        "type": "vocab",
+        "text": "We offer a wide ______ of products.",
+        "choices": ["vary", "various", "variety", "variously"],
+        "correct": 2,
+        "explain": "Cụm 'a wide variety of' = sự đa dạng."
+      },
+      {
+        "id": 7,
+        "type": "grammar",
+        "text": "I am not used to ______ up so early.",
+        "choices": ["get", "getting", "got", "gotten"],
+        "correct": 1,
+        "explain": "To be used to + V-ing (Quen với việc gì)."
+      },
+      {
+        "id": 8,
+        "type": "vocab",
+        "text": "The merger will be ______ next month.",
+        "choices": ["announcing", "announced", "announcement", "announces"],
+        "correct": 1,
+        "explain": "Bị động thì tương lai: will be + V3/ed."
+      },
+      {
+        "id": 9,
+        "type": "grammar",
+        "text": "Scarcely had he arrived ______ the phone rang.",
+        "choices": ["when", "than", "then", "after"],
+        "correct": 0,
+        "explain": "Cấu trúc đảo ngữ: Scarcely... when... (Vừa mới... thì...)."
+      },
+      {
+        "id": 10,
+        "type": "vocab",
+        "text": "This ticket is ______ for three days.",
+        "choices": ["valid", "value", "validate", "valuation"],
+        "correct": 0,
+        "explain": "Tính từ 'valid' = có hiệu lực."
+      },
+      {
+        "id": 11,
+        "type": "grammar",
+        "text": "It was ______ a boring film that I fell asleep.",
+        "choices": ["so", "such", "very", "too"],
+        "correct": 1,
+        "explain": "Cấu trúc: Such + (a/an) + Adj + N + that."
+      },
+      {
+        "id": 12,
+        "type": "vocab",
+        "text": "We apologize for any ______ caused.",
+        "choices": [
+          "convenient",
+          "inconvenience",
+          "inconvenient",
+          "convenience"
+        ],
+        "correct": 1,
+        "explain": "Apologize for + Noun (inconvenience - sự bất tiện)."
+      },
+      {
+        "id": 13,
+        "type": "grammar",
+        "text": "Let's go out, ______?",
+        "choices": ["shall we", "will we", "do we", "don't we"],
+        "correct": 0,
+        "explain": "Câu hỏi đuôi của 'Let's' là 'shall we'."
+      },
+      {
+        "id": 14,
+        "type": "vocab",
+        "text": "The factory is operating at full ______.",
+        "choices": ["capacity", "ability", "skill", "talent"],
+        "correct": 0,
+        "explain": "'Capacity' = công suất."
+      },
+      {
+        "id": 15,
+        "type": "grammar",
+        "text": "The higher the price, ______ the demand.",
+        "choices": ["the low", "the lower", "lowest", "lower"],
+        "correct": 1,
+        "explain": "So sánh kép: The + so sánh hơn, the + so sánh hơn."
+      },
+      {
+        "id": 16,
+        "type": "vocab",
+        "text": "Please ______ your receipt for proof of purchase.",
+        "choices": ["retain", "remain", "return", "refrain"],
+        "correct": 0,
+        "explain": "'Retain' = giữ lại."
+      },
+      {
+        "id": 17,
+        "type": "grammar",
+        "text": "I wish I ______ rich.",
+        "choices": ["am", "will be", "were", "would be"],
+        "correct": 2,
+        "explain": "Câu ước không có thật ở hiện tại -> dùng 'were'."
+      },
+      {
+        "id": 18,
+        "type": "vocab",
+        "text": "He is a ______ respected businessman.",
+        "choices": ["high", "highly", "height", "higher"],
+        "correct": 1,
+        "explain": "Trạng từ 'highly' bổ nghĩa cho tính từ/phân từ 'respected'."
+      },
+      {
+        "id": 19,
+        "type": "grammar",
+        "text": "Unless you hurry, you ______ the bus.",
+        "choices": ["will miss", "won't miss", "miss", "missed"],
+        "correct": 0,
+        "explain": "Unless = If not. Vế chính dùng tương lai đơn."
+      },
+      {
+        "id": 20,
+        "type": "vocab",
+        "text": "The item is currently out of ______.",
+        "choices": ["stack", "stick", "stock", "stuck"],
+        "correct": 2,
+        "explain": "'Out of stock' = hết hàng."
+      },
+      {
+        "id": 21,
+        "type": "grammar",
+        "text": "Do you know who ______ this computer?",
+        "choices": ["use", "uses", "using", "used"],
+        "correct": 1,
+        "explain": "Who làm chủ ngữ (số ít) -> động từ chia số ít (uses)."
+      },
+      {
+        "id": 22,
+        "type": "vocab",
+        "text": "We need to ______ a strategy soon.",
+        "choices": ["develop", "development", "developing", "developer"],
+        "correct": 0,
+        "explain": "Cần động từ sau 'to'."
+      },
+      {
+        "id": 23,
+        "type": "grammar",
+        "text": "By next year, I ______ here for 10 years.",
+        "choices": ["work", "will work", "will have worked", "have worked"],
+        "correct": 2,
+        "explain": "Dấu hiệu 'By next year' + 'for...' -> Tương lai hoàn thành."
+      },
+      {
+        "id": 24,
+        "type": "vocab",
+        "text": "He didn't ______ to the email.",
+        "choices": ["answer", "reply", "tell", "say"],
+        "correct": 1,
+        "explain": "'Reply' đi với 'to'. 'Answer' không cần 'to'."
+      },
+      {
+        "id": 25,
+        "type": "grammar",
+        "text": "Only when you grow up, ______ understand.",
+        "choices": ["you will", "will you", "you do", "do you"],
+        "correct": 1,
+        "explain": "Đảo ngữ với 'Only when' đứng đầu câu."
+      },
+      {
+        "id": 26,
+        "type": "vocab",
+        "text": "The meeting was ______ due to lack of participants.",
+        "choices": ["postponed", "fastened", "lengthened", "widened"],
+        "correct": 0,
+        "explain": "'Postponed' = hoãn lại."
+      },
+      {
+        "id": 27,
+        "type": "grammar",
+        "text": "It's time we ______ home.",
+        "choices": ["go", "went", "gone", "will go"],
+        "correct": 1,
+        "explain": "Cấu trúc 'It's time + S + V2/ed' (Đã đến lúc làm gì)."
+      },
+      {
+        "id": 28,
+        "type": "vocab",
+        "text": "Please sign at the ______.",
+        "choices": ["foot", "bottom", "under", "below"],
+        "correct": 1,
+        "explain": "'At the bottom' = ở phía dưới cùng."
+      },
+      {
+        "id": 29,
+        "type": "grammar",
+        "text": "No sooner had he left ______ it started to rain.",
+        "choices": ["than", "when", "that", "after"],
+        "correct": 0,
+        "explain": "Cấu trúc: No sooner... than..."
+      },
+      {
+        "id": 30,
+        "type": "vocab",
+        "text": "The warranty ______ in December.",
+        "choices": ["expires", "inspires", "aspires", "requires"],
+        "correct": 0,
+        "explain": "'Expire' = hết hạn."
+      }
+    ]
+  },
+  {
+    "id": "test3",
+    "title": "Mini Test 03: Tổng Hợp Kiến Thức",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "grammar",
+        "text": "There is ______ coffee left.",
+        "choices": ["few", "a few", "little", "a little"],
+        "correct": 3,
+        "explain": "Coffee là danh từ không đếm được. 'Left' hàm ý còn lại một chút -> 'a little'."
+      },
+      {
+        "id": 2,
+        "type": "vocab",
+        "text": "He submitted his ______ yesterday.",
+        "choices": ["resign", "resigned", "resignation", "resigning"],
+        "correct": 2,
+        "explain": "Cần danh từ: Resignation (đơn từ chức)."
+      },
+      {
+        "id": 3,
+        "type": "grammar",
+        "text": "I suggest that Tom ______ harder.",
+        "choices": ["study", "studies", "studied", "studying"],
+        "correct": 0,
+        "explain": "Cấu trúc giả định: Suggest that S + V(nguyên thể)."
+      },
+      {
+        "id": 4,
+        "type": "vocab",
+        "text": "The hotel can ______ up to 500 guests.",
+        "choices": [
+          "accommodate",
+          "commodity",
+          "accommodation",
+          "accommodating"
+        ],
+        "correct": 0,
+        "explain": "Cần động từ 'accommodate' (chứa được, đáp ứng)."
+      },
+      {
+        "id": 5,
+        "type": "grammar",
+        "text": "Not only ______ late, but he also forgot his book.",
+        "choices": ["he was", "was he", "he is", "is he"],
+        "correct": 1,
+        "explain": "Đảo ngữ với 'Not only' đầu câu."
+      },
+      {
+        "id": 6,
+        "type": "vocab",
+        "text": "They reached a ______ regarding the salary.",
+        "choices": ["consensus", "consent", "sense", "sensation"],
+        "correct": 0,
+        "explain": "'Reach a consensus' = đạt được sự đồng thuận."
+      },
+      {
+        "id": 7,
+        "type": "grammar",
+        "text": "The girl ______ eyes are blue is my cousin.",
+        "choices": ["who", "whom", "whose", "which"],
+        "correct": 2,
+        "explain": "Đại từ quan hệ chỉ sở hữu (whose eyes)."
+      },
+      {
+        "id": 8,
+        "type": "vocab",
+        "text": "We need to address this issue ______.",
+        "choices": ["prompt", "promptly", "promptness", "prompts"],
+        "correct": 1,
+        "explain": "Cần trạng từ bổ nghĩa cho động từ 'address'."
+      },
+      {
+        "id": 9,
+        "type": "grammar",
+        "text": "Would you like ______ tea?",
+        "choices": ["some", "any", "many", "few"],
+        "correct": 0,
+        "explain": "Câu mời mọc lịch sự dùng 'some' (dù là câu hỏi)."
+      },
+      {
+        "id": 10,
+        "type": "vocab",
+        "text": "The project was completed ______ of schedule.",
+        "choices": ["front", "advance", "ahead", "before"],
+        "correct": 2,
+        "explain": "Cụm 'ahead of schedule' = trước thời hạn."
+      },
+      {
+        "id": 11,
+        "type": "grammar",
+        "text": "He stopped ______ to buy a newspaper.",
+        "choices": ["smoke", "to smoke", "smoking", "smoked"],
+        "correct": 1,
+        "explain": "Stop to V = Dừng lại để làm gì."
+      },
+      {
+        "id": 12,
+        "type": "vocab",
+        "text": "Please ______ the instructions carefully.",
+        "choices": ["review", "inspection", "look", "watch"],
+        "correct": 0,
+        "explain": "'Review' hoặc 'Read' instructions."
+      },
+      {
+        "id": 13,
+        "type": "grammar",
+        "text": "Neither of the students ______ passed the exam.",
+        "choices": ["have", "has", "having", "to have"],
+        "correct": 1,
+        "explain": "'Neither of + N(số nhiều)' chia động từ số ít (has)."
+      },
+      {
+        "id": 14,
+        "type": "vocab",
+        "text": "The annual ______ will be held in London.",
+        "choices": ["confer", "conference", "conferencing", "conferred"],
+        "correct": 1,
+        "explain": "Cần danh từ: Conference (hội nghị)."
+      },
+      {
+        "id": 15,
+        "type": "grammar",
+        "text": "It is worth ______ this book.",
+        "choices": ["read", "to read", "reading", "readed"],
+        "correct": 2,
+        "explain": "It is worth + V-ing (Đáng để làm gì)."
+      },
+      {
+        "id": 16,
+        "type": "vocab",
+        "text": "He is responsible ______ hiring new staff.",
+        "choices": ["at", "in", "for", "on"],
+        "correct": 2,
+        "explain": "Responsible for + V-ing."
+      },
+      {
+        "id": 17,
+        "type": "grammar",
+        "text": "I had my car ______ yesterday.",
+        "choices": ["repair", "repaired", "repairing", "to repair"],
+        "correct": 1,
+        "explain": "Cấu trúc nhờ vả bị động: Have + sth + V3/ed."
+      },
+      {
+        "id": 18,
+        "type": "vocab",
+        "text": "The ______ of the new system is impressive.",
+        "choices": ["efficient", "efficiency", "efficiently", "efficacy"],
+        "correct": 1,
+        "explain": "Cần danh từ chỉ tính chất: Efficiency (hiệu quả)."
+      },
+      {
+        "id": 19,
+        "type": "grammar",
+        "text": "Hardly had I arrived when the phone ______.",
+        "choices": ["ring", "rang", "rung", "rings"],
+        "correct": 1,
+        "explain": "Vế sau của cấu trúc Hardly... when chia quá khứ đơn."
+      },
+      {
+        "id": 20,
+        "type": "vocab",
+        "text": "We are seeking ______ advice.",
+        "choices": [
+          "profession",
+          "professor",
+          "professional",
+          "professionally"
+        ],
+        "correct": 2,
+        "explain": "Tính từ bổ nghĩa cho 'advice'."
+      },
+      {
+        "id": 21,
+        "type": "grammar",
+        "text": "Five miles ______ a long distance to walk.",
+        "choices": ["is", "are", "be", "were"],
+        "correct": 0,
+        "explain": "Khoảng cách, thời gian, tiền bạc luôn chia số ít."
+      },
+      {
+        "id": 22,
+        "type": "vocab",
+        "text": "The manager ______ the proposal.",
+        "choices": ["accepted", "excepted", "expected", "intercepted"],
+        "correct": 0,
+        "explain": "'Accepted' = chấp thuận."
+      },
+      {
+        "id": 23,
+        "type": "grammar",
+        "text": "If I were you, I ______ that.",
+        "choices": ["won't do", "don't do", "wouldn't do", "didn't do"],
+        "correct": 2,
+        "explain": "Câu điều kiện loại 2: S + would/could + V."
+      },
+      {
+        "id": 24,
+        "type": "vocab",
+        "text": "Please ______ your seatbelt.",
+        "choices": ["fast", "fasten", "fasting", "faster"],
+        "correct": 1,
+        "explain": "'Fasten' (thắt chặt) là động từ."
+      },
+      {
+        "id": 25,
+        "type": "grammar",
+        "text": "It's no use ______ to him.",
+        "choices": ["talk", "to talk", "talking", "talked"],
+        "correct": 2,
+        "explain": "It's no use + V-ing (Vô ích khi làm gì)."
+      },
+      {
+        "id": 26,
+        "type": "vocab",
+        "text": "The building is under ______.",
+        "choices": ["construct", "construction", "constructive", "constructor"],
+        "correct": 1,
+        "explain": "Under construction = Đang thi công."
+      },
+      {
+        "id": 27,
+        "type": "grammar",
+        "text": "She sings ______ than me.",
+        "choices": [
+          "beautiful",
+          "more beautiful",
+          "beautifully",
+          "more beautifully"
+        ],
+        "correct": 3,
+        "explain": "So sánh hơn của trạng từ dài (sings -> beautifully)."
+      },
+      {
+        "id": 28,
+        "type": "vocab",
+        "text": "He ______ all his money in the stock market.",
+        "choices": ["invested", "spent", "cost", "valued"],
+        "correct": 0,
+        "explain": "'Invest' in = đầu tư vào."
+      },
+      {
+        "id": 29,
+        "type": "grammar",
+        "text": "I look forward to ______ you.",
+        "choices": ["see", "seeing", "saw", "seen"],
+        "correct": 1,
+        "explain": "Look forward to + V-ing."
+      },
+      {
+        "id": 30,
+        "type": "vocab",
+        "text": "The rent includes all ______.",
+        "choices": ["utils", "utilities", "utilize", "utility"],
+        "correct": 1,
+        "explain": "Utilities = các tiện ích (điện, nước...)."
+      }
+    ]
+  },
+  {
+    "id": "test4",
+    "title": "Mini Test 04: Chủ Đề Văn Phòng & Công Sở",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "All employees are required to attend the ______ training session.",
+        "choices": ["mandate", "mandatory", "mandatorily", "mandated"],
+        "correct": 1,
+        "explain": "Tính từ 'mandatory' = bắt buộc."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "Mr. Smith, ______ is the manager, will join us shortly.",
+        "choices": ["who", "whom", "which", "that"],
+        "correct": 0,
+        "explain": "Mệnh đề quan hệ không xác định (có dấu phẩy), chỉ người -> dùng 'who'."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "We need to ______ a contract with the new supplier.",
+        "choices": ["negotiate", "negotiation", "negotiator", "negotiating"],
+        "correct": 0,
+        "explain": "Cần động từ nguyên mẫu sau 'to': Negotiate (đàm phán)."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "The report ______ by the end of the day.",
+        "choices": ["must finish", "must be finished", "finish", "finishing"],
+        "correct": 1,
+        "explain": "Câu bị động với modal verb: Must be + V3/ed."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "Please ______ your supervisor if you are sick.",
+        "choices": ["notify", "note", "notice", "notion"],
+        "correct": 0,
+        "explain": "'Notify' = thông báo cho ai đó."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "He works ______ than anyone else in the office.",
+        "choices": ["hard", "hardly", "harder", "hardest"],
+        "correct": 2,
+        "explain": "So sánh hơn của trạng từ ngắn 'hard' -> harder."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "The company offers a competitive ______ package.",
+        "choices": ["benefit", "beneficial", "beneficially", "benefits"],
+        "correct": 3,
+        "explain": "'Benefits package' = gói phúc lợi (lương thưởng, bảo hiểm...)."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "I will wait here until she ______.",
+        "choices": ["comes", "will come", "came", "coming"],
+        "correct": 0,
+        "explain": "Mệnh đề trạng ngữ chỉ thời gian (sau until) dùng hiện tại đơn."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "We are looking for a ______ solution to the problem.",
+        "choices": ["feasible", "feasibility", "feebly", "feat"],
+        "correct": 0,
+        "explain": "Cần tính từ: Feasible = khả thi."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "Neither the manager nor the staff ______ aware of the change.",
+        "choices": ["was", "were", "is", "are"],
+        "correct": 1,
+        "explain": "Cấu trúc Neither... nor... chia động từ theo chủ ngữ gần nhất (the staff - số nhiều) -> were."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "Please ______ the attached file.",
+        "choices": ["review", "revision", "revised", "reviewing"],
+        "correct": 0,
+        "explain": "Câu mệnh lệnh: V nguyên mẫu + O."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "It is necessary that he ______ the meeting.",
+        "choices": ["attend", "attends", "attended", "attending"],
+        "correct": 0,
+        "explain": "Cấu trúc giả định: It is necessary that S + V(nguyên thể)."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "The ______ of the new product was successful.",
+        "choices": ["launch", "lunch", "land", "lane"],
+        "correct": 0,
+        "explain": "'Product launch' = Sự ra mắt sản phẩm."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "______ being tired, he continued to work.",
+        "choices": ["Despite", "Although", "Because", "Even"],
+        "correct": 0,
+        "explain": "Despite + V-ing/Noun phrase."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "We apologize for the ______ in shipping.",
+        "choices": ["delay", "defer", "detain", "deter"],
+        "correct": 0,
+        "explain": "Apologize for the delay (Xin lỗi vì sự chậm trễ)."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "The higher the demand, ______ the price.",
+        "choices": ["higher", "the higher", "the highest", "highest"],
+        "correct": 1,
+        "explain": "So sánh kép: The + so sánh hơn..., the + so sánh hơn..."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "He was promoted to the position of ______ manager.",
+        "choices": ["assist", "assistant", "assistance", "assisted"],
+        "correct": 1,
+        "explain": "Assistant manager = Trợ lý giám đốc."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "If I ______ the time, I would help you.",
+        "choices": ["have", "had", "have had", "will have"],
+        "correct": 1,
+        "explain": "Câu điều kiện loại 2 (giả định trái hiện tại) -> If + S + V2/ed."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "Please ______ detailed records of all transactions.",
+        "choices": ["keep", "stay", "hold", "remain"],
+        "correct": 0,
+        "explain": "'Keep records' = lưu giữ hồ sơ."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "By the time he arrives, we ______ lunch.",
+        "choices": [
+          "finish",
+          "will finish",
+          "will have finished",
+          "have finished"
+        ],
+        "correct": 2,
+        "explain": "Tương lai hoàn thành: Hành động hoàn tất trước 1 thời điểm tương lai."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "The goal is to increase ______ by 10%.",
+        "choices": ["produce", "productive", "productivity", "productively"],
+        "correct": 2,
+        "explain": "Increase + Noun (productivity - năng suất)."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "Would you mind ______ me a hand?",
+        "choices": ["give", "giving", "to give", "gave"],
+        "correct": 1,
+        "explain": "Would you mind + V-ing."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "We need to ______ the budget proposal.",
+        "choices": ["revise", "devise", "advice", "device"],
+        "correct": 0,
+        "explain": "'Revise' = xem xét lại, sửa đổi."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "This is the room ______ we hold meetings.",
+        "choices": ["which", "where", "that", "when"],
+        "correct": 1,
+        "explain": "Mệnh đề quan hệ chỉ nơi chốn -> where."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "The ______ requires 5 years of experience.",
+        "choices": ["vacancy", "vacant", "vacate", "vacation"],
+        "correct": 0,
+        "explain": "Vacancy = Vị trí trống (tuyển dụng)."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "Hardly had the meeting started ______ the power went out.",
+        "choices": ["when", "than", "then", "after"],
+        "correct": 0,
+        "explain": "Cấu trúc: Hardly... when..."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "Please ______ your application before Friday.",
+        "choices": ["submit", "commit", "permit", "omit"],
+        "correct": 0,
+        "explain": "'Submit application' = Nộp đơn."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "I suggest ______ by train.",
+        "choices": ["go", "to go", "going", "gone"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "The strategy was highly ______.",
+        "choices": ["effect", "effective", "effectively", "effectiveness"],
+        "correct": 1,
+        "explain": "Tobe + adv + Adj (effective)."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "She asked if I ______ finished the report.",
+        "choices": ["have", "had", "has", "will have"],
+        "correct": 1,
+        "explain": "Câu tường thuật lùi thì: Hiện tại hoàn thành -> Quá khứ hoàn thành."
+      }
+    ]
+  },
+  {
+    "id": "test5",
+    "title": "Mini Test 05: Du Lịch & Mua Sắm",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "I would like to make a ______ for two nights.",
+        "choices": ["reserve", "reservation", "reserved", "reserving"],
+        "correct": 1,
+        "explain": "Make a reservation = Đặt chỗ trước."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "Have you ever ______ to Paris?",
+        "choices": ["be", "been", "go", "gone"],
+        "correct": 1,
+        "explain": "Have been to = Đã từng đến và đã về."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "The flight was ______ due to bad weather.",
+        "choices": ["delay", "delayed", "delaying", "delays"],
+        "correct": 1,
+        "explain": "Bị động: Was + V3/ed (delayed)."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "She travels ______ than her sister.",
+        "choices": [
+          "more frequent",
+          "more frequently",
+          "frequenter",
+          "frequently"
+        ],
+        "correct": 1,
+        "explain": "So sánh hơn của trạng từ dài."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "Please show your ______ pass at the gate.",
+        "choices": ["board", "boarding", "boarded", "boards"],
+        "correct": 1,
+        "explain": "Boarding pass = Thẻ lên máy bay."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "If I ______ rich, I would travel the world.",
+        "choices": ["am", "was", "were", "been"],
+        "correct": 2,
+        "explain": "Câu điều kiện loại 2."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "This item is currently out of ______.",
+        "choices": ["stack", "stock", "stick", "stuck"],
+        "correct": 1,
+        "explain": "Out of stock = Hết hàng."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "Do you know where ______?",
+        "choices": [
+          "is the station",
+          "the station is",
+          "the station was",
+          "was the station"
+        ],
+        "correct": 1,
+        "explain": "Câu hỏi gián tiếp: Từ để hỏi + S + V."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "Can I pay by ______ card?",
+        "choices": ["credit", "debt", "money", "cash"],
+        "correct": 0,
+        "explain": "Credit card = Thẻ tín dụng."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "This bag is ______ heavy for me to carry.",
+        "choices": ["so", "too", "very", "enough"],
+        "correct": 1,
+        "explain": "Cấu trúc: Too + adj + (for sb) + to V."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "The store offers a full ______ within 30 days.",
+        "choices": ["refund", "fund", "funding", "refunding"],
+        "correct": 0,
+        "explain": "Refund = Hoàn tiền."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "I enjoy ______ souvenirs when travelling.",
+        "choices": ["buy", "to buy", "buying", "bought"],
+        "correct": 2,
+        "explain": "Enjoy + V-ing."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "The tour guide was very ______.",
+        "choices": ["knowledge", "knowledgeable", "know", "knowingly"],
+        "correct": 1,
+        "explain": "Cần tính từ: Knowledgeable = Am hiểu."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "They ______ in London since 2015.",
+        "choices": ["live", "lived", "have lived", "are living"],
+        "correct": 2,
+        "explain": "Since + mốc thời gian -> Hiện tại hoàn thành."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "We booked a ______ room with a sea view.",
+        "choices": ["double", "couple", "dual", "twice"],
+        "correct": 0,
+        "explain": "Double room = Phòng đôi."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "He is the man ______ car was stolen.",
+        "choices": ["who", "whom", "which", "whose"],
+        "correct": 3,
+        "explain": "Whose + N (Chỉ sở hữu)."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "Please check your ______ before leaving.",
+        "choices": ["luggage", "bag", "pack", "suit"],
+        "correct": 0,
+        "explain": "Luggage/Baggage = Hành lý."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "I suggest ______ a taxi.",
+        "choices": ["take", "to take", "taking", "taken"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "Is there a discount ______ bulk orders?",
+        "choices": ["in", "on", "at", "for"],
+        "correct": 3,
+        "explain": "Discount for/on something."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "She asked me if I ______ travel alone.",
+        "choices": ["can", "could", "will", "may"],
+        "correct": 1,
+        "explain": "Câu tường thuật: Lùi thì Can -> Could."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "The itinerary includes a ______ to the museum.",
+        "choices": ["visit", "visitor", "visiting", "visited"],
+        "correct": 0,
+        "explain": "A visit (danh từ) = chuyến tham quan."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "It takes 2 hours ______ to the airport.",
+        "choices": ["get", "to get", "getting", "got"],
+        "correct": 1,
+        "explain": "It takes + time + to V."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "We need to ______ our flight confirmation.",
+        "choices": ["print", "printer", "printing", "printed"],
+        "correct": 0,
+        "explain": "Cần động từ: Print."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "Not only ______ beautiful, but it is also cheap.",
+        "choices": ["it is", "is it", "it was", "was it"],
+        "correct": 1,
+        "explain": "Đảo ngữ Not only."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "The ______ of living in this city is high.",
+        "choices": ["cost", "price", "value", "expense"],
+        "correct": 0,
+        "explain": "Cost of living = Chi phí sinh hoạt."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "I wish I ______ longer on vacation.",
+        "choices": ["stay", "can stay", "could stay", "will stay"],
+        "correct": 2,
+        "explain": "Câu ước loại 2: Could + V."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "Can I have the ______ please?",
+        "choices": ["bill", "recipe", "prescription", "note"],
+        "correct": 0,
+        "explain": "The bill/check = Hóa đơn thanh toán."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "This is the best hotel I have ______ stayed in.",
+        "choices": ["ever", "never", "always", "yet"],
+        "correct": 0,
+        "explain": "So sánh nhất + Present Perfect + ever."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "The shop is ______ from 9am to 9pm.",
+        "choices": ["opening", "open", "opened", "opens"],
+        "correct": 1,
+        "explain": "Tính từ 'open' (mở cửa)."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "Unless you book early, you ______ a room.",
+        "choices": ["don't get", "won't get", "will get", "get"],
+        "correct": 1,
+        "explain": "Unless = If not. Vế chính chia tương lai."
+      }
+    ]
+  },
+  {
+    "id": "test6",
+    "title": "Mini Test 06: Tổng Hợp Ngữ Pháp Khó & Cụm Từ",
+    "duration": 25,
+    "questions": [
+      {
+        "id": 1,
+        "type": "grammar",
+        "text": "Only by working hard ______ succeed.",
+        "choices": ["you will", "will you", "you can", "can you"],
+        "correct": 1,
+        "explain": "Đảo ngữ với 'Only by + Ving' + Trợ động từ + S + V."
+      },
+      {
+        "id": 2,
+        "type": "vocab",
+        "text": "We need to conduct a thorough ______.",
+        "choices": ["inspect", "inspection", "inspector", "inspecting"],
+        "correct": 1,
+        "explain": "Cần danh từ sau tính từ 'thorough' -> Inspection."
+      },
+      {
+        "id": 3,
+        "type": "grammar",
+        "text": "It is high time we ______ home.",
+        "choices": ["go", "went", "gone", "going"],
+        "correct": 1,
+        "explain": "It is high time + S + V(quá khứ)."
+      },
+      {
+        "id": 4,
+        "type": "vocab",
+        "text": "He is ______ to the new policy.",
+        "choices": ["oppose", "opposed", "opposite", "opposition"],
+        "correct": 1,
+        "explain": "To be opposed to + V-ing/N (Phản đối cái gì)."
+      },
+      {
+        "id": 5,
+        "type": "grammar",
+        "text": "______ she rich, she would buy that house.",
+        "choices": ["If", "Were", "Was", "Had"],
+        "correct": 1,
+        "explain": "Đảo ngữ câu điều kiện loại 2: Were + S + ... (bỏ If)."
+      },
+      {
+        "id": 6,
+        "type": "vocab",
+        "text": "The company decided to ______ its operations.",
+        "choices": ["expand", "expend", "extend", "extent"],
+        "correct": 0,
+        "explain": "Expand operations = Mở rộng hoạt động."
+      },
+      {
+        "id": 7,
+        "type": "grammar",
+        "text": "I'd rather you ______ smoke here.",
+        "choices": ["don't", "didn't", "not", "won't"],
+        "correct": 1,
+        "explain": "Would rather + S + V(quá khứ): Muốn ai đó làm gì."
+      },
+      {
+        "id": 8,
+        "type": "vocab",
+        "text": "Please ______ from smoking in this area.",
+        "choices": ["refrain", "restrain", "retain", "remain"],
+        "correct": 0,
+        "explain": "Refrain from = Kiềm chế, tránh làm gì."
+      },
+      {
+        "id": 9,
+        "type": "grammar",
+        "text": "No matter what ______ , I will support you.",
+        "choices": ["happens", "happen", "happening", "happened"],
+        "correct": 0,
+        "explain": "No matter what happens = Dù chuyện gì xảy ra."
+      },
+      {
+        "id": 10,
+        "type": "vocab",
+        "text": "We must ______ with the regulations.",
+        "choices": ["comply", "complete", "compile", "compete"],
+        "correct": 0,
+        "explain": "Comply with = Tuân thủ."
+      },
+      {
+        "id": 11,
+        "type": "grammar",
+        "text": "Not until yesterday ______ the truth.",
+        "choices": ["I knew", "did I know", "I know", "do I know"],
+        "correct": 1,
+        "explain": "Đảo ngữ: Not until... + Trợ động từ + S + V."
+      },
+      {
+        "id": 12,
+        "type": "vocab",
+        "text": "The seminar was very ______.",
+        "choices": ["information", "inform", "informative", "informatively"],
+        "correct": 2,
+        "explain": "Informative = Nhiều thông tin bổ ích."
+      },
+      {
+        "id": 13,
+        "type": "grammar",
+        "text": "It appears ______ raining.",
+        "choices": ["be", "to be", "being", "been"],
+        "correct": 1,
+        "explain": "Appear to V = Dường như."
+      },
+      {
+        "id": 14,
+        "type": "vocab",
+        "text": "He made a significant ______ to the project.",
+        "choices": [
+          "contribute",
+          "contribution",
+          "contributor",
+          "contributing"
+        ],
+        "correct": 1,
+        "explain": "Make a contribution to = Đóng góp vào."
+      },
+      {
+        "id": 15,
+        "type": "grammar",
+        "text": "______ of the two plans is better?",
+        "choices": ["Who", "What", "Which", "Whose"],
+        "correct": 2,
+        "explain": "Which of... (Lựa chọn trong số lượng xác định)."
+      },
+      {
+        "id": 16,
+        "type": "vocab",
+        "text": "The machine is currently out of ______.",
+        "choices": ["order", "work", "function", "job"],
+        "correct": 0,
+        "explain": "Out of order = Hỏng."
+      },
+      {
+        "id": 17,
+        "type": "grammar",
+        "text": "Let's discuss this, ______?",
+        "choices": ["shall we", "will we", "do we", "don't we"],
+        "correct": 0,
+        "explain": "Tag question của Let's -> shall we."
+      },
+      {
+        "id": 18,
+        "type": "vocab",
+        "text": "I have to ______ a presentation tomorrow.",
+        "choices": ["do", "make", "take", "get"],
+        "correct": 1,
+        "explain": "Make a presentation = Thuyết trình."
+      },
+      {
+        "id": 19,
+        "type": "grammar",
+        "text": "Try ______ quiet, the baby is sleeping.",
+        "choices": ["be", "to be", "being", "been"],
+        "correct": 1,
+        "explain": "Try to V = Cố gắng làm gì."
+      },
+      {
+        "id": 20,
+        "type": "vocab",
+        "text": "We need to ______ the problem immediately.",
+        "choices": ["address", "dress", "stress", "press"],
+        "correct": 0,
+        "explain": "Address a problem = Giải quyết vấn đề."
+      },
+      {
+        "id": 21,
+        "type": "grammar",
+        "text": "Had it not been for the rain, we ______ gone out.",
+        "choices": ["would have", "will have", "would", "had"],
+        "correct": 0,
+        "explain": "Đảo ngữ điều kiện loại 3: Had it not been for... S + would have + V3."
+      },
+      {
+        "id": 22,
+        "type": "vocab",
+        "text": "He is a man of ______.",
+        "choices": ["integrate", "integrity", "integral", "integration"],
+        "correct": 1,
+        "explain": "Man of integrity = Người chính trực."
+      },
+      {
+        "id": 23,
+        "type": "grammar",
+        "text": "Little ______ that he was being watched.",
+        "choices": ["he knew", "did he know", "he knows", "does he know"],
+        "correct": 1,
+        "explain": "Đảo ngữ với từ phủ định 'Little' đứng đầu -> Little did he know."
+      },
+      {
+        "id": 24,
+        "type": "vocab",
+        "text": "The contract is ______ for renewal.",
+        "choices": ["due", "do", "dew", "duo"],
+        "correct": 0,
+        "explain": "Due for renewal = Đến hạn gia hạn."
+      },
+      {
+        "id": 25,
+        "type": "grammar",
+        "text": "I suggest that he ______ a doctor.",
+        "choices": ["see", "sees", "saw", "seeing"],
+        "correct": 0,
+        "explain": "Giả định thức: Suggest + S + V(nguyên thể)."
+      },
+      {
+        "id": 26,
+        "type": "vocab",
+        "text": "Please ______ your attention to the screen.",
+        "choices": ["direct", "direction", "director", "directly"],
+        "correct": 0,
+        "explain": "Direct attention to = Hướng sự chú ý vào."
+      },
+      {
+        "id": 27,
+        "type": "grammar",
+        "text": "There's no point ______ about it.",
+        "choices": ["worry", "to worry", "worrying", "worried"],
+        "correct": 2,
+        "explain": "There's no point + V-ing = Chẳng ích gì."
+      },
+      {
+        "id": 28,
+        "type": "vocab",
+        "text": "The decision is ______.",
+        "choices": ["revocable", "irrevocable", "revoke", "revocation"],
+        "correct": 1,
+        "explain": "Irrevocable = Không thể thay đổi được."
+      },
+      {
+        "id": 29,
+        "type": "grammar",
+        "text": "On no account ______ this door be opened.",
+        "choices": ["should", "would", "will", "can"],
+        "correct": 0,
+        "explain": "On no account should... = Không vì lý do gì mà..."
+      },
+      {
+        "id": 30,
+        "type": "vocab",
+        "text": "We reached a tentative ______.",
+        "choices": ["agree", "agreement", "agreeable", "agreeably"],
+        "correct": 1,
+        "explain": "Tentative agreement = Thỏa thuận tạm thời."
+      }
+    ]
+  },
+  {
+    "id": "test7",
+    "title": "Mini Test 07: Marketing & Chiến Lược Kinh Doanh",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "We need to identify our target ______.",
+        "choices": ["audience", "auditorium", "audio", "audit"],
+        "correct": 0,
+        "explain": "Target audience = Khách hàng mục tiêu."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "It was not until midnight ______ home.",
+        "choices": [
+          "that I arrived",
+          "did I arrive",
+          "I arrived",
+          "when I arrived"
+        ],
+        "correct": 0,
+        "explain": "Cấu trúc nhấn mạnh: It was not until... that..."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "The new campaign aims to increase brand ______.",
+        "choices": ["aware", "awareness", "awaring", "wary"],
+        "correct": 1,
+        "explain": "Brand awareness = Độ nhận diện thương hiệu."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "______ for the bus, I saw an accident.",
+        "choices": ["Wait", "Waiting", "Waited", "To wait"],
+        "correct": 1,
+        "explain": "Rút gọn mệnh đề cùng chủ ngữ (chủ động) -> Waiting."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "We distribute our products through various ______.",
+        "choices": ["canals", "channels", "chanels", "panels"],
+        "correct": 1,
+        "explain": "Distribution channels = Kênh phân phối."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "Not only ______ the project, but he also got a promotion.",
+        "choices": [
+          "did he finish",
+          "he finished",
+          "he did finish",
+          "finished he"
+        ],
+        "correct": 0,
+        "explain": "Đảo ngữ với Not only đứng đầu: Trợ động từ + S + V."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "The company creates ______ brochures.",
+        "choices": ["promote", "promotion", "promotional", "promoter"],
+        "correct": 2,
+        "explain": "Promotional brochures = Tờ rơi quảng cáo."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "Either you or I ______ wrong.",
+        "choices": ["am", "are", "is", "were"],
+        "correct": 0,
+        "explain": "Either... or... chia theo chủ ngữ gần nhất (I) -> am."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "Competitors are trying to ______ our market share.",
+        "choices": ["capture", "caption", "captivate", "captive"],
+        "correct": 0,
+        "explain": "Capture market share = Chiếm lĩnh thị phần."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "She acts as if she ______ the boss.",
+        "choices": ["is", "were", "has been", "will be"],
+        "correct": 1,
+        "explain": "As if (như thể là) diễn tả điều không thật -> dùng Were."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "We conducted a survey to gauge customer ______.",
+        "choices": ["satisfy", "satisfaction", "satisfactory", "satisfying"],
+        "correct": 1,
+        "explain": "Customer satisfaction = Sự hài lòng của khách hàng."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "Let's go to the beach, ______?",
+        "choices": ["shall we", "will we", "do we", "don't we"],
+        "correct": 0,
+        "explain": "Câu hỏi đuôi của Let's là Shall we."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "The product launch was a huge ______.",
+        "choices": ["succeed", "success", "successful", "succession"],
+        "correct": 1,
+        "explain": "Danh từ: Success (thành công)."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "I prefer coffee ______ tea.",
+        "choices": ["than", "to", "over", "more"],
+        "correct": 1,
+        "explain": "Prefer sth to sth (Thích cái gì hơn cái gì)."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "We need to ______ a new marketing strategy.",
+        "choices": ["implement", "imply", "import", "impose"],
+        "correct": 0,
+        "explain": "Implement a strategy = Triển khai chiến lược."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "The number of students ______ increasing.",
+        "choices": ["is", "are", "have", "were"],
+        "correct": 0,
+        "explain": "The number of + N(nhiều) + V(số ít)."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "Please ______ the feedback form.",
+        "choices": ["complete", "compete", "complain", "compile"],
+        "correct": 0,
+        "explain": "Complete the form = Hoàn thành mẫu đơn."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "Never ______ such a beautiful sight.",
+        "choices": ["I have seen", "have I seen", "did I see", "I saw"],
+        "correct": 1,
+        "explain": "Đảo ngữ với Never: Have I seen."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "The advertisement was very ______.",
+        "choices": ["persuade", "persuasion", "persuasive", "persuasively"],
+        "correct": 2,
+        "explain": "Tính từ: Persuasive = Có sức thuyết phục."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "It is essential that everyone ______ on time.",
+        "choices": ["be", "is", "are", "was"],
+        "correct": 0,
+        "explain": "Giả định thức (Subjunctive): S + V nguyên thể."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "We offer a 10% ______ on bulk orders.",
+        "choices": ["discount", "count", "account", "amount"],
+        "correct": 0,
+        "explain": "Discount = Giảm giá."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "No sooner had I arrived ______ the phone rang.",
+        "choices": ["than", "when", "that", "after"],
+        "correct": 0,
+        "explain": "No sooner... than..."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "Our goal is to ______ sales by 20%.",
+        "choices": ["boost", "boast", "beast", "burst"],
+        "correct": 0,
+        "explain": "Boost sales = Thúc đẩy doanh số."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "A number of students ______ waiting.",
+        "choices": ["is", "are", "was", "has"],
+        "correct": 1,
+        "explain": "A number of + N(nhiều) + V(số nhiều)."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "The ______ of the product is guaranteed.",
+        "choices": ["quality", "quantity", "qualify", "qualification"],
+        "correct": 0,
+        "explain": "Quality = Chất lượng."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "I remember ______ him somewhere.",
+        "choices": ["meet", "to meet", "meeting", "met"],
+        "correct": 2,
+        "explain": "Remember V-ing = Nhớ đã làm gì."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "We need to ______ with other companies.",
+        "choices": ["compete", "complete", "competence", "competitor"],
+        "correct": 0,
+        "explain": "Compete with = Cạnh tranh với."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "If only I ______ known the answer.",
+        "choices": ["have", "had", "has", "would"],
+        "correct": 1,
+        "explain": "If only + Past Perfect (Giá mà...)."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "The ______ for the event is mainly teenagers.",
+        "choices": ["demographic", "democratic", "demonstration", "demolition"],
+        "correct": 0,
+        "explain": "Demographic = Nhóm nhân khẩu học."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "The more you study, ______ you become.",
+        "choices": ["the smart", "the smarter", "smartest", "smarter"],
+        "correct": 1,
+        "explain": "So sánh kép: The more... the smarter..."
+      }
+    ]
+  },
+  {
+    "id": "test8",
+    "title": "Mini Test 08: Tài Chính & Ngân Hàng",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "We need to reduce our operating ______.",
+        "choices": ["expensive", "expenses", "expend", "expense"],
+        "correct": 1,
+        "explain": "Operating expenses = Chi phí vận hành."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "The money ______ stolen yesterday.",
+        "choices": ["is", "was", "were", "are"],
+        "correct": 1,
+        "explain": "Money là danh từ không đếm được (số ít). Quá khứ -> was."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "The exchange ______ fluctuates daily.",
+        "choices": ["rate", "ratio", "rating", "rat"],
+        "correct": 0,
+        "explain": "Exchange rate = Tỷ giá hối đoái."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "He suggested ______ in real estate.",
+        "choices": ["invest", "to invest", "investing", "invested"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "Please ______ your signature at the bottom.",
+        "choices": ["verify", "valid", "verification", "very"],
+        "correct": 0,
+        "explain": "Verify signature = Xác thực chữ ký."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "It is said that he ______ a millionaire.",
+        "choices": ["is", "was", "to be", "being"],
+        "correct": 0,
+        "explain": "Câu bị động khách quan."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "We are seeking a ______ advisor.",
+        "choices": ["finance", "financial", "financially", "financing"],
+        "correct": 1,
+        "explain": "Financial advisor = Cố vấn tài chính."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "Hardly ______ entered the room when the alarm went off.",
+        "choices": ["I had", "had I", "did I", "I did"],
+        "correct": 1,
+        "explain": "Đảo ngữ: Hardly had I..."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "The bank approved the ______ application.",
+        "choices": ["loan", "lone", "load", "lane"],
+        "correct": 0,
+        "explain": "Loan application = Đơn vay vốn."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "Twenty dollars ______ too much for this.",
+        "choices": ["is", "are", "be", "were"],
+        "correct": 0,
+        "explain": "Số tiền luôn chia động từ số ít."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "Our ______ year ends in December.",
+        "choices": ["fiscal", "physical", "fishing", "fist"],
+        "correct": 0,
+        "explain": "Fiscal year = Năm tài chính."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "I had the roof ______ yesterday.",
+        "choices": ["repair", "repaired", "repairing", "to repair"],
+        "correct": 1,
+        "explain": "Cấu trúc: Have something done (V3/ed)."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "Please check your bank ______.",
+        "choices": ["statement", "state", "status", "statue"],
+        "correct": 0,
+        "explain": "Bank statement = Sao kê ngân hàng."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "Neither of the banks ______ open.",
+        "choices": ["is", "are", "were", "have"],
+        "correct": 0,
+        "explain": "Neither of + N(số nhiều) -> V(số ít)."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "We need to ______ the budget.",
+        "choices": ["allocate", "locate", "location", "allocation"],
+        "correct": 0,
+        "explain": "Allocate budget = Phân bổ ngân sách."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "By the time we arrive, the bank ______ closed.",
+        "choices": ["will be", "will have", "will have been", "is"],
+        "correct": 2,
+        "explain": "Tương lai hoàn thành."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "The ______ increased by 5%.",
+        "choices": ["revenue", "venue", "avenue", "review"],
+        "correct": 0,
+        "explain": "Revenue = Doanh thu."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "He acts as though he ______ everything.",
+        "choices": ["knows", "knew", "known", "knowing"],
+        "correct": 1,
+        "explain": "As though + Quá khứ giả định (trái thực tế)."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "Investment in stocks involves ______.",
+        "choices": ["risk", "riskly", "risky", "risking"],
+        "correct": 0,
+        "explain": "Involve risk = Liên quan đến rủi ro."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "Only later ______ realize my mistake.",
+        "choices": ["I did", "did I", "I do", "do I"],
+        "correct": 1,
+        "explain": "Đảo ngữ với Only later."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "We need to ______ the accounts.",
+        "choices": ["audit", "audio", "audience", "audition"],
+        "correct": 0,
+        "explain": "Audit = Kiểm toán."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "I wish I ______ more money.",
+        "choices": ["have", "had", "will have", "am having"],
+        "correct": 1,
+        "explain": "Wish + Past Simple."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "The ______ was declined.",
+        "choices": ["transact", "transaction", "transacting", "transactor"],
+        "correct": 1,
+        "explain": "Transaction = Giao dịch."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "Not until 5 PM ______ open.",
+        "choices": [
+          "the bank does",
+          "does the bank",
+          "is the bank",
+          "the bank is"
+        ],
+        "correct": 1,
+        "explain": "Đảo ngữ Not until."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "He declared ______.",
+        "choices": ["bankruptcy", "bankrupt", "banker", "banking"],
+        "correct": 0,
+        "explain": "Declare bankruptcy = Tuyên bố phá sản."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "It is worth ______ in gold.",
+        "choices": ["invest", "to invest", "investing", "invested"],
+        "correct": 2,
+        "explain": "Worth + V-ing."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "Calculate the net ______.",
+        "choices": ["profit", "prophet", "profile", "pro"],
+        "correct": 0,
+        "explain": "Net profit = Lợi nhuận ròng."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "If I ______ the lottery, I would buy a house.",
+        "choices": ["win", "won", "winning", "wins"],
+        "correct": 1,
+        "explain": "Điều kiện loại 2."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "The currency ______.",
+        "choices": ["depreciated", "appreciated", "appreciated", "all above"],
+        "correct": 3,
+        "explain": "Currency can depreciate (mất giá) or appreciate (tăng giá)."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "Would you mind ______ the contract?",
+        "choices": ["sign", "signing", "to sign", "signed"],
+        "correct": 1,
+        "explain": "Mind + V-ing."
+      }
+    ]
+  },
+  {
+    "id": "test9",
+    "title": "Mini Test 09: Nhân Sự & Tuyển Dụng",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "Please send your ______ to the HR department.",
+        "choices": ["resume", "assume", "consume", "presume"],
+        "correct": 0,
+        "explain": "Resume/CV = Sơ yếu lý lịch."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "I look forward to ______ from you.",
+        "choices": ["hear", "hearing", "heard", "to hear"],
+        "correct": 1,
+        "explain": "Look forward to + V-ing."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "The company offers a generous ______ plan.",
+        "choices": ["pension", "tension", "mansion", "mention"],
+        "correct": 0,
+        "explain": "Pension plan = Chế độ lương hưu."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "The man ______ we met yesterday is the CEO.",
+        "choices": ["who", "whom", "which", "whose"],
+        "correct": 1,
+        "explain": "Đại từ quan hệ đóng vai trò tân ngữ -> whom (hoặc who đều được, nhưng whom trang trọng hơn)."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "She has excellent ______ skills.",
+        "choices": ["interpersonal", "personal", "personnel", "personally"],
+        "correct": 0,
+        "explain": "Interpersonal skills = Kỹ năng giao tiếp ứng xử."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "Despite ______ qualified, he didn't get the job.",
+        "choices": ["be", "being", "been", "to be"],
+        "correct": 1,
+        "explain": "Despite + V-ing."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "We are currently ______ for a sales manager.",
+        "choices": ["recruiting", "recruit", "recruitment", "recruiter"],
+        "correct": 0,
+        "explain": "Recruiting = Đang tuyển dụng."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "I regret ______ you that you were not selected.",
+        "choices": ["tell", "to tell", "telling", "told"],
+        "correct": 1,
+        "explain": "Regret to tell = Tiếc phải thông báo (tin xấu)."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "He decided to ______ from his position.",
+        "choices": ["resign", "sign", "design", "assign"],
+        "correct": 0,
+        "explain": "Resign = Từ chức."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "It is important that he ______ prepared.",
+        "choices": ["be", "is", "was", "are"],
+        "correct": 0,
+        "explain": "Giả định thức: S + V nguyên thể."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "The ______ process takes two weeks.",
+        "choices": ["hiring", "hire", "hired", "hires"],
+        "correct": 0,
+        "explain": "Hiring process = Quy trình tuyển dụng."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "By the time he retires, he ______ here for 30 years.",
+        "choices": ["works", "will work", "will have worked", "worked"],
+        "correct": 2,
+        "explain": "Tương lai hoàn thành (trước mốc thời gian nghỉ hưu)."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "Employees are eligible ______ health insurance.",
+        "choices": ["for", "to", "with", "at"],
+        "correct": 0,
+        "explain": "Eligible for = Đủ điều kiện cho cái gì."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "If I ______ the job, I would move to NY.",
+        "choices": ["get", "got", "getting", "have got"],
+        "correct": 1,
+        "explain": "Điều kiện loại 2."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "Please provide three ______.",
+        "choices": ["references", "refers", "referrals", "reference"],
+        "correct": 0,
+        "explain": "References = Người tham khảo/Người giới thiệu."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "He admitted ______ the mistake.",
+        "choices": ["make", "to make", "making", "made"],
+        "correct": 2,
+        "explain": "Admit + V-ing."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "What are your salary ______?",
+        "choices": ["expectations", "expect", "expected", "expecting"],
+        "correct": 0,
+        "explain": "Salary expectations = Mức lương mong muốn."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "This is the applicant ______ CV I liked.",
+        "choices": ["who", "whom", "whose", "which"],
+        "correct": 2,
+        "explain": "Whose CV = CV của người đó."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "She was ______ for her hard work.",
+        "choices": [
+          "compensate",
+          "compensated",
+          "compensation",
+          "compensating"
+        ],
+        "correct": 1,
+        "explain": "Bị động: Was compensated (Được đền bù/thưởng)."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "I'm used to ______ under pressure.",
+        "choices": ["work", "working", "worked", "to work"],
+        "correct": 1,
+        "explain": "To be used to + V-ing."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "The probationary ______ lasts 3 months.",
+        "choices": ["period", "time", "date", "limit"],
+        "correct": 0,
+        "explain": "Probationary period = Thời gian thử việc."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "He asked me why ______ the previous job.",
+        "choices": ["did I leave", "I left", "I leave", "do I leave"],
+        "correct": 1,
+        "explain": "Câu tường thuật: Why + S + V."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "We value employee ______.",
+        "choices": ["retain", "retention", "retainer", "retaining"],
+        "correct": 1,
+        "explain": "Employee retention = Sự giữ chân nhân viên."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "Not only ______ experienced, but he is also friendly.",
+        "choices": ["is he", "he is", "was he", "he was"],
+        "correct": 0,
+        "explain": "Đảo ngữ Not only."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "The deadline is ______.",
+        "choices": ["approach", "approaching", "approached", "approaches"],
+        "correct": 1,
+        "explain": "Is approaching = Đang đến gần."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "I would rather you ______ come late.",
+        "choices": ["don't", "didn't", "won't", "not"],
+        "correct": 1,
+        "explain": "Would rather + S + V(quá khứ)."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "He was fired for ______.",
+        "choices": ["misconduct", "conduct", "conductor", "conducting"],
+        "correct": 0,
+        "explain": "Misconduct = Hành vi sai trái."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "Only by practicing ______ improve.",
+        "choices": ["you can", "can you", "you will", "will you"],
+        "correct": 1,
+        "explain": "Đảo ngữ Only by."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "Fill in the ______ form.",
+        "choices": ["apply", "application", "applicant", "applicable"],
+        "correct": 1,
+        "explain": "Application form = Đơn đăng ký."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "If I ______ you, I would accept the offer.",
+        "choices": ["am", "was", "were", "be"],
+        "correct": 2,
+        "explain": "If I were you."
+      }
+    ]
+  },
+  {
+    "id": "test10",
+    "title": "Mini Test 10: Sản Xuất & Kiểm Soát Chất Lượng",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "The factory operates on a 24-hour ______.",
+        "choices": ["shift", "lift", "gift", "drift"],
+        "correct": 0,
+        "explain": "Shift = Ca làm việc."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "The goods ______ in China.",
+        "choices": [
+          "manufacture",
+          "are manufactured",
+          "manufacturing",
+          "manufactures"
+        ],
+        "correct": 1,
+        "explain": "Câu bị động: Are manufactured (Được sản xuất)."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "We need to increase our ______ capacity.",
+        "choices": ["product", "produce", "production", "productive"],
+        "correct": 2,
+        "explain": "Production capacity = Năng lực sản xuất."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "Before ______ the factory, please wear a helmet.",
+        "choices": ["enter", "entering", "entered", "to enter"],
+        "correct": 1,
+        "explain": "Before + V-ing."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "All defective items must be ______.",
+        "choices": ["discarded", "rewarded", "regarded", "forwarded"],
+        "correct": 0,
+        "explain": "Discarded = Loại bỏ (hàng lỗi)."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "The harder you work, ______ you produce.",
+        "choices": ["the more", "more", "most", "the most"],
+        "correct": 0,
+        "explain": "So sánh kép: The harder... the more..."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "We aim to maximize ______.",
+        "choices": ["output", "input", "put", "out"],
+        "correct": 0,
+        "explain": "Output = Sản lượng đầu ra."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "It is critical that safety gear ______ worn.",
+        "choices": ["be", "is", "are", "was"],
+        "correct": 0,
+        "explain": "Giả định thức: S + be (nguyên thể) + V3/ed."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "The machine requires regular ______.",
+        "choices": ["maintain", "maintenance", "maintaining", "maintained"],
+        "correct": 1,
+        "explain": "Regular maintenance = Bảo trì định kỳ."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "Unless the machine is fixed, we ______ production.",
+        "choices": [
+          "can't start",
+          "couldn't start",
+          "don't start",
+          "didn't start"
+        ],
+        "correct": 0,
+        "explain": "Unless = If not. Vế chính chia tương lai/hiện tại (can't)."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "Raw ______ are stored in the warehouse.",
+        "choices": ["materials", "matters", "substances", "items"],
+        "correct": 0,
+        "explain": "Raw materials = Nguyên liệu thô."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "By next month, we ______ 10,000 units.",
+        "choices": [
+          "produce",
+          "will produce",
+          "will have produced",
+          "produced"
+        ],
+        "correct": 2,
+        "explain": "Tương lai hoàn thành (trước mốc next month)."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "The ______ line was stopped for repairs.",
+        "choices": ["assemble", "assembly", "assembling", "assembled"],
+        "correct": 1,
+        "explain": "Assembly line = Dây chuyền lắp ráp."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "He suggested ______ the process.",
+        "choices": ["automate", "to automate", "automating", "automated"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "We strictly ______ to safety standards.",
+        "choices": ["adhere", "follow", "obey", "comply"],
+        "correct": 0,
+        "explain": "Adhere to = Tuân thủ (Follow/Obey không đi với to)."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "The equipment ______ yesterday.",
+        "choices": ["arrives", "arrived", "has arrived", "will arrive"],
+        "correct": 1,
+        "explain": "Yesterday -> Quá khứ đơn."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "This product comes with a one-year ______.",
+        "choices": ["warranty", "warrant", "warning", "warden"],
+        "correct": 0,
+        "explain": "Warranty = Bảo hành."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "Neither the workers nor the supervisor ______ happy.",
+        "choices": ["is", "are", "were", "have"],
+        "correct": 0,
+        "explain": "Chia theo chủ ngữ gần nhất (supervisor - số ít) -> is."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "The ______ process is fully automated.",
+        "choices": [
+          "manufacture",
+          "manufacturing",
+          "manufacturer",
+          "manufactured"
+        ],
+        "correct": 1,
+        "explain": "Manufacturing process = Quy trình sản xuất."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "Only when the quality is checked ______ ship it.",
+        "choices": ["we will", "will we", "we can", "can we"],
+        "correct": 1,
+        "explain": "Đảo ngữ Only when."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "We need to ______ the workflow.",
+        "choices": ["streamline", "stream", "line", "linear"],
+        "correct": 0,
+        "explain": "Streamline = Tinh gọn/Hợp lý hóa quy trình."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "I wish the machine ______ breaking down.",
+        "choices": ["stop", "stopped", "would stop", "stops"],
+        "correct": 2,
+        "explain": "Wish + would V (phàn nàn về điều gì đó)."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "The inventory is checked ______.",
+        "choices": ["periodic", "periodical", "periodically", "period"],
+        "correct": 2,
+        "explain": "Trạng từ bổ nghĩa cho động từ checked."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "It's no use ______ to fix it manually.",
+        "choices": ["try", "to try", "trying", "tried"],
+        "correct": 2,
+        "explain": "It's no use + V-ing."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "A ______ was found in the system.",
+        "choices": ["defect", "perfect", "effect", "affect"],
+        "correct": 0,
+        "explain": "Defect = Lỗi/Khuyết điểm."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "Had we known about the flaw, we ______ it.",
+        "choices": ["fixed", "would fix", "would have fixed", "will fix"],
+        "correct": 2,
+        "explain": "Điều kiện loại 3 đảo ngữ."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "Production has been ______ halted.",
+        "choices": ["temporary", "temporarily", "temporal", "temp"],
+        "correct": 1,
+        "explain": "Temporarily halted = Tạm dừng."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "The manager had the workers ______ overtime.",
+        "choices": ["work", "to work", "working", "worked"],
+        "correct": 0,
+        "explain": "Have someone do something (V nguyên thể)."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "We conduct random ______.",
+        "choices": ["inspects", "inspections", "inspectors", "inspecting"],
+        "correct": 1,
+        "explain": "Inspections = Các cuộc thanh tra/kiểm tra."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "The plant, ______ was built in 1990, closes today.",
+        "choices": ["which", "who", "that", "where"],
+        "correct": 0,
+        "explain": "Mệnh đề quan hệ không xác định chỉ vật -> Which."
+      }
+    ]
+  },
+  {
+    "id": "test11",
+    "title": "Mini Test 11: Bất Động Sản & Nhà Ở",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "The ______ signed the lease agreement.",
+        "choices": ["tenant", "tenure", "tent", "tend"],
+        "correct": 0,
+        "explain": "Tenant = Người thuê nhà."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "If you pay now, you ______ a discount.",
+        "choices": ["get", "will get", "got", "getting"],
+        "correct": 1,
+        "explain": "Điều kiện loại 1."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "The apartment is fully ______.",
+        "choices": ["furnish", "furniture", "furnished", "furnishing"],
+        "correct": 2,
+        "explain": "Fully furnished = Đầy đủ nội thất."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "I would rather you ______ loud music.",
+        "choices": ["don't play", "didn't play", "not play", "won't play"],
+        "correct": 1,
+        "explain": "Would rather + S + V(quá khứ)."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "We require a security ______.",
+        "choices": ["deposit", "depot", "dispose", "depose"],
+        "correct": 0,
+        "explain": "Security deposit = Tiền đặt cọc."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "The house ______ next week.",
+        "choices": ["paints", "will paint", "will be painted", "painted"],
+        "correct": 2,
+        "explain": "Bị động tương lai."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "The ______ agent showed us the house.",
+        "choices": ["real", "realty", "estate", "state"],
+        "correct": 2,
+        "explain": "Real estate agent = Môi giới bất động sản."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "Not only ______ spacious, but it is also cheap.",
+        "choices": ["is it", "it is", "was it", "it was"],
+        "correct": 0,
+        "explain": "Đảo ngữ Not only."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "The building is located in the ______.",
+        "choices": ["suburbs", "urban", "rural", "village"],
+        "correct": 0,
+        "explain": "In the suburbs = Ở vùng ngoại ô."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "I am used to ______ in an apartment.",
+        "choices": ["live", "living", "lived", "to live"],
+        "correct": 1,
+        "explain": "To be used to + V-ing."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "Utilities are included in the ______.",
+        "choices": ["rent", "lease", "loan", "debt"],
+        "correct": 0,
+        "explain": "Rent = Tiền thuê nhà."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "By the time we move, they ______ the repairs.",
+        "choices": ["finish", "will finish", "will have finished", "finished"],
+        "correct": 2,
+        "explain": "Tương lai hoàn thành."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "Please sign the ______ agreement.",
+        "choices": ["lease", "rent", "hire", "borrow"],
+        "correct": 0,
+        "explain": "Lease agreement = Hợp đồng thuê nhà."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "______ of the two houses do you prefer?",
+        "choices": ["Who", "What", "Which", "Where"],
+        "correct": 2,
+        "explain": "Which (lựa chọn 1 trong 2)."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "The landlord handles property ______.",
+        "choices": ["manage", "manager", "management", "managing"],
+        "correct": 2,
+        "explain": "Property management = Quản lý tài sản."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "There is ______ furniture in the room.",
+        "choices": ["few", "a few", "many", "little"],
+        "correct": 3,
+        "explain": "Furniture là N không đếm được -> dùng little."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "The ______ needs to be fixed.",
+        "choices": ["plumb", "plumber", "plumbing", "plumbed"],
+        "correct": 2,
+        "explain": "The plumbing = Hệ thống ống nước."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "It is essential that the rent ______ paid on time.",
+        "choices": ["be", "is", "was", "are"],
+        "correct": 0,
+        "explain": "Giả định thức: S + be (nguyên thể)."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "This area is ______ for commercial use.",
+        "choices": ["zone", "zoned", "zoning", "zones"],
+        "correct": 1,
+        "explain": "Zoned for = Được quy hoạch cho."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "He asked if the house ______ a garage.",
+        "choices": ["has", "had", "have", "having"],
+        "correct": 1,
+        "explain": "Câu tường thuật lùi thì."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "We need to ______ the kitchen.",
+        "choices": ["renovate", "innovate", "novice", "novel"],
+        "correct": 0,
+        "explain": "Renovate = Cải tạo, sửa sang."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "Hardly had I moved in ______ the roof leaked.",
+        "choices": ["when", "than", "that", "after"],
+        "correct": 0,
+        "explain": "Hardly... when..."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "The ______ value has increased.",
+        "choices": ["proper", "property", "propriety", "properties"],
+        "correct": 1,
+        "explain": "Property value = Giá trị bất động sản."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "Five thousand dollars ______ a good price.",
+        "choices": ["is", "are", "be", "were"],
+        "correct": 0,
+        "explain": "Số tiền -> V số ít."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "Is the property ______?",
+        "choices": ["vacant", "vacancy", "vacate", "vacation"],
+        "correct": 0,
+        "explain": "Vacant = Trống (chưa có người ở)."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "I suggest ______ a professional inspector.",
+        "choices": ["hire", "to hire", "hiring", "hired"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "The ______ collects the rent monthly.",
+        "choices": ["landlord", "landlady", "owner", "landlord"],
+        "correct": 0,
+        "explain": "Landlord = Chủ nhà."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "If I ______ you, I would rent this one.",
+        "choices": ["am", "was", "were", "be"],
+        "correct": 2,
+        "explain": "Điều kiện loại 2."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "Check the ______ for nearby amenities.",
+        "choices": ["vicinity", "neighbor", "near", "close"],
+        "correct": 0,
+        "explain": "Vicinity = Vùng lân cận."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "Let's view the house, ______?",
+        "choices": ["shall we", "will we", "do we", "don't we"],
+        "correct": 0,
+        "explain": "Let's -> shall we."
+      }
+    ]
+  },
+  {
+    "id": "test12",
+    "title": "Mini Test 12: Giao Thông & Phương Tiện",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "He ______ to work by train every day.",
+        "choices": ["commutes", "computes", "communities", "competes"],
+        "correct": 0,
+        "explain": "Commutes = Đi làm (di chuyển quãng đường xa)."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "The train ______ at 5 PM.",
+        "choices": ["leave", "leaves", "leaving", "left"],
+        "correct": 1,
+        "explain": "Lịch trình cố định -> Hiện tại đơn."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "Please pay the ______ at the toll booth.",
+        "choices": ["fare", "fee", "toll", "cost"],
+        "correct": 2,
+        "explain": "Toll = Phí cầu đường."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "I suggest ______ the bus.",
+        "choices": ["take", "to take", "taking", "taken"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "My car broke ______ on the highway.",
+        "choices": ["up", "down", "out", "in"],
+        "correct": 1,
+        "explain": "Broke down = Bị hỏng."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "If it snows, traffic ______ slow.",
+        "choices": ["is", "will be", "was", "would be"],
+        "correct": 1,
+        "explain": "Điều kiện loại 1."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "The flight has been ______.",
+        "choices": ["cancel", "canceled", "cancer", "cancellation"],
+        "correct": 1,
+        "explain": "Bị động: Has been canceled."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "It takes an hour ______ to the city.",
+        "choices": ["drive", "to drive", "driving", "drove"],
+        "correct": 1,
+        "explain": "It takes time to V."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "Pedestrians should use the ______.",
+        "choices": ["crosswalk", "sidewalk", "highway", "lane"],
+        "correct": 0,
+        "explain": "Crosswalk = Vạch kẻ đường cho người đi bộ."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "No sooner had we started ______ it rained.",
+        "choices": ["than", "when", "that", "after"],
+        "correct": 0,
+        "explain": "No sooner... than..."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "We were stuck in a traffic ______.",
+        "choices": ["jam", "jar", "jelly", "juice"],
+        "correct": 0,
+        "explain": "Traffic jam = Tắc đường."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "I wish I ______ driving.",
+        "choices": ["know", "knew", "known", "knowing"],
+        "correct": 1,
+        "explain": "Wish + Past Simple."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "Please show your ______ license.",
+        "choices": ["driver", "driving", "drove", "driven"],
+        "correct": 1,
+        "explain": "Driving license = Bằng lái xe."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "By the time we arrive, the bus ______ left.",
+        "choices": ["has", "will have", "had", "will"],
+        "correct": 1,
+        "explain": "Tương lai hoàn thành."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "The ______ limit is 60 mph.",
+        "choices": ["speed", "fast", "quick", "pace"],
+        "correct": 0,
+        "explain": "Speed limit = Giới hạn tốc độ."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "Neither the bus nor the train ______ on time.",
+        "choices": ["is", "are", "were", "have"],
+        "correct": 0,
+        "explain": "Neither... nor... chia theo chủ ngữ gần nhất (train - số ít)."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "We need to ______ a vehicle.",
+        "choices": ["rent", "lease", "hire", "charter"],
+        "correct": 0,
+        "explain": "Rent a vehicle (thuê xe ngắn hạn)."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "The car needs ______.",
+        "choices": ["wash", "to wash", "washing", "washed"],
+        "correct": 2,
+        "explain": "Need + V-ing (Bị động: cần được rửa)."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "Check the tire ______.",
+        "choices": ["press", "pressure", "pressing", "pressed"],
+        "correct": 1,
+        "explain": "Tire pressure = Áp suất lốp."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "It is important that he ______ careful.",
+        "choices": ["be", "is", "was", "are"],
+        "correct": 0,
+        "explain": "Giả định thức: S + be (nguyên thể)."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "The shuttle bus runs ______.",
+        "choices": ["frequent", "frequency", "frequently", "frequencies"],
+        "correct": 2,
+        "explain": "Trạng từ bổ nghĩa cho runs."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "I remember ______ the keys here.",
+        "choices": ["leave", "to leave", "leaving", "left"],
+        "correct": 2,
+        "explain": "Remember V-ing = Nhớ đã làm gì."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "Public ______ is very convenient.",
+        "choices": ["transport", "transportation", "transfer", "transit"],
+        "correct": 1,
+        "explain": "Public transportation = Giao thông công cộng."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "Only by running ______ catch the bus.",
+        "choices": ["we can", "can we", "we will", "will we"],
+        "correct": 1,
+        "explain": "Đảo ngữ Only by."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "The road is under ______.",
+        "choices": ["repair", "repairing", "reparation", "repairs"],
+        "correct": 0,
+        "explain": "Under repair = Đang sửa chữa."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "Would you mind ______ me a lift?",
+        "choices": ["give", "giving", "to give", "gave"],
+        "correct": 1,
+        "explain": "Mind + V-ing."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "Fasten your ______ belt.",
+        "choices": ["seat", "sit", "set", "sat"],
+        "correct": 0,
+        "explain": "Seat belt = Dây an toàn."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "The more you drive, ______ you get.",
+        "choices": ["the tired", "the more tired", "more tired", "most tired"],
+        "correct": 1,
+        "explain": "So sánh kép."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "We need to ______ the tank.",
+        "choices": ["fill", "full", "fuel", "fail"],
+        "correct": 0,
+        "explain": "Fill the tank = Đổ đầy bình xăng."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "He asked where the nearest station ______.",
+        "choices": ["is", "was", "were", "been"],
+        "correct": 1,
+        "explain": "Câu tường thuật lùi thì."
+      }
+    ]
+  },
+  {
+    "id": "test13",
+    "title": "Mini Test 13: Công Nghệ & Viễn Thông",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "Please ______ the software to the latest version.",
+        "choices": ["grade", "upgrade", "uphill", "upper"],
+        "correct": 1,
+        "explain": "Upgrade the software = Nâng cấp phần mềm."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "The computer ______ I bought yesterday is fast.",
+        "choices": ["who", "whom", "which", "whose"],
+        "correct": 2,
+        "explain": "Mệnh đề quan hệ chỉ vật -> Which."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "We need to ______ the database.",
+        "choices": ["access", "excess", "assess", "asset"],
+        "correct": 0,
+        "explain": "Access the database = Truy cập cơ sở dữ liệu."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "It is necessary that the password ______ confidential.",
+        "choices": ["keep", "kept", "be kept", "keeps"],
+        "correct": 2,
+        "explain": "Giả định thức bị động: S + be + V3/ed."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "The server is currently ______.",
+        "choices": ["offline", "inline", "online", "line"],
+        "correct": 0,
+        "explain": "Offline = Ngoại tuyến/Mất kết nối."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "If I ______ you, I would back up the files.",
+        "choices": ["am", "was", "were", "be"],
+        "correct": 2,
+        "explain": "Điều kiện loại 2: If I were you."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "Please enter your ______ and password.",
+        "choices": ["username", "use", "user", "usage"],
+        "correct": 0,
+        "explain": "Username = Tên đăng nhập."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "The more features it has, ______ it becomes.",
+        "choices": [
+          "complex",
+          "the more complex",
+          "more complex",
+          "most complex"
+        ],
+        "correct": 1,
+        "explain": "So sánh kép: The more... the more..."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "The device is ______ with most computers.",
+        "choices": ["compatible", "compatibly", "competition", "compact"],
+        "correct": 0,
+        "explain": "Compatible with = Tương thích với."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "I suggest ______ the computer.",
+        "choices": ["restart", "to restart", "restarting", "restarted"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "Technical ______ is available 24/7.",
+        "choices": ["support", "supporter", "supportive", "supporting"],
+        "correct": 0,
+        "explain": "Technical support = Hỗ trợ kỹ thuật."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "By next year, technology ______ significantly.",
+        "choices": ["change", "will change", "will have changed", "changed"],
+        "correct": 2,
+        "explain": "Tương lai hoàn thành."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "Do not open ______ email attachments.",
+        "choices": ["suspicion", "suspicious", "suspect", "suspecting"],
+        "correct": 1,
+        "explain": "Suspicious attachments = Tệp đính kèm đáng ngờ."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "Neither the mouse nor the keyboard ______ working.",
+        "choices": ["is", "are", "were", "have"],
+        "correct": 0,
+        "explain": "Chia theo chủ ngữ gần nhất (keyboard - số ít) -> is."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "The website is under ______.",
+        "choices": ["maintain", "maintenance", "maintaining", "maintained"],
+        "correct": 1,
+        "explain": "Under maintenance = Đang bảo trì."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "I wish I ______ how to code.",
+        "choices": ["know", "knew", "known", "knowing"],
+        "correct": 1,
+        "explain": "Wish + Past Simple."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "We need to ______ the data regularly.",
+        "choices": ["back up", "back down", "back off", "back in"],
+        "correct": 0,
+        "explain": "Back up data = Sao lưu dữ liệu."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "The laptop ______ I use is old.",
+        "choices": ["who", "whom", "that", "where"],
+        "correct": 2,
+        "explain": "Mệnh đề quan hệ chỉ vật -> That (thay cho Which)."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "The application ______ unexpectedly.",
+        "choices": ["quit", "ceased", "stopped", "crashed"],
+        "correct": 3,
+        "explain": "App crashed = Ứng dụng bị lỗi/văng ra."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "Hardly had I clicked save ______ the power went out.",
+        "choices": ["when", "than", "that", "after"],
+        "correct": 0,
+        "explain": "Hardly... when..."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "Wireless ______ is available in the lobby.",
+        "choices": ["connect", "connection", "connecting", "connector"],
+        "correct": 1,
+        "explain": "Wireless connection = Kết nối không dây."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "He asked if I ______ fix the printer.",
+        "choices": ["can", "could", "will", "may"],
+        "correct": 1,
+        "explain": "Câu tường thuật lùi thì."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "The system encountered a ______ error.",
+        "choices": ["critic", "critical", "criticize", "critically"],
+        "correct": 1,
+        "explain": "Critical error = Lỗi nghiêm trọng."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "It takes time ______ new software.",
+        "choices": ["learn", "to learn", "learning", "learned"],
+        "correct": 1,
+        "explain": "It takes time to V."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "Click the link to ______ your account.",
+        "choices": ["active", "activity", "activate", "action"],
+        "correct": 2,
+        "explain": "Activate account = Kích hoạt tài khoản."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "Not only ______ efficient, but it is also cheap.",
+        "choices": ["is it", "it is", "was it", "it was"],
+        "correct": 0,
+        "explain": "Đảo ngữ Not only."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "We experienced a network ______.",
+        "choices": ["fail", "failure", "failing", "failed"],
+        "correct": 1,
+        "explain": "Network failure = Lỗi mạng."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "Only by upgrading ______ improve performance.",
+        "choices": ["you can", "can you", "you will", "will you"],
+        "correct": 1,
+        "explain": "Đảo ngữ Only by."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "The battery is ______.",
+        "choices": ["charge", "charging", "charger", "charges"],
+        "correct": 1,
+        "explain": "Is charging = Đang sạc."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "I would rather you ______ use my laptop.",
+        "choices": ["don't", "didn't", "won't", "not"],
+        "correct": 1,
+        "explain": "Would rather + S + V(quá khứ)."
+      }
+    ]
+  },
+  {
+    "id": "test14",
+    "title": "Mini Test 14: Sức Khỏe & Môi Trường",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "The doctor wrote a ______.",
+        "choices": [
+          "prescription",
+          "description",
+          "subscription",
+          "inscription"
+        ],
+        "correct": 0,
+        "explain": "Prescription = Đơn thuốc."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "You ______ smoke in the hospital.",
+        "choices": ["mustn't", "don't have to", "needn't", "wouldn't"],
+        "correct": 0,
+        "explain": "Mustn't = Cấm không được làm."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "We need to protect the ______.",
+        "choices": [
+          "environment",
+          "environmental",
+          "environmentally",
+          "environ"
+        ],
+        "correct": 0,
+        "explain": "Protect the environment = Bảo vệ môi trường."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "He stopped ______ years ago.",
+        "choices": ["smoke", "to smoke", "smoking", "smoked"],
+        "correct": 2,
+        "explain": "Stop V-ing = Bỏ hẳn việc gì."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "Regular exercise is beneficial ______ health.",
+        "choices": ["for", "to", "at", "with"],
+        "correct": 1,
+        "explain": "Beneficial to = Có lợi cho."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "It is important that he ______ a checkup.",
+        "choices": ["get", "gets", "got", "getting"],
+        "correct": 0,
+        "explain": "Giả định thức: S + V nguyên thể."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "The factory emits toxic ______.",
+        "choices": ["fumes", "perfumes", "scents", "smells"],
+        "correct": 0,
+        "explain": "Toxic fumes = Khí thải độc hại."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "The patient ______ by the doctor now.",
+        "choices": [
+          "examines",
+          "is examining",
+          "is being examined",
+          "examined"
+        ],
+        "correct": 2,
+        "explain": "Bị động tiếp diễn: Is being + V3/ed."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "We should use ______ energy sources.",
+        "choices": ["renew", "renewable", "renewal", "renewed"],
+        "correct": 1,
+        "explain": "Renewable energy = Năng lượng tái tạo."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "If I ______ you, I would see a dentist.",
+        "choices": ["am", "was", "were", "be"],
+        "correct": 2,
+        "explain": "Điều kiện loại 2."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "The ______ of the disease are fever and cough.",
+        "choices": ["symptoms", "symbols", "systems", "syndromes"],
+        "correct": 0,
+        "explain": "Symptoms = Triệu chứng."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "By next year, the pollution ______ decreased.",
+        "choices": ["will", "will be", "will have", "has"],
+        "correct": 2,
+        "explain": "Tương lai hoàn thành."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "Please ______ your waste.",
+        "choices": ["cycle", "recycle", "bicycle", "circle"],
+        "correct": 1,
+        "explain": "Recycle waste = Tái chế rác thải."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "Neither the air nor the water ______ clean.",
+        "choices": ["is", "are", "were", "have"],
+        "correct": 0,
+        "explain": "Water (không đếm được) -> is."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "He suffers ______ allergies.",
+        "choices": ["from", "of", "with", "by"],
+        "correct": 0,
+        "explain": "Suffer from = Chịu đựng (bệnh tật)."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "I wish I ______ healthier.",
+        "choices": ["am", "was", "were", "be"],
+        "correct": 2,
+        "explain": "Wish + were (cho mọi ngôi)."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "The clinic accepts most ______ plans.",
+        "choices": ["insure", "insurance", "ensured", "assurance"],
+        "correct": 1,
+        "explain": "Insurance plans = Gói bảo hiểm."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "The more you exercise, ______ you feel.",
+        "choices": ["the better", "better", "best", "the best"],
+        "correct": 0,
+        "explain": "So sánh kép."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "Global ______ is a serious issue.",
+        "choices": ["warm", "warming", "warmth", "warmer"],
+        "correct": 1,
+        "explain": "Global warming = Nóng lên toàn cầu."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "He suggested ______ a diet.",
+        "choices": ["start", "to start", "starting", "started"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "Take this medicine twice a ______.",
+        "choices": ["day", "daily", "diary", "dairy"],
+        "correct": 0,
+        "explain": "Twice a day = Hai lần một ngày."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "Hardly had we gone out ______ it rained.",
+        "choices": ["when", "than", "that", "after"],
+        "correct": 0,
+        "explain": "Hardly... when..."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "We need to ______ energy.",
+        "choices": ["conserve", "conversation", "conservative", "converse"],
+        "correct": 0,
+        "explain": "Conserve energy = Tiết kiệm năng lượng."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "It takes effort ______ weight.",
+        "choices": ["lose", "to lose", "losing", "lost"],
+        "correct": 1,
+        "explain": "It takes... to V."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "The ______ results are negative.",
+        "choices": ["lab", "label", "labor", "lap"],
+        "correct": 0,
+        "explain": "Lab results = Kết quả xét nghiệm."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "Not only ______ fit, but he is also strong.",
+        "choices": ["is he", "he is", "was he", "he was"],
+        "correct": 0,
+        "explain": "Đảo ngữ Not only."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "Reduce, Reuse, ______.",
+        "choices": ["Repeat", "Recycle", "Repair", "Return"],
+        "correct": 1,
+        "explain": "3R: Giảm thiểu, Tái sử dụng, Tái chế."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "Only by exercising ______ stay healthy.",
+        "choices": ["you can", "can you", "you will", "will you"],
+        "correct": 1,
+        "explain": "Đảo ngữ Only by."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "He has a high ______.",
+        "choices": ["fever", "favor", "flavor", "forever"],
+        "correct": 0,
+        "explain": "High fever = Sốt cao."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "I would rather you ______ smoke.",
+        "choices": ["don't", "didn't", "won't", "not"],
+        "correct": 1,
+        "explain": "Would rather + S + V(quá khứ)."
+      }
+    ]
+  },
+  {
+    "id": "test15",
+    "title": "Mini Test 15: Xã Hội & Sự Kiện",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "Did you receive the ______ to the party?",
+        "choices": ["invite", "invitation", "inviting", "invited"],
+        "correct": 1,
+        "explain": "Invitation = Lời mời."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "We look forward to ______ you.",
+        "choices": ["see", "seeing", "saw", "seen"],
+        "correct": 1,
+        "explain": "Look forward to + V-ing."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "The event will be held at a ______.",
+        "choices": ["venue", "revenue", "avenue", "menu"],
+        "correct": 0,
+        "explain": "Venue = Địa điểm tổ chức."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "She is the woman ______ organized the event.",
+        "choices": ["who", "whom", "which", "whose"],
+        "correct": 0,
+        "explain": "Mệnh đề quan hệ chỉ người (chủ ngữ) -> Who."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "Please ______ by Friday.",
+        "choices": ["RSVP", "VIP", "ASAP", "ETA"],
+        "correct": 0,
+        "explain": "RSVP = Vui lòng phản hồi (xác nhận tham dự)."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "If it ______ rains, the picnic is canceled.",
+        "choices": ["rain", "rains", "rained", "raining"],
+        "correct": 1,
+        "explain": "Điều kiện loại 1."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "We hired a ______ for the banquet.",
+        "choices": ["caterer", "catering", "cater", "caters"],
+        "correct": 0,
+        "explain": "Caterer = Nhà cung cấp dịch vụ ăn uống."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "The harder you try, ______ you get.",
+        "choices": ["lucky", "luckier", "the luckier", "luckiest"],
+        "correct": 2,
+        "explain": "So sánh kép: The more... the more..."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "All proceeds go to ______.",
+        "choices": ["charity", "clarity", "parity", "rarity"],
+        "correct": 0,
+        "explain": "Charity = Tổ chức từ thiện."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "It is important that everyone ______ dressed formally.",
+        "choices": ["be", "is", "was", "are"],
+        "correct": 0,
+        "explain": "Giả định thức: S + be (nguyên thể)."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "The ______ speech was inspiring.",
+        "choices": ["key", "keynote", "keyboard", "keyword"],
+        "correct": 1,
+        "explain": "Keynote speech = Bài phát biểu chính."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "By the time we arrive, the party ______ started.",
+        "choices": ["will", "will be", "will have", "has"],
+        "correct": 2,
+        "explain": "Tương lai hoàn thành."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "He is a ______ at the local shelter.",
+        "choices": ["volunteer", "voluntary", "volunteering", "volunteers"],
+        "correct": 0,
+        "explain": "Volunteer = Tình nguyện viên."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "Neither John nor his friends ______ coming.",
+        "choices": ["is", "are", "was", "has"],
+        "correct": 1,
+        "explain": "Chia theo chủ ngữ gần nhất (friends - số nhiều) -> are."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "The ______ capacity is 200 people.",
+        "choices": ["seat", "seating", "seated", "seats"],
+        "correct": 1,
+        "explain": "Seating capacity = Sức chứa chỗ ngồi."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "I wish I ______ dance.",
+        "choices": ["can", "could", "will", "may"],
+        "correct": 1,
+        "explain": "Wish + could (Khả năng)."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "Networking helps build ______.",
+        "choices": ["relation", "relations", "relationship", "relationships"],
+        "correct": 3,
+        "explain": "Build relationships = Xây dựng mối quan hệ."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "He suggested ______ the gala.",
+        "choices": ["postpone", "to postpone", "postponing", "postponed"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "The dress ______ is black tie.",
+        "choices": ["code", "mode", "node", "load"],
+        "correct": 0,
+        "explain": "Dress code = Quy định trang phục."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "Hardly had the music started ______ people danced.",
+        "choices": ["when", "than", "that", "after"],
+        "correct": 0,
+        "explain": "Hardly... when..."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "We are raising ______ for the new library.",
+        "choices": ["funds", "funs", "fans", "fins"],
+        "correct": 0,
+        "explain": "Raising funds = Gây quỹ."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "It takes time ______ an event.",
+        "choices": ["plan", "to plan", "planning", "planned"],
+        "correct": 1,
+        "explain": "It takes time to V."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "The ______ was lively.",
+        "choices": ["atmosphere", "sphere", "hemisphere", "atmospheric"],
+        "correct": 0,
+        "explain": "Atmosphere = Bầu không khí."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "Not only ______ food, but they also provided drinks.",
+        "choices": [
+          "did they serve",
+          "they served",
+          "they did serve",
+          "served they"
+        ],
+        "correct": 0,
+        "explain": "Đảo ngữ Not only."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "Please show your ______ card.",
+        "choices": ["identify", "identity", "identification", "identical"],
+        "correct": 2,
+        "explain": "Identification card (ID card) = Thẻ căn cước."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "Only by working together ______ succeed.",
+        "choices": ["we can", "can we", "we will", "will we"],
+        "correct": 1,
+        "explain": "Đảo ngữ Only by."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "The ______ ceremony starts at 6.",
+        "choices": ["open", "opening", "opened", "opener"],
+        "correct": 1,
+        "explain": "Opening ceremony = Lễ khai trương."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "I would rather we ______ home now.",
+        "choices": ["go", "went", "gone", "going"],
+        "correct": 1,
+        "explain": "Would rather + S + V(quá khứ)."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "He made a generous ______.",
+        "choices": ["donate", "donation", "donor", "donating"],
+        "correct": 1,
+        "explain": "Donation = Khoản quyên góp."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "She asked if I ______ invited.",
+        "choices": ["am", "was", "were", "be"],
+        "correct": 1,
+        "explain": "Câu tường thuật lùi thì."
+      }
+    ]
+  },
+  {
+    "id": "test16",
+    "title": "Mini Test 16: Giáo Dục & Đào Tạo",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "The university increased its ______ fees.",
+        "choices": ["tuition", "tutoring", "intuition", "tutor"],
+        "correct": 0,
+        "explain": "Tuition fees = Học phí."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "Students ______ register before September.",
+        "choices": ["must", "can", "may", "will"],
+        "correct": 0,
+        "explain": "Must (Bắt buộc) - Quy định."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "She received a full ______.",
+        "choices": ["scholarship", "scholar", "scholastic", "school"],
+        "correct": 0,
+        "explain": "Scholarship = Học bổng."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "I am interested in ______ this course.",
+        "choices": ["take", "to take", "taking", "taken"],
+        "correct": 2,
+        "explain": "Interested in + V-ing."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "He has a master's ______ in Business.",
+        "choices": ["degree", "agree", "grade", "level"],
+        "correct": 0,
+        "explain": "Master's degree = Bằng thạc sĩ."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "The teacher ______ I like best is Ms. Lan.",
+        "choices": ["who", "whom", "which", "whose"],
+        "correct": 1,
+        "explain": "Whom (Tân ngữ chỉ người) - Người mà tôi thích."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "Please submit your ______ by Friday.",
+        "choices": ["assign", "assignment", "assigning", "assigned"],
+        "correct": 1,
+        "explain": "Assignment = Bài tập được giao."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "If you study hard, you ______ pass.",
+        "choices": ["pass", "will pass", "passed", "passing"],
+        "correct": 1,
+        "explain": "Điều kiện loại 1."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "The library is ______ on Sundays.",
+        "choices": ["close", "closing", "closed", "closure"],
+        "correct": 2,
+        "explain": "Is closed = Đóng cửa (tính từ)."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "Neither the students nor the teacher ______ here.",
+        "choices": ["is", "are", "were", "have"],
+        "correct": 0,
+        "explain": "Chia theo chủ ngữ gần nhất (teacher - số ít) -> is."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "He wants to ______ in a cooking class.",
+        "choices": ["enroll", "roll", "role", "enlist"],
+        "correct": 0,
+        "explain": "Enroll in = Ghi danh/Đăng ký học."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "It is essential that she ______ hard.",
+        "choices": ["study", "studies", "studied", "studying"],
+        "correct": 0,
+        "explain": "Giả định thức: S + V nguyên thể."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "The ______ starts in September.",
+        "choices": ["semester", "seminar", "senate", "semester's"],
+        "correct": 0,
+        "explain": "Semester = Học kỳ."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "By the time he graduates, he ______ 22.",
+        "choices": ["is", "will be", "will have been", "was"],
+        "correct": 1,
+        "explain": "Tương lai đơn (chỉ tuổi tác/sự thật hiển nhiên)."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "She attended a ______ on physics.",
+        "choices": ["lecture", "lecturer", "lecturing", "lection"],
+        "correct": 0,
+        "explain": "Lecture = Bài giảng."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "I wish I ______ more time to study.",
+        "choices": ["have", "had", "have had", "having"],
+        "correct": 1,
+        "explain": "Wish + Past Simple."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "The ______ requirements are strict.",
+        "choices": ["admit", "admission", "admitting", "admitted"],
+        "correct": 1,
+        "explain": "Admission requirements = Yêu cầu đầu vào."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "The exam was ______ difficult than expected.",
+        "choices": ["more", "most", "as", "so"],
+        "correct": 0,
+        "explain": "More ... than (So sánh hơn)."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "He graduated ______ Harvard.",
+        "choices": ["from", "at", "in", "on"],
+        "correct": 0,
+        "explain": "Graduate from = Tốt nghiệp từ trường nào."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "Hardly had the class started ______ the bell rang.",
+        "choices": ["when", "than", "that", "after"],
+        "correct": 0,
+        "explain": "Hardly... when..."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "She has a ______ in Biology.",
+        "choices": ["certificate", "certify", "certain", "certification"],
+        "correct": 0,
+        "explain": "Certificate = Chứng chỉ."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "He asked me what my major ______.",
+        "choices": ["is", "was", "were", "be"],
+        "correct": 1,
+        "explain": "Câu tường thuật lùi thì."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "The campus has a large ______.",
+        "choices": ["dormitory", "dormant", "domain", "dome"],
+        "correct": 0,
+        "explain": "Dormitory = Ký túc xá."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "Not only ______ smart, but she is also hardworking.",
+        "choices": ["is she", "she is", "was she", "she was"],
+        "correct": 0,
+        "explain": "Đảo ngữ Not only."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "Review your notes ______.",
+        "choices": ["thorough", "thoroughly", "through", "thought"],
+        "correct": 1,
+        "explain": "Trạng từ: Thoroughly = Một cách kỹ lưỡng."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "It takes 4 years ______ a degree.",
+        "choices": ["earn", "to earn", "earning", "earned"],
+        "correct": 1,
+        "explain": "It takes time to V."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "The ______ provided helpful feedback.",
+        "choices": ["instruct", "instructor", "instruction", "instructive"],
+        "correct": 1,
+        "explain": "Instructor = Giảng viên/Người hướng dẫn."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "Only by studying ______ pass.",
+        "choices": ["you can", "can you", "you will", "will you"],
+        "correct": 1,
+        "explain": "Đảo ngữ Only by."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "Focus on your ______.",
+        "choices": ["educate", "education", "educational", "educator"],
+        "correct": 1,
+        "explain": "Education = Việc học hành."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "I would rather you ______ study now.",
+        "choices": ["do", "did", "done", "doing"],
+        "correct": 1,
+        "explain": "Would rather + S + V(quá khứ)."
+      }
+    ]
+  },
+  {
+    "id": "test17",
+    "title": "Mini Test 17: Nhà Hàng & Dịch Vụ Ăn Uống",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "I would like to see the ______.",
+        "choices": ["menu", "list", "table", "food"],
+        "correct": 0,
+        "explain": "Menu = Thực đơn."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "Would you like ______ wine?",
+        "choices": ["some", "any", "many", "few"],
+        "correct": 0,
+        "explain": "Some (dùng trong câu mời mọc)."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "The ______ was delicious.",
+        "choices": ["appetizer", "appetite", "appear", "appeal"],
+        "correct": 0,
+        "explain": "Appetizer = Món khai vị."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "We ______ a table for two.",
+        "choices": ["book", "booked", "booking", "books"],
+        "correct": 1,
+        "explain": "Đã đặt bàn (quá khứ) -> booked."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "The chef uses fresh ______.",
+        "choices": ["ingredients", "elements", "parts", "factors"],
+        "correct": 0,
+        "explain": "Ingredients = Nguyên liệu (nấu ăn)."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "If you are hungry, ______ something.",
+        "choices": ["eat", "eating", "ate", "eats"],
+        "correct": 0,
+        "explain": "Câu mệnh lệnh (Điều kiện loại 0/1)."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "Please bring the ______.",
+        "choices": ["bill", "recipe", "prescription", "note"],
+        "correct": 0,
+        "explain": "Bill = Hóa đơn."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "I prefer fish ______ meat.",
+        "choices": ["to", "than", "over", "more"],
+        "correct": 0,
+        "explain": "Prefer... to..."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "Do you have a ______?",
+        "choices": ["reserve", "reservation", "reserved", "reserving"],
+        "correct": 1,
+        "explain": "Have a reservation = Có đặt chỗ trước."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "How ______ water do you need?",
+        "choices": ["much", "many", "long", "far"],
+        "correct": 0,
+        "explain": "Water không đếm được -> How much."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "The soup is too ______.",
+        "choices": ["spicy", "spice", "spiced", "spices"],
+        "correct": 0,
+        "explain": "Spicy = Cay."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "She suggested ______ pizza.",
+        "choices": ["order", "to order", "ordering", "ordered"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "This restaurant is famous ______ its seafood.",
+        "choices": ["for", "with", "about", "on"],
+        "correct": 0,
+        "explain": "Famous for = Nổi tiếng về."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "By the time we ate, the food ______ cold.",
+        "choices": ["get", "got", "had got", "getting"],
+        "correct": 2,
+        "explain": "Quá khứ hoàn thành (trước 1 hành động quá khứ)."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "We offer a variety of ______.",
+        "choices": ["beverages", "drinks", "liquids", "waters"],
+        "correct": 0,
+        "explain": "Beverages = Đồ uống (trang trọng)."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "Neither the pizza nor the pasta ______ good.",
+        "choices": ["was", "were", "are", "have"],
+        "correct": 0,
+        "explain": "Chia theo pasta (số ít) -> was."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "The waiter ______ us efficiently.",
+        "choices": ["served", "service", "servant", "server"],
+        "correct": 0,
+        "explain": "Served = Phục vụ."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "I wish I ______ cook better.",
+        "choices": ["can", "could", "will", "may"],
+        "correct": 1,
+        "explain": "Wish + could."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "For ______, I'll have ice cream.",
+        "choices": ["dessert", "desert", "depart", "assert"],
+        "correct": 0,
+        "explain": "Dessert = Món tráng miệng."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "Hardly had we sat down ______ the waiter arrived.",
+        "choices": ["when", "than", "that", "after"],
+        "correct": 0,
+        "explain": "Hardly... when..."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "The service was ______.",
+        "choices": ["excellence", "excellent", "excel", "excellently"],
+        "correct": 1,
+        "explain": "Tính từ: Excellent = Xuất sắc."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "He asked if the food ______ okay.",
+        "choices": ["is", "was", "were", "be"],
+        "correct": 1,
+        "explain": "Câu tường thuật lùi thì."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "I would like to ______ a table.",
+        "choices": ["book", "look", "hook", "cook"],
+        "correct": 0,
+        "explain": "Book a table = Đặt bàn."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "Not only ______ tasty, but it was also cheap.",
+        "choices": ["was it", "it was", "is it", "it is"],
+        "correct": 0,
+        "explain": "Đảo ngữ Not only (Quá khứ)."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "It is a ______ meal.",
+        "choices": ["gourmet", "government", "garment", "gloom"],
+        "correct": 0,
+        "explain": "Gourmet meal = Bữa ăn cao cấp/sành ăn."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "Only by booking early ______ get a seat.",
+        "choices": ["you can", "can you", "you will", "will you"],
+        "correct": 1,
+        "explain": "Đảo ngữ Only by."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "Keep the ______.",
+        "choices": ["change", "money", "cash", "coin"],
+        "correct": 0,
+        "explain": "Keep the change = Cứ giữ lấy tiền thừa."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "I would rather we ______ out tonight.",
+        "choices": ["eat", "ate", "eaten", "eating"],
+        "correct": 1,
+        "explain": "Would rather + S + V(quá khứ)."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "The dish contains ______ products.",
+        "choices": ["dairy", "daily", "diary", "daisy"],
+        "correct": 0,
+        "explain": "Dairy products = Sản phẩm từ sữa."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "It tastes ______.",
+        "choices": ["good", "well", "goodly", "goods"],
+        "correct": 0,
+        "explain": "Taste (liên động từ) + Adj (good)."
+      }
+    ]
+  },
+  {
+    "id": "test18",
+    "title": "Mini Test 18: Giải Trí & Nghệ Thuật",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "We bought tickets for the ______.",
+        "choices": ["perform", "performance", "performing", "performer"],
+        "correct": 1,
+        "explain": "Performance = Buổi biểu diễn."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "The movie was ______.",
+        "choices": ["bored", "boring", "bores", "bore"],
+        "correct": 1,
+        "explain": "Vật (movie) gây cảm giác -> Boring. (Người bị chán -> Bored)."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "The ______ applauded loudly.",
+        "choices": ["audience", "audio", "audit", "audition"],
+        "correct": 0,
+        "explain": "Audience = Khán giả."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "I enjoy ______ to music.",
+        "choices": ["listen", "to listen", "listening", "listened"],
+        "correct": 2,
+        "explain": "Enjoy + V-ing."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "The art ______ opens at 9.",
+        "choices": ["gallery", "galley", "galaxy", "gallop"],
+        "correct": 0,
+        "explain": "Art gallery = Triển lãm nghệ thuật."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "He is the actor ______ won the award.",
+        "choices": ["who", "whom", "which", "whose"],
+        "correct": 0,
+        "explain": "Who (chủ ngữ chỉ người)."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "General ______ is $10.",
+        "choices": ["admission", "admit", "admittance", "admitting"],
+        "correct": 0,
+        "explain": "General admission = Vé vào cửa phổ thông."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "It is worth ______ the museum.",
+        "choices": ["visit", "to visit", "visiting", "visited"],
+        "correct": 2,
+        "explain": "It is worth + V-ing."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "The band played a huge ______.",
+        "choices": ["concert", "concept", "concern", "concrete"],
+        "correct": 0,
+        "explain": "Concert = Buổi hòa nhạc."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "The more you practice, ______ you play.",
+        "choices": ["the better", "better", "best", "the best"],
+        "correct": 0,
+        "explain": "So sánh kép."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "She is a talented ______.",
+        "choices": ["music", "musical", "musician", "musically"],
+        "correct": 2,
+        "explain": "Musician = Nhạc sĩ/Nghệ sĩ."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "By the time we arrived, the show ______.",
+        "choices": ["started", "had started", "starts", "starting"],
+        "correct": 1,
+        "explain": "Quá khứ hoàn thành."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "The ______ was fully booked.",
+        "choices": ["venue", "revenue", "avenue", "menu"],
+        "correct": 0,
+        "explain": "Venue = Địa điểm tổ chức."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "Neither the film nor the book ______ interesting.",
+        "choices": ["was", "were", "are", "have"],
+        "correct": 0,
+        "explain": "Chia theo book (số ít) -> was."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "We sat in the front ______.",
+        "choices": ["row", "raw", "low", "bow"],
+        "correct": 0,
+        "explain": "Front row = Hàng ghế đầu."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "I wish I ______ draw.",
+        "choices": ["can", "could", "will", "may"],
+        "correct": 1,
+        "explain": "Wish + could."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "The ______ was sold out.",
+        "choices": ["exhibit", "exhibition", "exhibiting", "exhibited"],
+        "correct": 1,
+        "explain": "Exhibition = Triển lãm."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "He suggested ______ to the theater.",
+        "choices": ["go", "to go", "going", "gone"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "A ______ of modern art.",
+        "choices": ["collect", "collection", "collective", "collecting"],
+        "correct": 1,
+        "explain": "Collection = Bộ sưu tập."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "Hardly had the movie started ______ we slept.",
+        "choices": ["when", "than", "that", "after"],
+        "correct": 0,
+        "explain": "Hardly... when..."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "The ______ were stunning.",
+        "choices": ["visuals", "visual", "vision", "visible"],
+        "correct": 0,
+        "explain": "Visuals = Hình ảnh/Hiệu ứng thị giác."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "He asked if I ______ the play.",
+        "choices": ["like", "liked", "liking", "likes"],
+        "correct": 1,
+        "explain": "Câu tường thuật lùi thì."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "The play received good ______.",
+        "choices": ["reviews", "views", "previews", "overviews"],
+        "correct": 0,
+        "explain": "Reviews = Bài đánh giá/Nhận xét."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "Not only ______ funny, but it was also touching.",
+        "choices": ["was it", "it was", "is it", "it is"],
+        "correct": 0,
+        "explain": "Đảo ngữ Not only."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "She is ______ about painting.",
+        "choices": ["passion", "passionate", "passive", "passing"],
+        "correct": 1,
+        "explain": "Passionate about = Đam mê về."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "Only by practicing ______ improve.",
+        "choices": ["you can", "can you", "you will", "will you"],
+        "correct": 1,
+        "explain": "Đảo ngữ Only by."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "The ______ scene was amazing.",
+        "choices": ["open", "opening", "opened", "opener"],
+        "correct": 1,
+        "explain": "Opening scene = Cảnh mở màn."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "I would rather you ______ sing.",
+        "choices": ["don't", "didn't", "won't", "not"],
+        "correct": 1,
+        "explain": "Would rather + S + V(quá khứ)."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "It is a ______.",
+        "choices": ["masterpiece", "master", "piece", "peace"],
+        "correct": 0,
+        "explain": "Masterpiece = Kiệt tác."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "It sounds ______.",
+        "choices": ["great", "greatly", "greatness", "grate"],
+        "correct": 0,
+        "explain": "Sound (liên động từ) + Adj."
+      }
+    ]
+  },
+  {
+    "id": "test19",
+    "title": "Mini Test 19: Kinh Tế & Thương Mại Quốc Tế",
+    "duration": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "We need to ______ our market presence.",
+        "choices": ["strength", "strong", "strengthen", "strongly"],
+        "correct": 2,
+        "explain": "Strengthen (động từ) = Củng cố/Tăng cường."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "The CEO, ______ speech was inspiring, sat next to me.",
+        "choices": ["who", "whom", "which", "whose"],
+        "correct": 3,
+        "explain": "Whose speech = Bài phát biểu của ông ấy (Sở hữu)."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "The merger will create significant ______.",
+        "choices": ["synergy", "energy", "allergy", "lethargy"],
+        "correct": 0,
+        "explain": "Synergy = Sự hiệp lực/Tương hỗ (1+1>2)."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "It is vital that the contract ______ signed today.",
+        "choices": ["be", "is", "was", "are"],
+        "correct": 0,
+        "explain": "Giả định thức: S + V nguyên thể (be)."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "We adhere to strict ______ standards.",
+        "choices": ["ethic", "ethics", "ethical", "ethically"],
+        "correct": 2,
+        "explain": "Ethical standards = Chuẩn mực đạo đức."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "Hardly ______ the news when he called.",
+        "choices": ["I heard", "had I heard", "did I hear", "I had heard"],
+        "correct": 1,
+        "explain": "Đảo ngữ: Hardly had I heard... when..."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "The shipment is in ______.",
+        "choices": ["transit", "transition", "translate", "transmit"],
+        "correct": 0,
+        "explain": "In transit = Đang trên đường vận chuyển."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "The higher the risk, ______ the return.",
+        "choices": ["high", "higher", "the higher", "the highest"],
+        "correct": 2,
+        "explain": "So sánh kép: The... the..."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "Please ______ the invoice attached.",
+        "choices": ["find", "search", "look", "watch"],
+        "correct": 0,
+        "explain": "Please find attached = Vui lòng xem đính kèm."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "If I ______ the boss, I would fire him.",
+        "choices": ["am", "was", "were", "be"],
+        "correct": 2,
+        "explain": "Điều kiện loại 2."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "We need to ______ expenses.",
+        "choices": ["curtail", "curtain", "current", "curve"],
+        "correct": 0,
+        "explain": "Curtail expenses = Cắt giảm chi phí."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "By 2030, we ______ our goals.",
+        "choices": [
+          "achieve",
+          "will achieve",
+          "will have achieved",
+          "achieved"
+        ],
+        "correct": 2,
+        "explain": "Tương lai hoàn thành."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "The ______ was highly profitable.",
+        "choices": ["venture", "adventure", "vent", "invent"],
+        "correct": 0,
+        "explain": "Venture = Dự án kinh doanh/Liên doanh."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "Neither the price nor the quality ______ satisfactory.",
+        "choices": ["is", "are", "were", "have"],
+        "correct": 0,
+        "explain": "Chia theo quality (số ít) -> is."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "He is a ______ consultant.",
+        "choices": ["freelance", "free", "freedom", "freely"],
+        "correct": 0,
+        "explain": "Freelance consultant = Tư vấn tự do."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "I wish I ______ invested in Bitcoin.",
+        "choices": ["have", "had", "will", "would"],
+        "correct": 1,
+        "explain": "Wish + Past Perfect (Tiếc nuối quá khứ)."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "The ______ rate is 5%.",
+        "choices": ["interesting", "interest", "interested", "interests"],
+        "correct": 1,
+        "explain": "Interest rate = Lãi suất."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "He suggested ______ the deal.",
+        "choices": ["close", "to close", "closing", "closed"],
+        "correct": 2,
+        "explain": "Suggest + V-ing."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "We need to ______ the risks.",
+        "choices": ["mitigate", "mitigation", "migrate", "imitate"],
+        "correct": 0,
+        "explain": "Mitigate risks = Giảm thiểu rủi ro."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "Not until Monday ______ open.",
+        "choices": [
+          "the office does",
+          "does the office",
+          "is the office",
+          "the office is"
+        ],
+        "correct": 1,
+        "explain": "Đảo ngữ Not until."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "The ______ is strictly confidential.",
+        "choices": ["memo", "memory", "memorial", "memorize"],
+        "correct": 0,
+        "explain": "Memo = Thông báo nội bộ."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "He asked if I ______ the terms.",
+        "choices": ["accept", "accepted", "accepting", "accepts"],
+        "correct": 1,
+        "explain": "Câu tường thuật lùi thì."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "Ensure ______ with local laws.",
+        "choices": ["comply", "compliance", "compliant", "complaint"],
+        "correct": 1,
+        "explain": "Compliance with = Sự tuân thủ."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "Only by innovating ______ survive.",
+        "choices": ["we can", "can we", "we will", "will we"],
+        "correct": 1,
+        "explain": "Đảo ngữ Only by."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "The stock market ______ yesterday.",
+        "choices": ["plunge", "plunged", "plunging", "plunges"],
+        "correct": 1,
+        "explain": "Plunged = Lao dốc (Quá khứ)."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "I would rather you ______ sign anything yet.",
+        "choices": ["don't", "didn't", "won't", "not"],
+        "correct": 1,
+        "explain": "Would rather + S + V(quá khứ)."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "The ______ for the project is tight.",
+        "choices": ["deadline", "line", "dead", "limit"],
+        "correct": 0,
+        "explain": "Deadline = Hạn chót."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "Had I known, I ______ told you.",
+        "choices": ["would", "will have", "would have", "had"],
+        "correct": 2,
+        "explain": "Điều kiện loại 3."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "Negotiations reached a ______.",
+        "choices": ["stalemate", "state", "mate", "stale"],
+        "correct": 0,
+        "explain": "Stalemate = Bế tắc."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "There is ______ hope left.",
+        "choices": ["few", "a few", "little", "many"],
+        "correct": 2,
+        "explain": "Hope không đếm được -> Little (Hầu như không còn)."
+      }
+    ]
+  },
+  {
+    "id": "test20",
+    "title": "Mini Test 20: Thử Thách nho nhỏ (Advanced)",
+    "duration": 25,
+    "questions": [
+      {
+        "id": 1,
+        "type": "vocab",
+        "text": "The decision was made ______.",
+        "choices": ["unanimous", "unanimously", "anonymous", "anonymously"],
+        "correct": 1,
+        "explain": "Unanimously = Nhất trí (100% đồng ý)."
+      },
+      {
+        "id": 2,
+        "type": "grammar",
+        "text": "Scarcely had he spoken ______ he regretted it.",
+        "choices": ["when", "than", "that", "after"],
+        "correct": 0,
+        "explain": "Scarcely... when..."
+      },
+      {
+        "id": 3,
+        "type": "vocab",
+        "text": "The figures show a ______ improvement.",
+        "choices": [
+          "substance",
+          "substantial",
+          "substantially",
+          "substantiate"
+        ],
+        "correct": 1,
+        "explain": "Substantial = Đáng kể."
+      },
+      {
+        "id": 4,
+        "type": "grammar",
+        "text": "______ for your help, I would have failed.",
+        "choices": ["If it", "Had it", "But", "Had it not been"],
+        "correct": 3,
+        "explain": "Had it not been for = Nếu không nhờ có..."
+      },
+      {
+        "id": 5,
+        "type": "vocab",
+        "text": "We need to ______ the pain.",
+        "choices": ["alleviate", "elevate", "allocate", "alienate"],
+        "correct": 0,
+        "explain": "Alleviate = Làm dịu/Giảm bớt."
+      },
+      {
+        "id": 6,
+        "type": "grammar",
+        "text": "Not until he left ______ I feel safe.",
+        "choices": ["did", "do", "had", "was"],
+        "correct": 0,
+        "explain": "Not until... did I..."
+      },
+      {
+        "id": 7,
+        "type": "vocab",
+        "text": "There is a ______ in the accounts.",
+        "choices": ["discrepancy", "discretion", "decrease", "decency"],
+        "correct": 0,
+        "explain": "Discrepancy = Sự sai lệch/Không nhất quán."
+      },
+      {
+        "id": 8,
+        "type": "grammar",
+        "text": "Whatever ______ , stay calm.",
+        "choices": ["happen", "happens", "happened", "happening"],
+        "correct": 1,
+        "explain": "Whatever happens = Dù chuyện gì xảy ra."
+      },
+      {
+        "id": 9,
+        "type": "vocab",
+        "text": "The schedule is ______.",
+        "choices": ["tentative", "intent", "tension", "tendency"],
+        "correct": 0,
+        "explain": "Tentative = Dự kiến (chưa chính thức)."
+      },
+      {
+        "id": 10,
+        "type": "grammar",
+        "text": "Were I ______ to go, I would refuse.",
+        "choices": ["tell", "told", "telling", "tells"],
+        "correct": 1,
+        "explain": "Bị động điều kiện loại 2 đảo ngữ: Were I told (Nếu tôi bị bảo phải đi)."
+      },
+      {
+        "id": 11,
+        "type": "vocab",
+        "text": "Submit receipts for ______.",
+        "choices": ["reimburse", "reimbursement", "reimbursed", "burst"],
+        "correct": 1,
+        "explain": "Reimbursement = Sự hoàn tiền/thanh toán công tác phí."
+      },
+      {
+        "id": 12,
+        "type": "grammar",
+        "text": "By the time you get this, I ______.",
+        "choices": ["leave", "will leave", "will have left", "left"],
+        "correct": 2,
+        "explain": "Tương lai hoàn thành."
+      },
+      {
+        "id": 13,
+        "type": "vocab",
+        "text": "This move is ______.",
+        "choices": ["precedent", "unprecedented", "president", "precede"],
+        "correct": 1,
+        "explain": "Unprecedented = Chưa từng có tiền lệ."
+      },
+      {
+        "id": 14,
+        "type": "grammar",
+        "text": "______ that he was tired, he kept working.",
+        "choices": ["Despite", "Although", "In spite", "Even"],
+        "correct": 0,
+        "explain": "Despite the fact that... (Rút gọn 'the fact' vẫn hiểu ngầm hoặc Despite + Noun Clause)."
+      },
+      {
+        "id": 15,
+        "type": "vocab",
+        "text": "We aim to ______ communication.",
+        "choices": ["facility", "facilitate", "facile", "face"],
+        "correct": 1,
+        "explain": "Facilitate = Tạo điều kiện thuận lợi."
+      },
+      {
+        "id": 16,
+        "type": "grammar",
+        "text": "Should you ______ assistance, call us.",
+        "choices": ["need", "needed", "needing", "needs"],
+        "correct": 0,
+        "explain": "Đảo ngữ điều kiện loại 1: Should + S + V(nguyên thể)."
+      },
+      {
+        "id": 17,
+        "type": "vocab",
+        "text": "The list is not ______.",
+        "choices": ["comprehend", "comprehensive", "comprehension", "compress"],
+        "correct": 1,
+        "explain": "Comprehensive = Bao quát/Toàn diện."
+      },
+      {
+        "id": 18,
+        "type": "grammar",
+        "text": "Little ______ about the surprise.",
+        "choices": ["he knew", "did he know", "he knows", "does he know"],
+        "correct": 1,
+        "explain": "Đảo ngữ Little."
+      },
+      {
+        "id": 19,
+        "type": "vocab",
+        "text": "Check the ______ for flight details.",
+        "choices": ["itinerary", "item", "iteration", "iterant"],
+        "correct": 0,
+        "explain": "Itinerary = Lịch trình."
+      },
+      {
+        "id": 20,
+        "type": "grammar",
+        "text": "He speaks as if he ______ an expert.",
+        "choices": ["is", "were", "was", "has been"],
+        "correct": 1,
+        "explain": "As if + Were (giả định)."
+      },
+      {
+        "id": 21,
+        "type": "vocab",
+        "text": "The project is in ______.",
+        "choices": ["jeopardy", "jeopardize", "leopard", "jar"],
+        "correct": 0,
+        "explain": "In jeopardy = Đang lâm nguy/Có nguy cơ thất bại."
+      },
+      {
+        "id": 22,
+        "type": "grammar",
+        "text": "On no account ______ you touch this.",
+        "choices": ["should", "would", "will", "can"],
+        "correct": 0,
+        "explain": "On no account should... (Tuyệt đối không)."
+      },
+      {
+        "id": 23,
+        "type": "vocab",
+        "text": "This rule is ______ to everyone.",
+        "choices": ["apply", "applicant", "applicable", "application"],
+        "correct": 2,
+        "explain": "Applicable to = Áp dụng cho."
+      },
+      {
+        "id": 24,
+        "type": "grammar",
+        "text": "The person to ______ I spoke was nice.",
+        "choices": ["who", "whom", "that", "which"],
+        "correct": 1,
+        "explain": "To whom (Giới từ + whom)."
+      },
+      {
+        "id": 25,
+        "type": "vocab",
+        "text": "We need to ______ the workflow.",
+        "choices": ["optimize", "optimist", "optimal", "optimum"],
+        "correct": 0,
+        "explain": "Optimize = Tối ưu hóa."
+      },
+      {
+        "id": 26,
+        "type": "grammar",
+        "text": "Only after the meeting ______ announce it.",
+        "choices": ["we will", "will we", "we did", "did we"],
+        "correct": 1,
+        "explain": "Đảo ngữ Only after."
+      },
+      {
+        "id": 27,
+        "type": "vocab",
+        "text": "The error was ______.",
+        "choices": ["advertent", "inadvertent", "advertise", "avert"],
+        "correct": 1,
+        "explain": "Inadvertent = Vô tình/Không cố ý."
+      },
+      {
+        "id": 28,
+        "type": "grammar",
+        "text": "No sooner ______ arrived than he left.",
+        "choices": ["he had", "had he", "did he", "he did"],
+        "correct": 1,
+        "explain": "No sooner had he..."
+      },
+      {
+        "id": 29,
+        "type": "vocab",
+        "text": "Please ______ the document.",
+        "choices": ["scrutinize", "scrutiny", "screen", "screw"],
+        "correct": 0,
+        "explain": "Scrutinize = Xem xét kỹ lưỡng."
+      },
+      {
+        "id": 30,
+        "type": "grammar",
+        "text": "If need ______, I will come.",
+        "choices": ["be", "is", "was", "were"],
+        "correct": 0,
+        "explain": "Cụm cố định: If need be = Nếu cần thiết."
+      }
+    ]
+  }
+]
